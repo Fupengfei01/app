@@ -1,0 +1,33 @@
+<link rel="stylesheet" type="text/css" href="../css/z-details.css"/>
+<link rel="stylesheet" type="text/css" href="../src/font/iconfont.css"/>
+<section class="zDetails">
+	<header class="z-header ">
+		<a href="javascript:history.go(-1);"><span class="icon iconfont icon-llmainpageback" ></span></a>
+		<span class="lesson">课程详情</span>
+		<span class="icon iconfont icon-0107tuijianshangcheng"></span>
+		<span class="icon iconfont icon-iconfontshenqingdaren"></span>
+	</header>
+	<video controls ng-src="" id="myvideo"></video>
+	<span ng-show="aflag" class="icon iconfont icon-bofang1" id="play" ng-click="playvideo()"></span>
+	<img ng-show="imgflag" ng-src="" id="myimg"/>
+	<section class="content clearfix">	
+		<div class="contents">
+			<div class="top">
+				<h1 ng-bind="itemsZ.courseName"></h1>
+				<img ng-src="{{itemsZ.master.avatar}}" />
+				<div class="author" ng-bind="itemsZ.masterName"></div>
+				<div class="mark" ng-bind="itemsZ.masterTitle"></div>
+			</div>
+			<ul >
+				<li ng-repeat="item in items track by $index" viodata={{item.videoSrc}} picdata={{item.poster}} ng-click="btn(item.videoSrc)">
+					<span class="icon iconfont" id="shey">&#xe647;</span>
+					<div class="detail">
+						<p class="vtitle" ng-bind="item.videoName"></p>
+						<div class="vlength" ng-bind="time(item.videoLength)"></div>
+					</div>
+					<span class="icon iconfont" id="bofang">&#xf0013;</span>
+				</li>
+			</ul>
+		</div>	
+	</section>
+</section>

@@ -1,0 +1,145 @@
+body {
+  font-family: "Microsoft yahei";
+}
+
+section {
+  width: 100%;
+  height: 100%;
+}
+
+section .meet-title {
+  width: 100%;
+  height: 1.25rem;
+  padding: 0 0.34375rem 0 0.609375rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+section .meet-title i {
+  height: 100%;
+  font-size: 0.5625rem;
+  line-height: 1.15625rem;
+  color: #ffffff;
+}
+
+section .meet-title .backdel {
+  width: 0.40625rem;
+}
+
+section .meet-title .null {
+  width: 5.796875rem;
+}
+
+section .meet-title .coment {
+  width: 1.125rem;
+}
+
+section .meet-title .collect {
+  width: 1.21875rem;
+}
+
+section .meet-title .shareit {
+  width: 0.484375rem;
+}
+
+section .meet-cont {
+  width: 100%;
+  height: 15.84375rem;
+  border-radius: 0.0625rem;
+  background: #ebf2f8;
+  padding: 0.328125rem 0.25rem 0 0.25rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+#four-headers {
+  position: fixed;
+  width: 9.5rem;
+  height: 2.25rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: nowrap;
+  -ms-flex-flow: nowrap;
+  flex-flow: nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-shadow: 0 0.015625rem 0.03125rem rgba(0, 0, 0, 0.1);
+  box-shadow: 0 0.015625rem 0.03125rem rgba(0, 0, 0, 0.1);
+  border-bottom: solid 0.015625rem #D0D8EB;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  z-index: 1000;
+}
+
+#four-headers .header-box {
+  position: relative;
+  background-color: white;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+#four-headers .name {
+  width: 100%;
+  line-height: 0.265625rem;
+  position: absolute;
+  left: 0;
+  top: 0.21875rem;
+  text-align: center;
+  font-size: 0.265625rem;
+  color: #969696;
+}
+
+#four-headers .ava-box {
+  position: relative;
+}
+
+#four-headers .avatar {
+  width: 0.703125rem;
+  height: 0.703125rem;
+  display: block;
+  border-radius: 0.359375rem;
+}
+
+#four-headers .heart {
+  width: 0.46875rem;
+  height: 0.421875rem;
+  position: absolute;
+  bottom: 0.07125rem;
+  right: 0.171875rem;
+}
+
+#four-headers .votes {
+  width: 100%;
+  line-height: 0.265625rem;
+  position: absolute;
+  bottom: 0.234375rem;
+  text-align: center;
+  font-size: 0.265625rem;
+  color: #646464;
+  left: 0;
+}

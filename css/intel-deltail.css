@@ -1,0 +1,188 @@
+@import url(../src/css/mobile.css);
+
+body {
+  font-family: "Microsoft yahei";
+}
+
+section {
+  width: 100%;
+  height: 100%;
+}
+
+section .head-info {
+  width: 100%;
+  height: 10rem;
+  position: relative;
+  color: #ffffff;
+}
+
+section .head-info .goback {
+  position: absolute;
+  top: 1.03125rem;
+  left: 0.5rem;
+  height: 0.59375rem;
+  width: 0.359375rem;
+  font-size: 0.59375rem;
+}
+
+section .head-info img {
+  height: 10rem;
+  width: 10rem;
+  background: #ffc900;
+}
+
+section .head-info .follow {
+  position: absolute;
+  top: 0.953125rem;
+  right: 0.46875rem;
+  width: 0.6875rem;
+  height: 0.78125rem;
+  font-size: 0.78125rem;
+}
+
+section .head-info span {
+  position: absolute;
+  top: 2.09375rem;
+  right: 0.171875rem;
+  font-size: 0.28125rem;
+}
+
+section .introduce {
+  width: 100%;
+  background: #5a6fa5;
+  padding-bottom: 0.46875rem;
+}
+
+section .introduce .person-intro {
+  width: 100%;
+  padding: 0.484375rem 0.484375rem 0 0.703125rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: #ffffff;
+  position: relative;
+}
+
+section .introduce .person-intro .title-intro {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+section .introduce .person-intro .title-intro h2 {
+  width: auto;
+  height: 1.078125rem;
+  line-height: 1.078125rem;
+  margin-right: 0.4375rem;
+  font-size: 0.59375rem;
+  color: #ffffff;
+}
+
+section .introduce .person-intro .title-intro em {
+  display: block;
+  padding-top: 0.234375rem;
+  height: 0.6875rem;
+  line-height: 0.6875rem;
+  font-style: normal;
+}
+
+section .introduce .person-intro .title-intro p {
+  border-top: 0.03125rem solid #9ca9c8;
+  padding: 0.03125rem 0;
+  font-size: 0.34375rem;
+  line-height: 0.5rem;
+}
+
+section .introduce .works {
+  position: relative;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 0 0.21875rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+section .introduce .works .look-more {
+  width: 1.890625rem;
+  margin-right: 0.328125rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 0.625rem;
+  line-height: 0.625rem;
+  position: absolute;
+  top: -1.296875rem;
+  right: 0;
+}
+
+section .introduce .works .look-more span {
+  width: 1.46875rem;
+  font-size: 0.3125rem;
+}
+
+section .introduce .works .look-more i {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  font-size: 0.25rem;
+}
+
+section .introduce .works .work-cont {
+  width: 100%;
+  margin-top: 1.296875rem;
+  border-radius: 0.125rem;
+  background: #ffffff;
+  padding-top: 0.25rem;
+}
+
+section .introduce .works .work-cont h3 {
+  height: 0.546875rem;
+  line-height: 0.546875rem;
+  font-size: 0.34375rem;
+  border-left: 0.0625rem solid #404d6f;
+  padding-left: 0.296875rem;
+  color: #818181;
+  margin-bottom: 0.25rem;
+}
+
+section .introduce .works .work-cont .work-list {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: wrap;
+  -ms-flex-flow: wrap;
+  flex-flow: wrap;
+}
+
+section .introduce .works .work-cont .work-list .work-item {
+  width: 50%;
+  height: 5.828125rem;
+  padding: 0 0.28125rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+section .introduce .works .work-cont .work-list .work-item img {
+  width: 100%;
+  height: 4.21875rem;
+  border-radius: 0.0625rem;
+  background: yellow;
+}
+
+section .introduce .works .work-cont .work-list .work-item p {
+  margin-top: 0.078125rem;
+  height: 0.890625rem;
+  line-height: 0.4375rem;
+  font-size: 0.34375rem;
+  color: #212121;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  white-space: pre-wrap;
+}

@@ -1,0 +1,35 @@
+<link rel="stylesheet" type="text/css" href="../css/intel-deltail.css">
+<section>
+    <div class="head-info">
+        <i class="iconfont goback" ng-click="goBackIntel()">&#x3484;</i>
+        <img ng-src="{{master.bannerPic}}">
+        <i class="iconfont follow">&#xe660;</i>
+        <span >{{master.followers}}&nbsp;关注</span>
+    </div>
+    <div class="introduce">
+        <div class="person-intro">
+            <div class="title-intro">
+                <h2>{{master.name}}</h2><em>{{master.title}}</em>
+            </div>
+            <p>{{master.fullDesc}}</p>
+        </div>
+        <div class="works">
+            <div class="look-more">
+                <span>查看更多</span>
+                <i class="iconfont">&#xe615;</i>
+            </div>
+            <div class="work-cont">
+                <h3>达人作品</h3>
+                <div class="work-list">
+                    <div class="work-item" ng-click="goSub($event)" ng-repeat="about in abouts" url="{{about.goUrl}}" live-id="{{about.action}}">
+                        <img ng-src="{{about.introPic}}">
+                        <p><span>[{{about.category}}]</span>{{about.liveTopic}}</p>
+                    </div>
+
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>

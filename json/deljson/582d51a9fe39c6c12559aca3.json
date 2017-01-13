@@ -1,0 +1,181 @@
+{"code": 0,
+  "data": {
+    "master": {
+      "_id": "582d51a9fe39c6c12559aca3",
+      "avatar": "http://static.donguo.me/avatar/20161117/c5d43b159361f295bee86dacbf679eff",
+      "bannerPic": "http://static.donguo.me/banner/20161117/7f7930783b2ba9fe7350476d09c544d3",
+      "name": "泡泡妈妈",
+      "mTags": "全职妈妈 英语启蒙",
+      "desc": "曾任高校英语教师的全职妈妈，专心育儿，从小对宝宝进行英语启蒙教育，颇有心得。",
+      "fullDesc": "我是孩子的全能外挂，曾任高校英语教师多年。在陪伴孩子成长的过程中，对无跨国背景家庭中“低龄幼儿的英语启蒙”有最直观的体会，并累积了实用有效的方法技巧。",
+      "title": "英语启蒙全职妈妈 ",
+      "points": 0,
+      "createTime": 1479365033780,
+      "followers": 248,
+      "type": 1,
+      "gender": 1
+    },
+    "abouts": [
+      {
+        "_id": "582d5b46d6f70fa3255c896f",
+        "introPic": "http://static.donguo.me/banner/20161117/0fc13f8456a67b7384e49849f0208a9c",
+        "bannerPic": "http://static.donguo.me/banner/20161117/0fc13f8456a67b7384e49849f0208a9c",
+        "liveTopic": "婴幼儿英语启蒙三大法宝：书、音频、妈妈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=582166f556c7112213bd64d7",
+        "category": "达人谈",
+        "tags": "英语启蒙",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582166f556c7112213bd64d7&liveId=582d5b46d6f70fa3255c896f",
+        "score": -1,
+        "updateTime": 1483672582097,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161117/c5d43b159361f295bee86dacbf679eff",
+            "bannerPic": "http://static.donguo.me/banner/20161117/7f7930783b2ba9fe7350476d09c544d3",
+            "name": "泡泡妈妈",
+            "desc": "曾任高校英语教师的全职妈妈，专心育儿，从小对宝宝进行英语启蒙教育，颇有心得。",
+            "fullDesc": "我是孩子的全能外挂，曾任高校英语教师多年。在陪伴孩子成长的过程中，对无跨国背景家庭中“低龄幼儿的英语启蒙”有最直观的体会，并累积了实用有效的方法技巧。",
+            "title": "英语启蒙全职妈妈 ",
+            "masterId": "582d51a9fe39c6c12559aca3",
+            "likesForThisLive": 211
+          }
+        ]
+      },
+      {
+        "_id": "58325352b2fe9f2612a93a23",
+        "introPic": "http://static.donguo.me/intro/20161121/4da97ba9185d25ac89af887956d5f25e",
+        "bannerPic": "http://static.donguo.me/banner/20161121/97da21262bbfee7f114242319f13e5c7",
+        "liveTopic": "读英语绘本的大学问",
+        "score": 0,
+        "category": "圆桌会",
+        "tags": "英语启蒙",
+        "audioSrc": "http://static.donguo.me/audio/ip/live/11.18yuanzhuo.mp3",
+        "__v": 7,
+        "action": "weilaidao://ip.code/radio?liveId=58325352b2fe9f2612a93a23",
+        "updateTime": 1483672582098,
+        "topComments": [
+          {
+            "_id": "583e960089a7e64e0ff917fd",
+            "attachedId": "5832545bad0cf7e720107dbe",
+            "content": "不错",
+            "attachedType": "live_item",
+            "__v": 1,
+            "createTime": 1480496640113,
+            "likedUsers": [
+              "580da49e1d128d2855c80a87"
+            ],
+            "likes": 1,
+            "sender": {
+              "senderId": "580da49e1d128d2855c80a87",
+              "name": "。。",
+              "avatar": "http://static.donguo.me/580da49e1d128d2855c80a87/20161130/580da49e1d128d2855c80a871480491686388"
+            }
+          },
+          {
+            "_id": "583ee07ebacaa87378ef9006",
+            "attachedId": "58325403ab44595d5eda90bd",
+            "content": "楼上的小朋友家长说得对！",
+            "attachedType": "live_item",
+            "__v": 1,
+            "createTime": 1480515710466,
+            "likedUsers": [
+              "585d3d32fd9782954bb2bea7"
+            ],
+            "likes": 1,
+            "sender": {
+              "senderId": "57ba6702f9e80ee07ad8be69",
+              "name": "止戈她爹",
+              "avatar": "http://static.donguo.me/57ba6702f9e80ee07ad8be69/20161130/57ba6702f9e80ee07ad8be691480515426966"
+            }
+          },
+          {
+            "__v": 0,
+            "attachedId": "58325403ab44595d5eda90bd",
+            "content": "其实安排好时间，双语环境不会影响孩子的母语",
+            "attachedType": "live_item",
+            "_id": "583266b8ad0cf7e720107dcf",
+            "createTime": 1479698104580,
+            "likedUsers": [],
+            "likes": 0,
+            "sender": {
+              "senderId": "57ba99edf9e80ee07ad8be6f",
+              "name": "谢啊哥",
+              "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161118/57ba99edf9e80ee07ad8be6f1479453447153"
+            }
+          },
+          {
+            "__v": 0,
+            "attachedId": "58325479ab44595d5eda90c0",
+            "content": "我自己就备着一套英语绘本的书单",
+            "attachedType": "live_item",
+            "brief": "丰富的英文绘本推荐",
+            "_id": "583266ddad0cf7e720107dd0",
+            "createTime": 1479698141190,
+            "likedUsers": [],
+            "likes": 0,
+            "sender": {
+              "senderId": "57ba99edf9e80ee07ad8be6f",
+              "name": "谢啊哥",
+              "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161118/57ba99edf9e80ee07ad8be6f1479453447153"
+            }
+          }
+        ],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161117/c5d43b159361f295bee86dacbf679eff",
+            "bannerPic": "http://static.donguo.me/banner/20161117/7f7930783b2ba9fe7350476d09c544d3",
+            "name": "泡泡妈妈",
+            "desc": "曾任高校英语教师的全职妈妈，专心育儿，从小对宝宝进行英语启蒙教育，颇有心得。",
+            "fullDesc": "我是孩子的全能外挂，曾任高校英语教师多年。在陪伴孩子成长的过程中，对无跨国背景家庭中“低龄幼儿的英语启蒙”有最直观的体会，并累积了实用有效的方法技巧。",
+            "title": "英语启蒙全职妈妈 ",
+            "masterId": "582d51a9fe39c6c12559aca3",
+            "likesForThisLive": 211
+          },
+          {
+            "name": "清雏",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghuiQC1.jpg",
+            "title": "留学专家",
+            "desc": "武汉大学硕士；国家公派美国匹兹堡大学交流学者，孔子学院教师；10年英语教学经验、在职高校讲师，雅思托福教师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghuiQC2.jpg",
+            "fullDesc": "武汉大学硕士，美国匹兹堡大学交流学者，在职高校讲师，雅思托福教师，多年中美学校实战教学经验，编写出版多本英语启蒙类教材，发表多篇核心期刊论文。",
+            "masterId": "5792093853b687d0352ec65f",
+            "likesForThisLive": 351
+          }
+        ]
+      },
+      {
+        "_id": "58328102ab44595d5eda9149",
+        "introPic": "http://static.donguo.me/banner/20161121/92fe65d2c5e5103b1a1ace5d16a784ea",
+        "bannerPic": "http://static.donguo.me/banner/20161121/92fe65d2c5e5103b1a1ace5d16a784ea",
+        "tags": "英语启蒙",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=58327734b2fe9f2612a93a41",
+        "liveTopic": "跟唱英文童谣学英语：Puff puff，peep peep，off we go！",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58327734b2fe9f2612a93a41&liveId=58328102ab44595d5eda9149",
+        "score": -1,
+        "updateTime": 1483672582104,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161117/c5d43b159361f295bee86dacbf679eff",
+            "bannerPic": "http://static.donguo.me/banner/20161117/7f7930783b2ba9fe7350476d09c544d3",
+            "name": "泡泡妈妈",
+            "desc": "曾任高校英语教师的全职妈妈，专心育儿，从小对宝宝进行英语启蒙教育，颇有心得。",
+            "fullDesc": "我是孩子的全能外挂，曾任高校英语教师多年。在陪伴孩子成长的过程中，对无跨国背景家庭中“低龄幼儿的英语启蒙”有最直观的体会，并累积了实用有效的方法技巧。",
+            "title": "英语启蒙全职妈妈 ",
+            "masterId": "582d51a9fe39c6c12559aca3",
+            "likesForThisLive": 211
+          }
+        ]
+      }
+    ]
+  }
+}

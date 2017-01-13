@@ -1,0 +1,21 @@
+<link href="../css/listenEveryDay.css" rel="stylesheet" type="text/css"/>
+<link rel="stylesheet" href="../src/ionic/css/ionic.min.css">
+<section>
+    <div class="title">
+        <a class="iconfont icon-llmainpageback" href="javascript:history.go(-1);"> </a>
+        <h2>
+            收听列表
+        </h2>
+    </div>
+    <div class="lists">
+    	<ion-content>
+	        <ion-refresher on-refresh="doRefresh()" pulling-text="下拉刷新">
+	        </ion-refresher>
+	        <ion-list>
+	            <ul class="talking">
+	                <li ng-bind="listenname.name" ng-repeat="listenname in listenlist"></li>
+	            </ul>
+	        </ion-list>
+	    </ion-content>
+    </div>
+</section>

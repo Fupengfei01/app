@@ -1,0 +1,843 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "57cf78892afebe4964c3d26f",
+      "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+      "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+      "name": "王木头",
+      "title": "儿童科普达人",
+      "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+      "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+      "mTags": "科学 自然 宇宙 天文 地理",
+      "points": 0,
+      "createTime": 1473214601702,
+      "followers": 241,
+      "type": 1,
+      "gender": 1
+    },
+    "abouts": [
+      {
+        "_id": "57cf85dcec605f0f64777a96",
+        "introPic": "http://static.donguo.me/intro/20160907/baa19d48398e44e8293d18b77603b679",
+        "bannerPic": "http://static.donguo.me/banner/20160907/2a32a778ac1804353c373010e3ffb4d8",
+        "score": 100,
+        "liveTopic": "给孩子的科普，不是冷知识大全",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57cf802bec605f0f64777a77",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57cf802bec605f0f64777a77&liveId=57cf85dcec605f0f64777a96",
+        "tags": "自然科学",
+        "updateTime": 1483672484731,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+            "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+            "name": "王木头",
+            "title": "儿童科普达人",
+            "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+            "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+            "masterId": "57cf78892afebe4964c3d26f",
+            "likesForThisLive": 542
+          }
+        ]
+      },
+      {
+        "_id": "58243af11f7237d45d7df271",
+        "introPic": "http://static.donguo.me/intro/20161110/8afc77fb41a7d701134301a66011081d",
+        "bannerPic": "http://static.donguo.me/banner/20161110/b0835ca219b8f9a6dcd09a82f3a58f6d",
+        "liveTopic": "给孩子讲的:行星与罗马神话",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5823eb091f7237d45d7df252",
+        "tags": "自然科学",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5823eb091f7237d45d7df252&liveId=58243af11f7237d45d7df271",
+        "score": 0,
+        "updateTime": 1483672484732,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+            "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+            "name": "王木头",
+            "title": "儿童科普达人",
+            "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+            "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+            "masterId": "57cf78892afebe4964c3d26f",
+            "likesForThisLive": 542
+          }
+        ]
+      },
+      {
+        "_id": "58243c561f7237d45d7df273",
+        "introPic": "http://static.donguo.me/intro/20161110/e8070585664e44156b8e89c36faf5061",
+        "bannerPic": "http://static.donguo.me/banner/20161110/08640e4ba0164eb8a7bef9384f539f22",
+        "liveTopic": "明明在发烧，为什么却会感觉到冷？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5824137f1f7237d45d7df26d",
+        "tags": "自然科学",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5824137f1f7237d45d7df26d&liveId=58243c561f7237d45d7df273",
+        "score": 0,
+        "updateTime": 1483672484733,
+        "topComments": [],
+        "commentCount": 1,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+            "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+            "name": "王木头",
+            "title": "儿童科普达人",
+            "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+            "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+            "masterId": "57cf78892afebe4964c3d26f",
+            "likesForThisLive": 542
+          }
+        ]
+      },
+      {
+        "_id": "57cf7894ca7e0af263f28042",
+        "bannerPic": "http://static.donguo.me/banner/20161223/85bd0ed24c92c700d96010db25f7fb2c",
+        "introPic": "http://static.donguo.me/intro/20161223/f1f653c804c60b0df7b0a7be6d3fa892",
+        "hidden": false,
+        "score": -2,
+        "courseName": "木头哥哥讲科学：宇宙漫游指南",
+        "shortDesc": "认识宇宙，不仅仅是学习科学知识，也是让孩子树立更高的视野、更开阔的心胸和豁达的性情",
+        "price": "免费体验",
+        "originalPrice": 99,
+        "category": "自然科学",
+        "master": {
+          "masterId": "57cf78892afebe4964c3d26f",
+          "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+          "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+          "title": "儿童科普达人",
+          "name": "王木头",
+          "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525"
+        },
+        "masterName": "王木头",
+        "masterTitle": "儿童科普达人",
+        "masterId": "57cf78892afebe4964c3d26f",
+        "boughtCount": 0,
+        "__v": 0,
+        "action": "weilaidao://ip.code/course?courseId=57cf7894ca7e0af263f28042",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=57cf7894ca7e0af263f28042",
+        "hasCurriculum": true,
+        "curriculumType": "audio",
+        "tags": "自然科学",
+        "audience": "children",
+        "updateTime": 1483338360236,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//audio/ip/course/universe1.m4a",
+            "poster": "http://static.donguo.me/image/jpg/univer_1.jpg",
+            "videoLength": 581000,
+            "videoName": "1、好想自己动手做一个宇宙",
+            "_id": "58048b3eaba58817205464aa",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//audio/ip/course/universe2.m4a",
+            "poster": "http://static.donguo.me/image/jpg/univer_1.jpg",
+            "videoLength": 663000,
+            "videoName": "2、用12个月看尽宇宙138亿年",
+            "_id": "58048b3eaba58817205464a9",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//audio/ip/course/universe3.m4a",
+            "poster": "http://static.donguo.me/image/jpg/univer_1.jpg",
+            "videoLength": 462000,
+            "videoName": "3、宇宙大爆炸留下的味道",
+            "_id": "58048b3eaba58817205464a8",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//audio/ip/course/universe4.m4a",
+            "poster": "http://static.donguo.me/image/jpg/univer_1.jpg",
+            "videoLength": 440000,
+            "videoName": "4、宇宙的边界",
+            "_id": "58048b3eaba58817205464a7",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//audio/ip/course/universe5.m4a",
+            "poster": "http://static.donguo.me/image/jpg/univer_1.jpg",
+            "videoLength": 462000,
+            "videoName": "5、真正的太空旅行是什么样子",
+            "_id": "58048b3eaba58817205464a6",
+            "qSets": []
+          }
+        ],
+        "commentCount": 10,
+        "registerCount": 49,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160907/65fec6c13df4b632ba4a4262c29ec168",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57cf7b22ec605f0f64777a6a",
+            "goHome": true
+          },
+          {
+            "type": "title",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "课程简介",
+            "_id": "57cf7b22ec605f0f64777a69"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "1、万事万物都是宇宙的一部分",
+            "_id": "57cf7b22ec605f0f64777a68"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "细菌、动植物、人类、地球、太阳系、银河系……从最小到最大，都是宇宙的一部分。而构成我们身体的物质和能量，或许来自几十万年前的超新星爆发。\n\n对宇宙的探索，涉及了很多学科：物理学、化学、数学、哲学……了解宇宙的过程，既开拓了孩子的视野，增长了科学知识，也帮助孩子巩固和拓展在学校所学的知识。\n",
+            "_id": "57cf7b22ec605f0f64777a67"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160907/87ae74a09e936911db246cf92c6a599e",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57cf7b22ec605f0f64777a66"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "2、认识宇宙，培养开阔的心胸",
+            "_id": "57cf7b22ec605f0f64777a65"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "人类只有在浩瀚无边的宇宙面前，才能体验到自身的脆弱和渺小，以及人类的不平凡和伟大。\n\n而对孩子来说，对宇宙探索的过程，会深刻影响到他们的世界观、人生观和价值观。体会到宇宙的浩瀚，孩子会拥有更高的视野，以及更加开阔的心胸和乐观豁达的性情。\n",
+            "_id": "57cf7b22ec605f0f64777a64"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160907/656eec20510aea395911f71e6ef43264",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57cf7b22ec605f0f64777a63"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "3、木头老师带来的宇宙说",
+            "_id": "57cf7b22ec605f0f64777a62"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "在该系列课程中，木头老师以《万物简史》这本科普书的知识脉络为基础，根据小朋友的喜好，用孩子能够理解的词汇，以聊天的形式带领孩子探索宇宙这个未知的领域。\n\n从宇宙大爆炸开始，木头老师会带领孩子回溯宇宙138亿年的历史，缓缓道来，小小地球上的小小人类，是如何观察和探索宇宙的边界，人类又是如何进行太空旅行……\n",
+            "_id": "57cf7b22ec605f0f64777a61"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/393b5871b02c0bb426b15cbef04e273f",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57cf7b22ec605f0f64777a60"
+          }
+        ],
+        "participants": [
+          {
+            "userName": "好",
+            "phoneNumber": "18862945629",
+            "_id": "581aa54d36036cd363a30146"
+          }
+        ],
+        "isHit": false
+      },
+      {
+        "_id": "583d2492fe92c073224fcf10",
+        "bannerPic": "http://static.donguo.me/banner/20161208/a111d837afb609bcff7ab5f05932b99e",
+        "introPic": "http://static.donguo.me/intro/20161208/f2112fc50fd458c2a4bb44cfc7570e26",
+        "hidden": false,
+        "courseName": "天文与希腊神话",
+        "shortDesc": "天文学中的希腊神话，太阳系中的每个行星，都对应一个希腊神话人物",
+        "category": "自然科学",
+        "curriculumType": "audio",
+        "tags": "自然科学",
+        "score": -4,
+        "hasCurriculum": true,
+        "master": {
+          "masterId": "57cf78892afebe4964c3d26f",
+          "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+          "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+          "title": "儿童科普达人",
+          "name": "王木头",
+          "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525"
+        },
+        "masterName": "王木头",
+        "masterTitle": "儿童科普达人",
+        "masterId": "57cf78892afebe4964c3d26f",
+        "__v": 0,
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=583d2492fe92c073224fcf10",
+        "audience": "children",
+        "updateTime": 1483537106755,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__01.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 458000,
+            "videoName": "希腊众神的诞生",
+            "_id": "583d2fe35b3c4e7b53908278",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__02.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 414000,
+            "videoName": "三代天空之神与三颗星球",
+            "_id": "583d2fe35b3c4e7b53908277",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__03.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 407000,
+            "videoName": "三个女神的故事，三个星球的女神",
+            "_id": "583d2fe35b3c4e7b53908276",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__04.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 311000,
+            "videoName": "太阳神、月亮神与两个消失的星球",
+            "_id": "583d2fe35b3c4e7b53908275",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__05.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 262000,
+            "videoName": "太阳和月亮的新神阿波罗和阿尔忒弥",
+            "_id": "583d2fe35b3c4e7b53908274",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__06.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 302000,
+            "videoName": "神中的快递员赫耳墨斯",
+            "_id": "583d2fe35b3c4e7b53908273",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__07.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 253000,
+            "videoName": "地球的左邻右里爱神纳爱斯和战神马尔斯",
+            "_id": "583d2fe35b3c4e7b53908272",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__08.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 236000,
+            "videoName": "火神赫淮斯托斯",
+            "_id": "583d2fe35b3c4e7b53908271",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__09.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 277000,
+            "videoName": "爱神与战神的孩子们",
+            "_id": "583d2fe35b3c4e7b53908270",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/listen/201611229__10.mp3",
+            "poster": "http://static.donguo.me/image/jpg/%E5%85%AB%E5%A4%A7%E8%A1%8C%E6%98%9F%EF%BC%88%E6%B5%B7%E6%8A%A5%EF%BC%89.jpg",
+            "videoLength": 361000,
+            "videoName": "神奇女神雅典娜",
+            "_id": "583d2fe35b3c4e7b5390826f",
+            "qSets": []
+          }
+        ],
+        "commentCount": 5,
+        "registerCount": 0,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161129/0836f455402c656ad93e6077c2afc6c4",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "goHome": true,
+            "_id": "583d26aa5b3c4e7b53908252"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161129/1b56116faba307260a2ba9b3c74a1636",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "583d26aa5b3c4e7b53908251"
+          },
+          {
+            "type": "title",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "课程简介",
+            "_id": "583d2eafa5a908ca20dea833"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "太阳系有八大行星，这几个星球都有一个神和一种金属与之对应。\n\n太阳系中很多星球的名字是用罗马神话中神的名字来命名的。\n\n罗马神话中的神和希腊神话中的神基本上都是一样的，只是叫的名字不同。\n\n在讲述太阳系与希腊神话故事的关系时，我会用他们的希腊名字来称呼之。",
+            "_id": "583d26aa5b3c4e7b53908250"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161129/fa49eae1414af13eb983ece56f9f45b5",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "583d26aa5b3c4e7b5390824f",
+            "goHome": true
+          },
+          {
+            "type": "title",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "课程内容",
+            "_id": "583d2eafa5a908ca20dea832"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第一课：希腊众神的诞生",
+            "_id": "583d2eafa5a908ca20dea831"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第一个女神盖亚，三代天空之神乌拉诺斯、克洛诺斯和宙斯相继登场。",
+            "_id": "583d2eafa5a908ca20dea830"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第二课：三代天空之神与三颗星球",
+            "_id": "583d2eafa5a908ca20dea82f"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "三代天空之神，分别对应三个行星，他们之间是什么关系呢？又为何要如此安排呢？",
+            "_id": "583d2eafa5a908ca20dea82e"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第三课：三个女神的故事，三个星球的女神",
+            "_id": "583d2eafa5a908ca20dea82d"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "德墨忒尔、赫斯提亚和赫拉，猜一下哪一个希腊女神和奥运圣火有关？",
+            "_id": "583d2eafa5a908ca20dea82c"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第四课：太阳神、月亮神与两个消失的星球",
+            "_id": "583d2eafa5a908ca20dea82b"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "太阳神和月亮神是兄妹，他们还有一个姐妹叫做欧若拉。太阳神的孩子和月亮神的母亲又是谁呢？",
+            "_id": "583d2eafa5a908ca20dea82a"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第五课：太阳和月亮的新神阿波罗和阿尔忒弥",
+            "_id": "583d2eafa5a908ca20dea829"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "有人说：太阳神是赫利俄斯，月亮神是塞勒涅，又有人说：太阳神是阿波罗，月亮神是阿尔忒弥斯，到底是怎么回事呢？",
+            "_id": "583d2eafa5a908ca20dea828"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第六课：神中的快递员赫耳墨斯",
+            "_id": "583d2eafa5a908ca20dea827"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "赫尔墨斯，罗马名字叫做墨丘利，是希腊神话里面速度最快的神，水星也是太阳系里面速度最快的行星。",
+            "_id": "583d2eafa5a908ca20dea826"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第七课：地球的左邻右里爱神纳爱斯和战神马尔斯",
+            "_id": "583d2eafa5a908ca20dea825"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "金星和火星是我们地球的左邻右里，与这两颗星球对应的神非常有名，分别是阿芙洛狄忒和阿瑞斯，他们的罗马名字更是耳熟能详......",
+            "_id": "583d2eafa5a908ca20dea824"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第八课：火神赫淮斯托斯",
+            "_id": "583d2eafa5a908ca20dea823"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "火山这个单词VOLCANO，就是来自于赫淮斯托斯的罗马名字武尔坎努斯，他就住在火山中......",
+            "_id": "583d2eafa5a908ca20dea822"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第九课：爱神与战神的孩子们",
+            "_id": "583d2eafa5a908ca20dea821"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "爱神和战神的孩子们都有自己的星球，分别是爱神星、火卫一和火卫二。",
+            "_id": "583d2eafa5a908ca20dea820"
+          },
+          {
+            "type": "subTitle",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "第十课：神奇女神雅典娜",
+            "_id": "583d2eafa5a908ca20dea81f"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "雅典娜！没错！就是那个被圣斗士保护着，紫色长发的纱织小姐。",
+            "_id": "583d2eafa5a908ca20dea81e"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161129/212b5188802fd9b4879174a927ecd9ba",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "goHome": true,
+            "_id": "583d26aa5b3c4e7b5390824e"
+          }
+        ],
+        "participants": [],
+        "isHit": false
+      },
+      {
+        "_id": "58465b12f1c51b824c5590c5",
+        "bannerPic": "http://static.donguo.me/banner/20161208/c450bc8cc5d5d6ca2d38e7eeaacdb363",
+        "introPic": "http://static.donguo.me/intro/20161208/48330e0fd0501ddf0f84f1a32517ee23",
+        "hidden": false,
+        "courseName": "地球历史上的五次生物大灭绝",
+        "shortDesc": "没有一次次的生物大灭绝，人类无法成为万物之长，然而是否有一天人类也会走上灭绝的命运呢？",
+        "category": "自然科学",
+        "hasCurriculum": true,
+        "curriculumType": "video",
+        "tags": "自然科学",
+        "master": {
+          "masterId": "57cf78892afebe4964c3d26f",
+          "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+          "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+          "title": "儿童科普达人",
+          "name": "王木头",
+          "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525"
+        },
+        "masterName": "王木头",
+        "masterTitle": "儿童科普达人",
+        "masterId": "57cf78892afebe4964c3d26f",
+        "__v": 0,
+        "action": "weilaidao://ip.code/course?courseId=58465b12f1c51b824c5590c5",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=58465b12f1c51b824c5590c5",
+        "score": -2,
+        "audience": "children",
+        "updateTime": 1483114855772,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/5mj1.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/5mj1.jpg",
+            "videoLength": 518000,
+            "videoName": "1、第五次生物大灭绝：恐龙的灭绝VS人类的崛起",
+            "_id": "58466bc7723eab9179f63b0a",
+            "qSets": [
+              {
+                "qSetId": "584e691bc7b1ffd202ddf8b2",
+                "sTime": 78000,
+                "_id": "58511fc5c0c996ef6e8d9af4"
+              },
+              {
+                "qSetId": "584fbda8ecab44b50763ed50",
+                "sTime": 101000,
+                "_id": "58511fc5c0c996ef6e8d9af3"
+              },
+              {
+                "qSetId": "584fe05cecab44b50763ee71",
+                "sTime": -1,
+                "_id": "58511fc5c0c996ef6e8d9af2"
+              },
+              {
+                "qSetId": "585b89346b181c8f771a7e63",
+                "sTime": 279000,
+                "_id": "585b8dd7c02677b077a1df2c"
+              }
+            ]
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/5mj2.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/5mj2.jpg",
+            "videoLength": 235000,
+            "videoName": "2、第四次生物大灭绝：史前巨鳄的灭绝VS恐龙的崛起",
+            "_id": "58466bc7723eab9179f63b09",
+            "qSets": [
+              {
+                "qSetId": "585b8054948578f177b04040",
+                "sTime": 164000,
+                "_id": "585b82e2972df0de6946cbbf"
+              },
+              {
+                "qSetId": "585b82a16475f0d177a56bdd",
+                "sTime": -1,
+                "_id": "585b82e2972df0de6946cbbe"
+              }
+            ]
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/5mj3.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/5mj3.jpg",
+            "videoLength": 433000,
+            "videoName": "3、第三次生物大灭绝：三叶虫、异齿龙的灭绝",
+            "_id": "58466bc7723eab9179f63b08",
+            "qSets": [
+              {
+                "qSetId": "585b885c6b181c8f771a7e5d",
+                "sTime": 261000,
+                "_id": "585b8dd7c02677b077a1df2b"
+              },
+              {
+                "qSetId": "585b897fc02677b077a1def7",
+                "sTime": 371000,
+                "_id": "585b8dd7c02677b077a1df2a"
+              },
+              {
+                "qSetId": "585b89cb6475f0d177a56bfa",
+                "sTime": -1,
+                "_id": "585b8dd7c02677b077a1df29"
+              }
+            ]
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/5mj4.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/5mj4.jpg",
+            "videoLength": 370000,
+            "videoName": "4、第二次生物大灭绝：疯狂的植物VS海洋生物大灭绝",
+            "_id": "58466bc7723eab9179f63b07",
+            "qSets": [
+              {
+                "qSetId": "585b8a08c02677b077a1defd",
+                "sTime": 185000,
+                "_id": "585b8dd7c02677b077a1df28"
+              },
+              {
+                "qSetId": "585b8a4687654dc369663f1f",
+                "sTime": 356000,
+                "_id": "585b8dd7c02677b077a1df27"
+              },
+              {
+                "qSetId": "585b8d6f972df0de6946cbce",
+                "sTime": -1,
+                "_id": "585b8dd7c02677b077a1df26"
+              }
+            ]
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/5mj5.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/5mj5.jpg",
+            "videoLength": 420000,
+            "videoName": "5、第一次生物大灭绝：大陆的漂移VS海洋生物大灭绝",
+            "_id": "58466bc7723eab9179f63b06",
+            "qSets": [
+              {
+                "qSetId": "585b8a7d948578f177b0404c",
+                "sTime": 223000,
+                "_id": "585b8dd7c02677b077a1df25"
+              },
+              {
+                "qSetId": "585b8acbc02677b077a1df03",
+                "sTime": -1,
+                "_id": "585b8dd7c02677b077a1df24"
+              }
+            ]
+          }
+        ],
+        "commentCount": 6,
+        "registerCount": 0,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161206/61bafc329e0d85b4f1a8a85607e7d44b",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "58465bb233844e3d799c7dd0"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "自从5亿年前地球上出现生命，就进入了一种循环：每隔一段时间就会发生一场生物灭绝的大事件，原有的生物霸主灭绝，从而为新的物种腾出发展的空间。\n",
+            "_id": "58465bb233844e3d799c7dcf"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161206/bf7a50096572f83e7636e855fd83060c",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "58465c6cd3d1449d4c1306f9"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "按照时间由近及远，历史上的生物大灭绝主要有五次：\n\n◎ 第五次生物大灭绝：\n恐龙的灭绝VS人类的崛起\n\n◎ 第四次生物大灭绝：\n史前巨鳄的灭绝VS恐龙的崛起\n\n◎ 第三次生物大灭绝：\n三叶虫、异齿龙的灭绝\n\n◎ 第二次生物大灭绝：\n疯狂的植物VS海洋生物大灭绝\n\n◎ 第一次生物大灭绝：\n大陆的漂移VS海洋生物大灭绝\n",
+            "_id": "58465bb233844e3d799c7dce"
+          },
+          {
+            "type": "text",
+            "imgUrl": "",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "也正是借由这五次大灭绝，最终人类登上了历史的舞台，成为了万物之长。\n\n在此次课程中，木头哥哥将按照上述的时间顺序，向孩子们娓娓道来，人类是如何从一次次生物大灭绝中生存下来，并称霸了大自然；以及人类目前正在面临的生存危机。\n",
+            "_id": "58465bb233844e3d799c7dcd"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161206/8e80a2e4c9a63273d6eafd58e7d90595",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "58465bb233844e3d799c7dcc"
+          }
+        ],
+        "participants": [],
+        "isHit": false
+      }
+    ]
+  }
+}

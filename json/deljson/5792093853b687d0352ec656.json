@@ -1,0 +1,489 @@
+{"code": 0,
+  "data": {
+    "master": {
+      "_id": "5792093853b687d0352ec656",
+      "name": "冯颖",
+      "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+      "title": "畅销书作家",
+      "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+      "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+      "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+      "mTags": "二胎妈妈 心理咨询师 作家",
+      "points": 0,
+      "createTime": 1471835057607,
+      "followers": 310,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "578e1e7a87dd2a86c4360043",
+        "liveTopic": "生育二宝需要得到大宝的同意吗？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160818/c1e784c3063d47d0a9f8e7f2b152a7c6",
+        "bannerPic": "http://static.donguo.me/banner/20161013/32e354d343c8301d22bf271eccdd7917",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=578e1e7a87dd2a86c4360043",
+        "tags": "心灵成长",
+        "updateTime": 1483671796837,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Lilya",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/LL1.JPG",
+            "title": "亲子教育专家",
+            "desc": "80后二宝妈，互联网资深运营，做过亲子杂志，当过心理咨询师，兼过专栏作家，虽然不是个好脾气的妈妈，但却是最懂孩子的妈妈。",
+            "bannerPic": "http://static.donguo.me/banner/20160823/f15968fec2798659e3b0201869c35181",
+            "fullDesc": "毕业于复旦大学，国家二级心理咨询师，主要研究方向为儿童发展心理学。80后二宝妈，家有10岁及3岁小公主两枚，曾带孩子游学欧洲，旅居英国，深谙中外教育差异。",
+            "masterId": "5792093853b687d0352ec657",
+            "likesForThisLive": 1018
+          },
+          {
+            "name": "Victoria",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/VT1.jpg",
+            "title": "资深外企HR",
+            "desc": "达人妈妈，14年外企HR工作经验，\n孩子们从出生到现在从未离开过妈妈身边。\n妈妈从生下宝宝后也从未停止过自己的工作。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/VT2.jpg",
+            "fullDesc": "14年外企HR工作经验，两个孩子的妈妈，孩子们从出生到现在从未离开过妈妈，妈妈从生下宝宝后也从未停止过自己的工作。在她看来，每一个孩子都是一个独立的个体。",
+            "masterId": "5792093853b687d0352ec658",
+            "likesForThisLive": 430
+          },
+          {
+            "name": "二宝爸",
+            "avatar": "http://static.donguo.me/avatar/20160822/dab0544cc061a300f06067edd49aa911",
+            "title": "资深媒体人",
+            "desc": "报纸的头版编辑，育儿用品购物狂，养育二孩，白天带娃晚上工作的超级奶爸。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/fe9fec330a305e5e2be45e3277de19d7",
+            "fullDesc": "奇葩二宝爸， 交大理工男，日报头版编辑，育儿用品购物狂，白天在家里伺候孩子，晚上在报社伺候版面；奶爸界最会码字的，码字界最会带娃的。",
+            "masterId": "5792093853b687d0352ec652",
+            "likesForThisLive": 527
+          },
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "likesForThisLive": 307
+          }
+        ]
+      },
+      {
+        "_id": "57a7e05526cfd82b677dddd0",
+        "liveTopic": "二孩爸爸，因信任而进步，因成长而胜任！",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/image/ip/darentan/DX20.jpeg",
+        "bannerPic": "http://static.donguo.me/image/ip/darentan/DB9.jpg",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e8608cd2928ebb0c0cb50d",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e8608cd2928ebb0c0cb50d&liveId=57a7e05526cfd82b677dddd0",
+        "tags": "心灵成长",
+        "updateTime": 1483671796838,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "likesForThisLive": 244
+          }
+        ]
+      },
+      {
+        "_id": "57d00d1110710d747ed58942",
+        "introPic": "http://static.donguo.me/intro/20160907/2e644ac0e407f6d155968213570f31e9",
+        "bannerPic": "http://static.donguo.me/banner/20161013/8d3486c738b1ac741ad4218e4807d935",
+        "liveTopic": "教师节，到底要不要送礼？",
+        "category": "圆桌会",
+        "__v": 0,
+        "action": "weilaidao://ip.code/roundtable?liveId=57d00d1110710d747ed58942",
+        "score": 100,
+        "tags": "心灵成长",
+        "updateTime": 1483671796839,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Windy",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/Windy.JPG",
+            "title": "小学班主任",
+            "desc": "徐汇实验小学二年级班主任。",
+            "fullDesc": "徐汇实验小学班主任，曾任教康城实验学校，包玉刚实验学校，注重学生全面发展，培养学生阅读、动手能力，采用积分激励和启发教育，教学方式深受学生和家长喜爱。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/IntroWindy.jpg",
+            "masterId": "57988aad5dd3002f0e362a69",
+            "likesForThisLive": 551
+          },
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "likesForThisLive": 246
+          },
+          {
+            "avatar": "http://static.donguo.me/avatar/20160907/fd348404322252cd9154d56822b61bf6",
+            "bannerPic": "http://static.donguo.me/banner/20160912/4aae92713589fc092b4f28b0f94c11e2",
+            "name": "树妈",
+            "desc": "P.E.T.父母效能训练总部（GTI）认证讲师，国家二级心理咨询师，儿童沙游师。",
+            "title": "心理咨询师妈妈",
+            "fullDesc": "P.E.T.父母效能训练总部（GTI）认证讲师，国家二级心理咨询师，儿童沙游师，出版亲子育儿作品《把最好的自己给孩子》，育儿公众号《凯叔讲故事》特约撰稿人。",
+            "masterId": "57d017947eaf2cd77ef2355e",
+            "likesForThisLive": 38
+          }
+        ]
+      },
+      {
+        "_id": "57eb6dce5de111760a49cc00",
+        "introPic": "http://static.donguo.me/intro/20160928/ba975c36a4bd9fecb1e331069efd2113",
+        "bannerPic": "http://static.donguo.me/banner/20160928/070c7054090272ef6837d5ef2aa480b6",
+        "liveTopic": "天哪，我居然带着两个孩子去旅行！",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57eb34463a5630940a6fedbf",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57eb34463a5630940a6fedbf&liveId=57eb6dce5de111760a49cc00",
+        "score": 100,
+        "tags": "心灵成长",
+        "updateTime": 1483671796840,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "likesForThisLive": 244
+          }
+        ]
+      },
+      {
+        "_id": "5836e1a2bb58f44f65873c4f",
+        "introPic": "http://static.donguo.me/intro/20161124/03b7e8ccfffcff7cb300b9fd750b11ab",
+        "bannerPic": "http://static.donguo.me/banner/20161128/2f2afb1f22badcf7320d4daf00dbab1c",
+        "liveTopic": "二胎打架，劝还是不劝？",
+        "score": 0,
+        "category": "圆桌会",
+        "tags": "心灵成长",
+        "audioSrc": "http://static.donguo.me/audio/ip/live/11.25yuanzhuo.mp3",
+        "__v": 8,
+        "action": "weilaidao://ip.code/radio?liveId=5836e1a2bb58f44f65873c4f",
+        "updateTime": 1483671796841,
+        "topComments": [
+          {
+            "__v": 1,
+            "brief": "老大强烈要求",
+            "attachedType": "live_item",
+            "content": "孩子打架，真不好办",
+            "attachedId": "5837bcfb801311fb0e27b6da",
+            "_id": "583f800422f582120e2931ca",
+            "createTime": 1480556548539,
+            "likedUsers": [
+              "583f7f4264a5ec40739318df"
+            ],
+            "likes": 1,
+            "sender": {
+              "name": "考拉1480556354902",
+              "senderId": "583f7f4264a5ec40739318df"
+            }
+          },
+          {
+            "__v": 0,
+            "attachedId": "5837bca8f8a6d7737e39319e",
+            "content": "打架太正常了，就是需要爸妈的态度保持中立，不可以偏袒！",
+            "attachedType": "live_item",
+            "_id": "583b9917a79292184dad2bad",
+            "createTime": 1480300823612,
+            "likedUsers": [],
+            "likes": 0,
+            "sender": {
+              "senderId": "57ba99edf9e80ee07ad8be6f",
+              "name": "谢啊哥",
+              "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161125/57ba99edf9e80ee07ad8be6f1480061318522"
+            }
+          },
+          {
+            "__v": 0,
+            "attachedId": "5837bcfb801311fb0e27b6da",
+            "content": "还是希望给大宝有个伴的多啊",
+            "attachedType": "live_item",
+            "brief": "老大强烈要求",
+            "_id": "583b99232ebba11870d14cb9",
+            "createTime": 1480300835805,
+            "likedUsers": [],
+            "likes": 0,
+            "sender": {
+              "senderId": "5837f10c6da4794656d0ba83",
+              "name": "考拉1480061196594"
+            }
+          },
+          {
+            "__v": 0,
+            "attachedId": "5837bcfb801311fb0e27b6da",
+            "content": "哈哈，也是有爱！",
+            "attachedType": "live_item",
+            "brief": "老大强烈要求",
+            "_id": "583b9935a79292184dad2bae",
+            "createTime": 1480300853529,
+            "likedUsers": [],
+            "likes": 0,
+            "sender": {
+              "senderId": "57ba99edf9e80ee07ad8be6f",
+              "name": "谢啊哥",
+              "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161125/57ba99edf9e80ee07ad8be6f1480061318522"
+            }
+          }
+        ],
+        "commentCount": 7,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Lilya",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/LL1.JPG",
+            "title": "亲子教育专家",
+            "desc": "80后二宝妈，互联网资深运营，做过亲子杂志，当过心理咨询师，兼过专栏作家，虽然不是个好脾气的妈妈，但却是最懂孩子的妈妈。",
+            "bannerPic": "http://static.donguo.me/banner/20160823/f15968fec2798659e3b0201869c35181",
+            "fullDesc": "毕业于复旦大学，国家二级心理咨询师，主要研究方向为儿童发展心理学。80后二宝妈，家有10岁及3岁小公主两枚，曾带孩子游学欧洲，旅居英国，深谙中外教育差异。",
+            "masterId": "5792093853b687d0352ec657",
+            "_id": "583b9fcba5a908ca20dea703",
+            "likesForThisLive": 962
+          },
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "_id": "583b9fcba5a908ca20dea702",
+            "likesForThisLive": 244
+          }
+        ]
+      },
+      {
+        "_id": "583ba4d97dd4a5b020e5aee5",
+        "introPic": "http://static.donguo.me/banner/20161128/57a3e99ced7aaf49fe72a080904784e3",
+        "bannerPic": "http://static.donguo.me/banner/20161128/57a3e99ced7aaf49fe72a080904784e3",
+        "liveTopic": "冲突，孩子成长的必修课",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=583675d8c2477976653096c5",
+        "category": "达人谈",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D583675d8c2477976653096c5&liveId=583ba4d97dd4a5b020e5aee5",
+        "score": -1,
+        "updateTime": 1483671796845,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "_id": "584e132d103d3d4e4d94101e",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "583ba5527dd4a5b020e5aee7",
+        "introPic": "http://static.donguo.me/banner/20161128/d566f00d0d724ae3d683d967551049fc",
+        "bannerPic": "http://static.donguo.me/banner/20161128/d566f00d0d724ae3d683d967551049fc",
+        "score": -1,
+        "liveTopic": "停止帮倒忙，让孩子们用自己的方式解决问题！",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=583675ef757b9e793ac89172",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D583675ef757b9e793ac89172&liveId=583ba5527dd4a5b020e5aee7",
+        "updateTime": 1483671796846,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "_id": "585cd98e948578f177b04495",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "583ba58a2ebba11870d14cbf",
+        "introPic": "http://static.donguo.me/banner/20161128/018ced83bb6cbf6b75af27fa2a89285e",
+        "bannerPic": "http://static.donguo.me/banner/20161128/018ced83bb6cbf6b75af27fa2a89285e",
+        "score": -1,
+        "liveTopic": "当孩子们打架时，愤怒的究竟是谁？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=58367602757b9e793ac89173",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58367602757b9e793ac89173&liveId=583ba58a2ebba11870d14cbf",
+        "updateTime": 1483671796846,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "_id": "585cd99efffe73995c304843",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "583ba5cc7dd4a5b020e5aee9",
+        "introPic": "http://static.donguo.me/banner/20161128/ce61a6ec9355424e08ac61903bd636e2",
+        "bannerPic": "http://static.donguo.me/banner/20161128/ce61a6ec9355424e08ac61903bd636e2",
+        "score": -1,
+        "liveTopic": "当我们遭遇两个孩子的分歧",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=583676129d74a4233a72564e",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D583676129d74a4233a72564e&liveId=583ba5cc7dd4a5b020e5aee9",
+        "updateTime": 1483671796847,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "冯颖",
+            "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+            "title": "畅销书作家",
+            "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/FY2.jpg",
+            "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+            "masterId": "5792093853b687d0352ec656",
+            "_id": "585cd9a3d9559c71395c8857",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "57a304ae9c00cf36611c6b9d",
+        "score": 100,
+        "courseName": "二孩时代，爸妈必须知道的事情",
+        "shortDesc": "知名育儿作家冯颖，带来的二孩养育精品课程",
+        "masterName": "冯颖",
+        "category": "家庭教育",
+        "introPic": "http://static.donguo.me/intro/20160819/a1deaf50881178937881c17385667ffe",
+        "bannerPic": "http://static.donguo.me/banner/20160819/b5eea9d20fa089d5c6bfc492b99ef359",
+        "price": "免费体验",
+        "originalPrice": 99,
+        "masterTitle": "畅销书作家",
+        "masterId": "5792093853b687d0352ec656",
+        "master": {
+          "masterId": "5792093853b687d0352ec656",
+          "fullDesc": "浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈，著有畅销书《二孩时代》，因其在二孩养育领域内持续地研究与传播，被誉为国内二孩养育第一人。",
+          "desc": "畅销书《二孩时代》作者，浙江大学心理学硕士，国家二级心理咨询师，两个男孩的妈妈。 ",
+          "title": "畅销书作家",
+          "avatar": "http://static.donguo.me/avatar/20160904/c5d83468b3b143357b4ac655177eed38",
+          "name": "冯颖"
+        },
+        "__v": 0,
+        "hasCurriculum": true,
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=57a304ae9c00cf36611c6b9d",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=57a304ae9c00cf36611c6b9d",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "curriculumType": "audio",
+        "tags": "心灵成长",
+        "hidden": false,
+        "audience": "parents",
+        "updateTime": 1483671796834,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/audio/ip/course/ertaixinlixue.mp3",
+            "poster": "",
+            "videoLength": 2592000,
+            "videoName": "二孩时代，妈妈一定要懂的心理学",
+            "_id": "58132e11428ce7b348e908ce",
+            "qSets": []
+          }
+        ],
+        "commentCount": 6,
+        "registerCount": 52,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "imgUrl": "http://static.donguo.me/image/ip/courseC_15_1.png",
+            "type": "image",
+            "_id": "57a304ae9c00cf36611c6ba0",
+            "goHome": true
+          },
+          {
+            "imgUrl": "http://static.donguo.me/image/20160914/5989defb1e725cd35612aef698c6ac5e",
+            "type": "image",
+            "_id": "57a304ae9c00cf36611c6b9f"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/bcb88441e1c269d92f4e4d0fe32cd9ec",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d93448876a15524bd340ad"
+          }
+        ],
+        "participants": [
+          {
+            "userName": "测试",
+            "phoneNumber": "123",
+            "_id": "5805895cc4fe83dd394310f5"
+          },
+          {
+            "userName": "测试1",
+            "phoneNumber": "测试2",
+            "_id": "58058eed6850a4fa3958ccdb"
+          },
+          {
+            "userName": "测试1",
+            "phoneNumber": "测试2",
+            "_id": "58058efaa20e31c039f4995f"
+          }
+        ],
+        "isHit": false
+      }
+    ]
+  }
+}

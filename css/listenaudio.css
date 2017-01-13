@@ -1,0 +1,26 @@
+header {
+  top: 0;
+  height: 1.40625rem;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+header h1 {
+  width: 3.125rem;
+  height: 1.40625rem;
+  margin: 0 auto;
+  line-height: 1.40625rem;
+  text-align: center;
+  font-size: 0.46875rem;
+  color: #fff;
+}
+
+header .iconfont {
+  position: absolute;
+  font-size: 0.625rem;
+  color: #fff;
+  line-height: 0.625rem;
+  top: 0.421875rem;
+  left: 0.421875rem;
+}

@@ -1,0 +1,335 @@
+@charset "UTF-8";
+
+@import url(../src/css/mobile.css);
+
+@import url(../css/home.css);
+
+body {
+  background: #4d6399;
+}
+
+body,
+html {
+  width: 100%;
+  height: 100%;
+  font-family: "微软雅黑";
+}
+
+.mybody {
+  background: -webkit-gradient(linear, left top, left bottom, from(#6373a5), color-stop(#bbc6da), to(#edf3f9));
+  background: -webkit-linear-gradient(#6373a5, #bbc6da, #edf3f9);
+  background: linear-gradient(#6373a5, #bbc6da, #edf3f9);
+}
+
+section {
+  width: 100%;
+  height: 100%;
+}
+
+section header {
+  top: 0;
+  height: 1.40625rem;
+  position: fixed;
+  width: 100%;
+  background: #586a9b;
+  z-index: 100;
+}
+
+section header span {
+  width: 5rem;
+  height: 100%;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  font-size: 0.40625rem;
+  text-align: center;
+  line-height: 1.40625rem;
+  color: #FFFFFF;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-bottom: 0.078125rem solid #FFFFFF;
+}
+
+section .mine {
+  top: 0;
+  height: 1.40625rem;
+  position: fixed;
+  width: 9.46875rem;
+  z-index: 100;
+  margin-left: 0.265625rem;
+}
+
+section .mine .icon {
+  width: 0.625rem;
+  height: 0.625rem;
+  font-size: 0.625rem;
+  color: #FFFFFF;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+section .mine b {
+  *display: inline;
+  *zoom: 1;
+  font-size: 0.46875rem;
+  color: #FFFFFF;
+  font-weight: 100;
+  line-height: 1.40625rem;
+  position: absolute;
+  right: 4.46875rem;
+}
+
+section div {
+  width: 100%;
+  height: 15.78125rem;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+section div input {
+  width: 7.90625rem;
+  height: 1.359375rem;
+  outline: none;
+  border: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0.015625rem solid #FFFFFF;
+  border-radius: 0.15625rem;
+  margin: 0.625rem 1.046875rem;
+  font-size: 0.5rem;
+  color: #c5c5c5;
+  text-indent: 2em;
+}
+
+section div button {
+  width: 7.90625rem;
+  height: 1.359375rem;
+  outline: none;
+  border: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0.0625rem solid #FFFFFF;
+  border-radius: 0.15625rem;
+  background: #5e72a3;
+  margin: 0.46875rem 1.046875rem;
+  color: #FFFFFF;
+  font-size: 0.40625rem;
+}
+
+section div button i {
+  width: 0.75rem;
+  height: 0.609375rem;
+  font-size: 0.609375rem;
+  color: #FFFFFF;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+section div a {
+  display: block;
+  font-size: 0.375rem;
+  color: #FFFFFF;
+  width: 100%;
+  height: 0.4375rem;
+  width: 4.6875rem;
+  margin-left: 2.65625rem;
+  margin-bottom: 2.03125rem;
+  text-align: center;
+}
+
+.content {
+  width: 9.46875rem;
+  height: 17.1875rem;
+  position: absolute;
+  left: 0.265625rem;
+  top: 1.40625rem;
+  background: #FFFFFF;
+  border-radius: 0.15625rem;
+}
+
+.content .skypic {
+  width: 9.46875rem;
+  height: 2.40625rem;
+  background: url(../img/sky.jpg) no-repeat;
+  background-size: 100% 100%;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.content .user {
+  height: 2.03125rem;
+  width: 100%;
+  position: absolute;
+  top: 2.390625rem;
+}
+
+.content .user dl {
+  height: 100%;
+  width: 100%;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.content .user dl dt {
+  width: 1.90625rem;
+  height: 1.875rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0.078125rem solid #FFFFFF;
+  border-radius: 50%;
+  margin-left: 3.75rem;
+  background: palegreen;
+  position: absolute;
+  top: -1.1875rem;
+}
+
+.content .user dl dd {
+  width: 100%;
+  height: 1.328125rem;
+  text-align: center;
+  line-height: 1.328125rem;
+  color: #6e6e6f;
+  font-size: 0.40625rem;
+  position: absolute;
+  bottom: 0;
+}
+
+.content .username {
+  width: 8.671875rem;
+  height: 13.28125rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border-top: 0.03125rem solid #edf3f9;
+  position: absolute;
+  top: 4.421875rem;
+  left: 0.390625rem;
+}
+
+.content .username ul {
+  width: 100%;
+}
+
+.content .username ul li {
+  height: 1.328125rem;
+  line-height: 1.328125rem;
+  margin-left: 0.3125rem;
+}
+
+.content .username ul li .icon {
+  width: 0.625rem;
+  height: 0.625rem;
+  font-size: 0.625rem;
+  margin-right: 0.34375rem;
+}
+
+.content .username ul li span {
+  font-size: 0.375rem;
+  color: #565556;
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+
+.trems {
+  width: 100%;
+  height: 53.125rem;
+  background: #091f5b;
+}
+
+.trems .count {
+  width: 9.46875rem;
+  height: 51.5625rem;
+  position: absolute;
+  left: 0.265625rem;
+  top: 0;
+  background: #FFFFFF;
+}
+
+.trems .count h1 {
+  font-size: 0.625rem;
+  position: absolute;
+  left: 1.5625rem;
+  top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+}
+
+.trems .count p {
+  color: #030816;
+  font-size: 0.34375rem;
+  text-indent: 2em;
+}
+
+.trems .count h4 {
+  position: absolute;
+  left: 5.46875rem;
+}
+
+.trems a {
+  color: #FFFFFF;
+  position: absolute;
+  bottom: -35.15625rem;
+  left: 1.25rem;
+}
+
+section .box {
+  width: 100%;
+  height: 15.625rem;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+section .box .form-group:nth-child(1) {
+  width: 7.90625rem;
+  height: 1.359375rem;
+  position: absolute;
+  top: 1.875rem;
+}
+
+section .box .form-group:nth-child(2) {
+  width: 7.90625rem;
+  height: 1.359375rem;
+  position: absolute;
+  top: 4.6875rem;
+}
+
+section .box .form-group:nth-child(3) {
+  width: 7.90625rem;
+  height: 1.359375rem;
+  position: absolute;
+  top: 7.5rem;
+}
+
+section .box button {
+  width: 7.90625rem;
+  height: 1.359375rem;
+  outline: none;
+  border: none;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  border: 0.0625rem solid #FFFFFF;
+  border-radius: 0.15625rem;
+  background: #5e72a3;
+  margin: 0.46875rem 1.046875rem;
+  color: #FFFFFF;
+  font-size: 0.40625rem;
+  position: absolute;
+  top: 10.625rem;
+}
+
+section .box .ahref {
+  font-size: 0.375rem;
+  color: #FFFFFF;
+  width: 100%;
+  height: 0.4375rem;
+  width: 4.6875rem;
+  margin-left: 2.65625rem;
+  margin-bottom: 2.03125rem;
+  text-align: center;
+  position: absolute;
+  top: 12.8125rem;
+}

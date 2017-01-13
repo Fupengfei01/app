@@ -1,0 +1,191 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "57adb18cbf78efd04ae67d47",
+      "name": "赵玉",
+      "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY1.jpg",
+      "title": "6Q智慧父母准导师",
+      "desc": "英国C&G认证 ITT国际培训师\n企业资深培训师\n6Q智慧父母准导师\nNLP执行师\n国家整体形象设计师师资培训师\n礼仪指导师\n《突破式沟通》课程认证讲师 ",
+      "fullDesc": "英国C&G认证 ITT国际培训师，6Q智慧父母准导师，NLP执行师，国家整体形象设计师师资培训师，在家庭教育领域，擅长智慧父母情商提高课程，善于运用情境式教学。",
+      "bannerPic": "http://static.donguo.me/banner/20161214/2d05a3beb3d10832f8bcbc13d12df416",
+      "mTags": "儿童情商 培训 教育",
+      "points": 0,
+      "createTime": 1471000972241,
+      "followers": 186,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "57b71f497989a14385111f79",
+        "liveTopic": "孩子被打，该不该打回去",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160918/5a8cd819f8e188a3d5c2d5eff8e21374",
+        "bannerPic": "http://static.donguo.me/image/ip/live/qipashuo&jiaoyuyuanzhuo/L13.jpeg",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=57b71f497989a14385111f79",
+        "tags": "心灵成长",
+        "updateTime": 1483672878576,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Windy",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/Windy.JPG",
+            "title": "小学班主任",
+            "desc": "徐汇实验小学二年级班主任。",
+            "fullDesc": "徐汇实验小学班主任，曾任教康城实验学校，包玉刚实验学校，注重学生全面发展，培养学生阅读、动手能力，采用积分激励和启发教育，教学方式深受学生和家长喜爱。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/IntroWindy.jpg",
+            "masterId": "57988aad5dd3002f0e362a69",
+            "likesForThisLive": 645
+          },
+          {
+            "name": "赵玉",
+            "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY1.jpg",
+            "title": "6Q智慧父母准导师",
+            "desc": "英国C&G认证 ITT国际培训师\n企业资深培训师\n6Q智慧父母准导师\nNLP执行师\n国家整体形象设计师师资培训师\n礼仪指导师\n《突破式沟通》课程认证讲师 ",
+            "fullDesc": "英国C&G认证 ITT国际培训师，6Q智慧父母准导师，NLP执行师，国家整体形象设计师师资培训师，在家庭教育领域，擅长智慧父母情商提高课程，善于运用情境式教学。",
+            "bannerPic": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY2.jpg",
+            "masterId": "57adb18cbf78efd04ae67d47",
+            "likesForThisLive": 868
+          },
+          {
+            "name": "阿怪",
+            "avatar": "http://static.donguo.me/avatar/20160822/bf128c3b77b6e59c593f3212b2bfb9cc",
+            "title": "手作妈妈达人",
+            "desc": "“怪”这个特征跟了我大半辈子，以至于现在有了笑姐，在自己的父母看来我都不是什么正经的娘。说到教育理念么，可以说是没有。我目前能做的只是观察笑姐喜欢什么，擅长什么，如果我能帮助她在她的兴趣领域里再上一个台阶的，我一定不遗余力。",
+            "fullDesc": "我的微博叫“阿怪_笑姐养成计划中”，我是阿怪，笑姐是我养的，我的教育理念就是观察笑姐喜欢什么，擅长什么，帮她在兴趣领域里再上一个台阶，我不遗余力。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/04f0e761c3822bd9f47d9e4638b509b0",
+            "masterId": "57adb18cbf78efd04ae67d44",
+            "likesForThisLive": 907
+          }
+        ]
+      },
+      {
+        "_id": "58130dc2aad49ffd48ef0780",
+        "introPic": "http://static.donguo.me/intro/20161028/e757f1fc797e2681133c21c7c824bafc",
+        "bannerPic": "http://static.donguo.me/banner/20161028/f327cf9aeeeda641374a332923c50a1c",
+        "score": 0,
+        "liveTopic": "父母如何做好孩子情商教育的第一步？",
+        "category": "圆桌会",
+        "goUrl": "",
+        "audioSrc": "http://static.donguo.me/audio/ip/live/10.28yuanzhuo.mp3",
+        "tags": "心灵成长",
+        "__v": 18,
+        "action": "weilaidao://ip.code/radio?liveId=58130dc2aad49ffd48ef0780",
+        "updateTime": 1483486729647,
+        "topComments": [
+          {
+            "_id": "5813303427d115d948e651fa",
+            "attachedId": "58130efc627a9d97480cac0c",
+            "content": "嗯，就应该是潜移默化的影响",
+            "attachedType": "live_item",
+            "brief": "没有比重可言",
+            "__v": 3,
+            "createTime": 1477652532832,
+            "likedUsers": [
+              "582433828494654341515dc6",
+              "58006f04224c9ee07ce8e2dd",
+              "586c35f41de963c9035df376"
+            ],
+            "likes": 3,
+            "sender": {
+              "senderId": "57ce2ae61369b64815e82093",
+              "name": "博弈",
+              "avatar": "http://static.donguo.me/57ce2ae61369b64815e82093/20160918/ac6549618eb3d7ea2c6a48e497fdeedc"
+            }
+          },
+          {
+            "__v": 1,
+            "attachedType": "live_item",
+            "content": "真的假的",
+            "attachedId": "58130eb9aad49ffd48ef0784",
+            "_id": "5816b93476a941e906307879",
+            "createTime": 1477884212860,
+            "likedUsers": [
+              "57de6110ce1dd8ee5c069e19"
+            ],
+            "likes": 1,
+            "sender": {
+              "avatar": "http://static.donguo.me/57de6110ce1dd8ee5c069e19/20161031/57de6110ce1dd8ee5c069e191477880767281",
+              "name": "小熊饼干",
+              "senderId": "57de6110ce1dd8ee5c069e19"
+            }
+          },
+          {
+            "_id": "58132831aad49ffd48ef079b",
+            "attachedId": "58130eb9aad49ffd48ef0784",
+            "content": "嗯嗯我家孩子自带情商高，哈哈哈",
+            "attachedType": "live_item",
+            "__v": 1,
+            "createTime": 1477650481444,
+            "likedUsers": [
+              "57de6110ce1dd8ee5c069e19"
+            ],
+            "likes": 1,
+            "sender": {
+              "senderId": "57b43d227989a14385111ef3",
+              "name": "☀汪倩倩",
+              "avatar": "http://static.donguo.me/57b43d227989a14385111ef3/20161028/57b43d227989a14385111ef31477650432359"
+            }
+          },
+          {
+            "__v": 1,
+            "brief": "没有比重可言",
+            "attachedType": "live_item",
+            "content": "人际交往的敲门砖",
+            "attachedId": "58130efc627a9d97480cac0c",
+            "_id": "58132fbf428ce7b348e908cf",
+            "createTime": 1477652415589,
+            "likedUsers": [
+              "58006f04224c9ee07ce8e2dd"
+            ],
+            "likes": 1,
+            "sender": {
+              "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161028/57ba99edf9e80ee07ad8be6f1477650479867",
+              "name": "谢啊哥",
+              "senderId": "57ba99edf9e80ee07ad8be6f"
+            }
+          }
+        ],
+        "commentCount": 12,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 947
+          },
+          {
+            "name": "莎莎",
+            "avatar": "http://static.donguo.me/avatar/20161104/2f9cd91c9c6ab71010694c5a0ba564a7",
+            "title": "资深早教指导师",
+            "desc": "咿呀呀儿童教育金牌讲师，家长微课负责人",
+            "fullDesc": "资深早教指导师，擅长儿童艺术治疗和游戏治疗，中科院心理所儿童身心发展测评师，为自闭症儿童提供心理援助长达4年之久，《在家上早教》的倡导者和电台主播。",
+            "bannerPic": "http://static.donguo.me/banner/20161104/15299b15af1c7005f48fe2f9448fcfc5",
+            "masterId": "57adb18cbf78efd04ae67d49",
+            "likesForThisLive": 380
+          },
+          {
+            "name": "赵玉",
+            "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY1.jpg",
+            "title": "6Q智慧父母准导师",
+            "desc": "英国C&G认证 ITT国际培训师\n企业资深培训师\n6Q智慧父母准导师\nNLP执行师\n国家整体形象设计师师资培训师\n礼仪指导师\n《突破式沟通》课程认证讲师 ",
+            "fullDesc": "英国C&G认证 ITT国际培训师，6Q智慧父母准导师，NLP执行师，国家整体形象设计师师资培训师，在家庭教育领域，擅长智慧父母情商提高课程，善于运用情境式教学。",
+            "bannerPic": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY2.jpg",
+            "masterId": "57adb18cbf78efd04ae67d47",
+            "likesForThisLive": 844
+          }
+        ]
+      }
+    ]
+  }
+}

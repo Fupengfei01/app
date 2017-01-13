@@ -1,0 +1,578 @@
+{
+    "code": 0,
+    "data": {
+        "roundTables": [
+            {
+                "_id": "58456a2b33844e3d799c7d82",
+                "introPic": "http://static.donguo.me/intro/20161205/8468f819807255cf65c759eea0aaf560",
+                "bannerPic": "http://static.donguo.me/banner/20161205/72067cca3956661b777b6c83b28fa57c",
+                "score": 0,
+                "liveTopic": "走进南非，倾听荒野的呼唤",
+                "category": "圆桌会",
+                "audioSrc": "http://static.donguo.me/audio/ip/live/%E5%9C%86%E6%A1%8C12.05.mp3",
+                "tags": "自然科学",
+                "__v": 9,
+                "action": "weilaidao://ip.code/radio?liveId=58456a2b33844e3d799c7d82",
+                "updateTime": 1483344926615,
+                "topComments": [
+                    {
+                        "__v": 0,
+                        "attachedId": "58456c930dff9e2754c81953",
+                        "content": "太美了",
+                        "attachedType": "live_item",
+                        "brief": "我对南非的第一印象是什么？",
+                        "_id": "58461e3e8559177779f6a0af",
+                        "createTime": 1480990270812,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "5842ecf003506c2a0f734376",
+                            "name": "考拉1480781040243"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "58456dabd3d1449d4c1306b6",
+                        "content": "专业",
+                        "attachedType": "live_item",
+                        "_id": "58461e8ad3d1449d4c1306d9",
+                        "createTime": 1480990346141,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "5842ecf003506c2a0f734376",
+                            "name": "妹妹妈妈"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "58456cdd33844e3d799c7d85",
+                        "content": "这个饭团可爱🐶",
+                        "attachedType": "live_item",
+                        "_id": "58461eded3d1449d4c1306da",
+                        "createTime": 1480990430130,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "5842ecf003506c2a0f734376",
+                            "name": "妹妹妈妈"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "58456cae33844e3d799c7d84",
+                        "content": "果真豪",
+                        "attachedType": "live_item",
+                        "_id": "58461f1af1c51b824c5590ac",
+                        "createTime": 1480990490035,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57bd14c3f9e80ee07ad8be86",
+                            "name": "💗💄陀螺😘🍀",
+                            "avatar": "http://static.donguo.me/57bd14c3f9e80ee07ad8be86/20161205/57bd14c3f9e80ee07ad8be861480921810856"
+                        }
+                    }
+                ],
+                "commentCount": 9,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "张律",
+                        "avatar": "http://static.donguo.me/avatar/20160822/acf852df090578d442be54db1b1dba09",
+                        "title": "自然教育专家",
+                        "desc": "农庄庄主，自然保护实践者，梦想带领更多人走进美妙自然世界，2014年将南非生态训练营Ecotraining引入中国",
+                        "fullDesc": "农庄庄主，自然保护实践者，在南非自然保护区，与老虎相伴，与跳羚大战三百回合，把土狼当宠物养大，梦想带领更多人走进美妙的自然世界，开启心的旅程。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/76c0489b4d6037adedd0f4537002b5f3",
+                        "masterId": "57adb8fe8e3d8dd7b3d72638",
+                        "_id": "584909ba876c5c4a168de62e",
+                        "likesForThisLive": 0
+                    }
+                ]
+            },
+            {
+                "_id": "5800c7481220257a3450bd22",
+                "introPic": "http://static.donguo.me/intro/20161014/dc410c494c2e00e370e6ba212416a467",
+                "bannerPic": "http://static.donguo.me/banner/20161014/4fb4ab38bebcba96337959605d1e1e0d",
+                "audioSrc": "http://static.donguo.me/audio/ip/live/zaijiazuokexue.mp3",
+                "liveTopic": "如何陪孩子在家玩科学？",
+                "tags": "自然科学",
+                "category": "圆桌会",
+                "__v": 37,
+                "action": "weilaidao://ip.code/radio?liveId=5800c7481220257a3450bd22",
+                "score": 2,
+                "updateTime": 1483344926619,
+                "topComments": [
+                    {
+                        "_id": "5800d4e21220257a3450bd33",
+                        "attachedId": "5800c9141220257a3450bd28",
+                        "content": "孩子天生都感兴趣，关键是大人有耐心引导不容易",
+                        "attachedType": "live_item",
+                        "__v": 4,
+                        "createTime": 1476449506671,
+                        "likedUsers": [
+                            "579981c83be0d41918ed0f98",
+                            "57b9c438f9e80ee07ad8be41",
+                            "57e0a9c742693a87599e8337",
+                            "581fd989a1b6b6274646fefd"
+                        ],
+                        "likes": 4,
+                        "sender": {
+                            "senderId": "57f1c3c96b46d6492163875d",
+                            "name": "豌豆的公主",
+                            "avatar": "http://static.donguo.me/57f1c3c96b46d6492163875d/20161003/cca6cb4567c49631deecabd7f5637c5a"
+                        }
+                    },
+                    {
+                        "_id": "5800d4831220257a3450bd32",
+                        "attachedId": "5800c9141220257a3450bd28",
+                        "content": "我觉得培养这个意识还是很重要的",
+                        "attachedType": "live_item",
+                        "__v": 3,
+                        "createTime": 1476449411668,
+                        "likedUsers": [
+                            "57b9c438f9e80ee07ad8be41",
+                            "57e0a9c742693a87599e8337",
+                            "581fd989a1b6b6274646fefd"
+                        ],
+                        "likes": 3,
+                        "sender": {
+                            "senderId": "57b43d227989a14385111ef3",
+                            "name": "☀汪倩倩",
+                            "avatar": "http://wx.qlogo.cn/mmopen/Sh7dLw21qwKmSViawhDnXibuqHmb8eDCp4sIY1ydg6MicOXwzialEol8dXhgLGyVQCfQFqzxiczJuuqNb9CqOtxBIFS66gB75Vtas/0"
+                        }
+                    },
+                    {
+                        "__v": 2,
+                        "attachedType": "live_item",
+                        "content": "。",
+                        "attachedId": "5800c9141220257a3450bd28",
+                        "_id": "58024912bbd5e45d34911d5c",
+                        "createTime": 1476544786275,
+                        "likedUsers": [
+                            "57e0a9c742693a87599e8337",
+                            "581fd989a1b6b6274646fefd"
+                        ],
+                        "likes": 2,
+                        "sender": {
+                            "name": "用户1476423428188",
+                            "senderId": "58006f04224c9ee07ce8e2dd"
+                        }
+                    },
+                    {
+                        "__v": 2,
+                        "attachedType": "live_item",
+                        "content": "嗯，保护好奇心，同意",
+                        "attachedId": "5800c9141220257a3450bd28",
+                        "_id": "58061d75f0c58224204f8876",
+                        "createTime": 1476795765509,
+                        "likedUsers": [
+                            "57e0a9c742693a87599e8337",
+                            "581fd989a1b6b6274646fefd"
+                        ],
+                        "likes": 2,
+                        "sender": {
+                            "name": "用户1475110636020",
+                            "senderId": "57ec66ec671368b10acb1e7b"
+                        }
+                    }
+                ],
+                "commentCount": 24,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161009/7ebf419e334214390bc4555d8c1920cc",
+                        "bannerPic": "http://static.donguo.me/banner/20161009/fa755729d068cceddf965b10b040468c",
+                        "name": "刘松",
+                        "title": "科技教育创客",
+                        "desc": "创新名师，秉承创客精神，只为让科学流行起来！",
+                        "fullDesc": "创新名师，中学科技辅导员，从事科技教育教学，开设电子、科技制作，发明创造课，所写论文和教学设计在各类比赛中获奖，多篇科技教育文章发表于科技类核心期刊。",
+                        "masterId": "57fa28b133c376f4134229d0",
+                        "likesForThisLive": 209
+                    },
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161011/cb181519173c63e042e7e63de39c4ae2",
+                        "bannerPic": "http://static.donguo.me/banner/20161011/a532ea2785915a32bd44d4835260a7dd",
+                        "name": "科学爸爸",
+                        "title": "痴迷科学奶爸",
+                        "desc": "因孩子痴迷科学，从而走上科学实验道路，只为保护孩子的科学素养",
+                        "fullDesc": "因孩子痴迷科学，从而走上科学实验道路，只为保护孩子的科学素养，经常带领孩子在家进行科学实验，教会孩子动手追求科学真理。",
+                        "masterId": "57fc5d83e69feacb2e541864",
+                        "likesForThisLive": 717
+                    }
+                ]
+            }
+        ],
+        "masterPieces": [
+            {
+                "_id": "584a6e33cec6b42379fe113a",
+                "introPic": "http://static.donguo.me/banner/20161209/e2252bf27a325cd9fd5062a24363af76",
+                "bannerPic": "http://static.donguo.me/banner/20161209/e2252bf27a325cd9fd5062a24363af76",
+                "liveTopic": "一套扑克牌玩转数学启蒙",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5836764cc2b1ebac65d1f042",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5836764cc2b1ebac65d1f042&liveId=584a6e33cec6b42379fe113a",
+                "score": -2,
+                "updateTime": 1483344926622,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "憨爸",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+                        "title": "硅谷工程师",
+                        "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+                        "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+                        "masterId": "5792093853b687d0352ec654",
+                        "_id": "585cd9619af5798c394afd44",
+                        "likesForThisLive": 0
+                    }
+                ]
+            },
+            {
+                "_id": "582ed59434315dad20ef6f60",
+                "introPic": "http://static.donguo.me/banner/20161118/dbbe6fe7ba5c6190ebf3872422ae81e5",
+                "bannerPic": "http://static.donguo.me/banner/20161118/dbbe6fe7ba5c6190ebf3872422ae81e5",
+                "liveTopic": "和鸟儿共一片蓝天：亲近自然，开心观鸟",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=582d1567d6f70fa3255c8930",
+                "category": "达人谈",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930&liveId=582ed59434315dad20ef6f60",
+                "score": -1,
+                "updateTime": 1483344926623,
+                "topComments": [],
+                "commentCount": 5,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                        "bannerPic": "http://static.donguo.me/banner/20161118/b9537ef692f51d6f09b2168d49cad6eb",
+                        "name": "黄晓敏",
+                        "desc": "与先生用余生去记录和保护鸟类的自然使者",
+                        "title": "鸟类保护使者",
+                        "fullDesc": "与先生望天用余生去记录和保护鸟类的自然使者，鸟名：红嘴蓝鹊09320。\n曾目击600余种野生鸟类，退休后，与先生邓明选（望天）将观鸟爱鸟保护鸟类生存环境作为后半生的事业，曾多次参加全国鸟类调查活动，如“守护候鸟迁徙路，跟着大雁去迁徙”全国大型公益直播活动",
+                        "masterId": "582e930a34315dad20ef6ec6",
+                        "likesForThisLive": 371
+                    }
+                ]
+            },
+            {
+                "_id": "582ed64134315dad20ef6f62",
+                "introPic": "http://static.donguo.me/banner/20161118/affca5f1b50307db2d560f63b29715a4",
+                "bannerPic": "http://static.donguo.me/banner/20161118/affca5f1b50307db2d560f63b29715a4",
+                "liveTopic": "我才是啄木鸟！",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5823d2edcc14f0bf161d258b",
+                "category": "达人谈",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5823d2edcc14f0bf161d258b&liveId=582ed64134315dad20ef6f62",
+                "score": -1,
+                "updateTime": 1483344926625,
+                "topComments": [],
+                "commentCount": 2,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                        "bannerPic": "http://static.donguo.me/banner/20161118/b9537ef692f51d6f09b2168d49cad6eb",
+                        "name": "黄晓敏",
+                        "desc": "与先生用余生去记录和保护鸟类的自然使者",
+                        "title": "鸟类保护使者",
+                        "fullDesc": "与先生望天用余生去记录和保护鸟类的自然使者，鸟名：红嘴蓝鹊09320。\n曾目击600余种野生鸟类，退休后，与先生邓明选（望天）将观鸟爱鸟保护鸟类生存环境作为后半生的事业，曾多次参加全国鸟类调查活动，如“守护候鸟迁徙路，跟着大雁去迁徙”全国大型公益直播活动",
+                        "masterId": "582e930a34315dad20ef6ec6",
+                        "likesForThisLive": 371
+                    }
+                ]
+            },
+            {
+                "_id": "58243af11f7237d45d7df271",
+                "introPic": "http://static.donguo.me/intro/20161110/8afc77fb41a7d701134301a66011081d",
+                "bannerPic": "http://static.donguo.me/banner/20161110/b0835ca219b8f9a6dcd09a82f3a58f6d",
+                "liveTopic": "给孩子讲的:行星与罗马神话",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5823eb091f7237d45d7df252",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5823eb091f7237d45d7df252&liveId=58243af11f7237d45d7df271",
+                "score": 0,
+                "updateTime": 1483344926626,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                        "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+                        "name": "王木头",
+                        "title": "儿童科普达人",
+                        "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+                        "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+                        "masterId": "57cf78892afebe4964c3d26f",
+                        "likesForThisLive": 542
+                    }
+                ]
+            },
+            {
+                "_id": "58243c561f7237d45d7df273",
+                "introPic": "http://static.donguo.me/intro/20161110/e8070585664e44156b8e89c36faf5061",
+                "bannerPic": "http://static.donguo.me/banner/20161110/08640e4ba0164eb8a7bef9384f539f22",
+                "liveTopic": "明明在发烧，为什么却会感觉到冷？",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5824137f1f7237d45d7df26d",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5824137f1f7237d45d7df26d&liveId=58243c561f7237d45d7df273",
+                "score": 0,
+                "updateTime": 1483344926627,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                        "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+                        "name": "王木头",
+                        "title": "儿童科普达人",
+                        "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+                        "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+                        "masterId": "57cf78892afebe4964c3d26f",
+                        "likesForThisLive": 542
+                    }
+                ]
+            },
+            {
+                "_id": "582589703dfe2d41142b019c",
+                "introPic": "http://static.donguo.me/intro/20161111/404f9a48a63a336e17b05bded100d836",
+                "bannerPic": "http://static.donguo.me/banner/20161111/7b74b82efeaa45ca781df7d7751bca40",
+                "liveTopic": "爱上科学，爱上实验，有一种科学易上瘾！（自然篇）",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5825860e3dfe2d41142b017b",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5825860e3dfe2d41142b017b&liveId=582589703dfe2d41142b019c",
+                "score": 0,
+                "updateTime": 1483344926628,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161009/7ebf419e334214390bc4555d8c1920cc",
+                        "bannerPic": "http://static.donguo.me/banner/20161009/fa755729d068cceddf965b10b040468c",
+                        "name": "刘松",
+                        "title": "科技教育创客",
+                        "desc": "创新名师，秉承创客精神，只为让科学流行起来！",
+                        "fullDesc": "创新名师，中学科技辅导员，从事科技教育教学，开设电子、科技制作，发明创造课，所写论文和教学设计在各类比赛中获奖，多篇科技教育文章发表于科技类核心期刊。",
+                        "masterId": "57fa28b133c376f4134229d0",
+                        "likesForThisLive": 209
+                    }
+                ]
+            },
+            {
+                "_id": "58258c3de83b8c5e14bdcfe9",
+                "introPic": "http://static.donguo.me/intro/20161111/f082f63f83111a173f40e2fca10996ce",
+                "bannerPic": "http://static.donguo.me/banner/20161111/05b6206c944623b0edd401d74ce6143d",
+                "liveTopic": "爱上科学，爱上实验，有一种科学易上瘾！（物理篇）",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5825846a3dfe2d41142b0158",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5825846a3dfe2d41142b0158&liveId=58258c3de83b8c5e14bdcfe9",
+                "score": 0,
+                "updateTime": 1483344926629,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161009/7ebf419e334214390bc4555d8c1920cc",
+                        "bannerPic": "http://static.donguo.me/banner/20161009/fa755729d068cceddf965b10b040468c",
+                        "name": "刘松",
+                        "title": "科技教育创客",
+                        "desc": "创新名师，秉承创客精神，只为让科学流行起来！",
+                        "fullDesc": "创新名师，中学科技辅导员，从事科技教育教学，开设电子、科技制作，发明创造课，所写论文和教学设计在各类比赛中获奖，多篇科技教育文章发表于科技类核心期刊。",
+                        "masterId": "57fa28b133c376f4134229d0",
+                        "likesForThisLive": 209
+                    }
+                ]
+            },
+            {
+                "_id": "582ac385118e1a0644081355",
+                "introPic": "http://static.donguo.me/banner/20161115/140cebd3868d4d9f02ceb9e179d400ab",
+                "bannerPic": "http://static.donguo.me/banner/20161115/140cebd3868d4d9f02ceb9e179d400ab",
+                "liveTopic": "被鲨鱼吃掉前，先见识下它的牙齿！",
+                "score": 0,
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=581ad85fdf22ca5015f462f9",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D581ad85fdf22ca5015f462f9&liveId=582ac385118e1a0644081355",
+                "updateTime": 1483344926630,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161104/1ea56ac9fde0c2a0a65bd5661f3e6a0f",
+                        "bannerPic": "http://static.donguo.me/banner/20161104/01582491f19217f9065e4567a1a954fc",
+                        "name": "朱彤",
+                        "title": "两栖爬行动物资深玩家",
+                        "desc": "两栖爬行动物狂热爱好者、资深玩家，致力于两爬保育与科普工作",
+                        "fullDesc": "笔名rlyl，自幼热爱自然，喜欢动物和植物，两栖爬行动物狂热爱好者、资深玩家。拥有20多年的爬虫饲养繁育经验，梦想成为一名卡尔·冯·林耐（Carl von Linné）式的生物学家。\n在担任天津市工商联休闲渔业商会副会长、爬宠分会会长的同时，创建了网站和公众号：“rlyl的自然世界（www.rlyl.net）”，建立了丰富的自然生物资料库；并在国内多家动物园、两栖爬行馆担任指导专家，致力于两爬物种的人工保育与科普宣传工作。希望能把自己从专业、爱好中获得的经验乐趣与大家分享。",
+                        "masterId": "581c60d48a77adea74bad4df",
+                        "likesForThisLive": 408
+                    }
+                ]
+            },
+            {
+                "_id": "584a6a1fa236f75979be73db",
+                "introPic": "http://static.donguo.me/banner/20161209/e903e7128bf6b13963a14f107c38e468",
+                "bannerPic": "http://static.donguo.me/banner/20161209/e903e7128bf6b13963a14f107c38e468",
+                "liveTopic": "这是一堂数学课，老师却让孩子学救灾",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5836766b9d74a4233a72564f",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5836766b9d74a4233a72564f&liveId=584a6a1fa236f75979be73db",
+                "score": 0,
+                "updateTime": 1483344926631,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "憨爸",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+                        "title": "硅谷工程师",
+                        "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+                        "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+                        "masterId": "5792093853b687d0352ec654",
+                        "_id": "584a6a58f358790879f82868",
+                        "likesForThisLive": 0
+                    }
+                ]
+            },
+            {
+                "_id": "584a6d70f358790879f8286e",
+                "introPic": "http://static.donguo.me/banner/20161209/6ea9ac0eb0c56875b5271868c012f69f",
+                "bannerPic": "http://static.donguo.me/banner/20161209/6ea9ac0eb0c56875b5271868c012f69f",
+                "liveTopic": "魔方魔方告诉我，你是怎么数学启蒙哒",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=584a650a74181c3e79245c74",
+                "tags": "自然科学",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D584a650a74181c3e79245c74&liveId=584a6d70f358790879f8286e",
+                "score": 0,
+                "updateTime": 1483344926632,
+                "topComments": [],
+                "commentCount": 2,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "憨爸",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+                        "title": "硅谷工程师",
+                        "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+                        "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+                        "masterId": "5792093853b687d0352ec654",
+                        "_id": "584a6dfe05e0421046338d8b",
+                        "likesForThisLive": 0
+                    }
+                ]
+            }
+        ],
+        "masters": [
+            {
+                "_id": "57cfc1737eaf2cd77ef23538",
+                "avatar": "http://static.donguo.me/avatar/20160907/6692e43790729f4517f05cfe20d05610",
+                "bannerPic": "http://static.donguo.me/banner/20160907/a4fd7fc2dc52f08753510134dc030151",
+                "name": "沈梅华",
+                "desc": "野生动物专家，野去自然旅行专业顾问，梦田生态农庄／上海自然导赏培训班创始人",
+                "fullDesc": "野去自然旅行／梦田生态农庄／上海自然导赏培训班创始人，著有《南非野生生活》一书，作为旅游规划师和科学松鼠会成员作家，致力帮助更多人进入自然、了解自然。",
+                "title": "野生动物专家",
+                "mTags": "自然旅行 自然导赏 作家",
+                "points": 0,
+                "followers": 275,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "5792093853b687d0352ec654",
+                "name": "憨爸",
+                "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+                "title": "硅谷工程师",
+                "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+                "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+                "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+                "mTags": "工程师 美式育儿 科学启蒙",
+                "points": 0,
+                "followers": 277,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "57bd81a9dc2af42266a3f507",
+                "avatar": "http://static.donguo.me/avatar/20160829/b43e41165fc0c20e81e3bc13b6aaaac9",
+                "bannerPic": "http://static.donguo.me/banner/20160824/68f0b531052f63d6d4c27a7a647df8e8",
+                "name": "Sabrina Cruz",
+                "desc": "多伦多大学数学系学生，Crash Course Kids讲师，全球知名科普达人。17岁时在Youtube开设视频专栏“NERDY&QUIRKY”，涉及生活、社交、艺术、女权、文化创意、教育……迅速获得600万粉丝。2015年，加入Crash Course原创教育频道，制作了一系列面向青少年的简短有趣的自然科学视频，受到广大孩子和成人的欢迎。",
+                "title": "全球知名科学怪咖",
+                "fullDesc": "多伦多大学数学系学生，Crash Course Kids讲师；17岁时在Youtube开设视频专栏“NERDY&QUIRKY”迅速获得600万粉丝。2015年，加入Crash Course原创教育频道，制作了一系列面向青少年的自然科学视频。",
+                "mTags": "科普达人 自然科学 文化创意",
+                "points": 0,
+                "followers": 292,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "57cf78892afebe4964c3d26f",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "bannerPic": "http://static.donguo.me/banner/20160907/99092cc439713a479067af4442a0712e",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "desc": "给孩子科普，就要用孩子能听懂的话，用环环相扣的课程，为他们编织一张知识的网",
+                "fullDesc": "北大毕业，儿童科普达人，科普知识除了满足孩子的好奇心，更应该用孩子能听懂的话，为他们织一张知识网，通过科普系列课程，让孩子们体会到知识贯通的愉悦。",
+                "mTags": "科学 自然 宇宙 天文 地理",
+                "points": 0,
+                "followers": 232,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "57d762f7e04a0123506bfb10",
+                "avatar": "http://static.donguo.me/avatar/20160913/6641b072aa8f1d468f473a2a6bdc7758",
+                "bannerPic": "http://static.donguo.me/banner/20161214/341954fdd80c451af54d59e61d651489",
+                "desc": "复旦大学生命科学学院植物学博士，从事植物繁殖生态学和进化生物学研究。希望借助科普工作，分享自己的经验和专业知识，引导孩子接触和认识大自然的魅力。",
+                "name": "蛙哥",
+                "title": "野生动植物专家",
+                "fullDesc": "复旦大学生命科学学院植物学专业博士，从事植物繁殖生态学和进化生物学研究。并参与民间环保组织，长期组织科普宣传展览和讲座，以及中小学科普活动，积累了丰富的科普教育经验。 希望借助科普工作，分享自己的经验和专业知识，引导孩子接触和认识大自然中各种动植物的魅力，培养他们的科学兴趣。",
+                "mTags": "大自然 动植物 科普",
+                "points": 0,
+                "followers": 220,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "57adb8fe8e3d8dd7b3d72638",
+                "name": "张律",
+                "avatar": "http://static.donguo.me/avatar/20160822/acf852df090578d442be54db1b1dba09",
+                "title": "自然教育专家",
+                "desc": "农庄庄主，自然保护实践者，梦想带领更多人走进美妙自然世界，2014年将南非生态训练营Ecotraining引入中国",
+                "fullDesc": "农庄庄主，自然保护实践者，在南非自然保护区，与老虎相伴，与跳羚大战三百回合，把土狼当宠物养大，梦想带领更多人走进美妙的自然世界，开启心的旅程。",
+                "bannerPic": "http://static.donguo.me/banner/20161214/73cb5b7b30e5efb084606e78958c61a2",
+                "mTags": "南非生态营 自然保护",
+                "points": 0,
+                "followers": 174,
+                "type": 1,
+                "gender": 2
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+<link rel="stylesheet" type="text/css" href="../css/f-nominate.css"/>
+<link rel="stylesheet" type="text/css" href="../src/ionic/css/ionic.min.css"/>
+<section>
+<ion-content >
+    <ion-refresher pulling-text="下拉刷新" on-refresh="doRefresh()"></ion-refresher>
+	<ion-list>
+			<div class="swiper-container banner">
+				<div class="swiper-wrapper">
+					<div class="swiper-slide" ng-repeat="banner in nominatectrl.bannerList">
+						<img ng-src="{{banner.bannerPic}}" action="{{banner.action}}"/>
+					</div>
+				</div>
+				<div class="swiper-pagination"></div>
+			</div>
+		<div class="nav">
+			<ul>
+				<li ui-sref="tabs.shouye_second({id:'xlcz'})">
+					<i class="xlcz"></i><br />
+					<span>心灵成长</span>
+				</li>
+				<li ui-sref="tabs.shouye_second({id:'yyqm'})">
+					<i class="yyqm"></i><br />
+					<span>英语启蒙</span>
+				</li>
+				<li ui-sref="tabs.shouye_second({id:'ysxy'})">
+					<i class="yssy"></i><br />
+					<span>艺术素养</span>
+				</li>
+				<li ui-sref="tabs.shouye_second({id:'zrkx'})">
+					<i class="zrkx"></i><br />
+					<span>自然科学</span>
+				</li>
+			</ul>
+		</div>
+		<div class="listen day">
+			<h2>
+				<b>每日一听</b>
+				<a ui-sref="tabs.listenEveryDay">查看全部</a>
+			</h2>
+			<ul class="content">
+				<li mpssrc="{{listen.audioSrc}}" ng-repeat="listen in nominatectrl.sermons" ng-click="nominatectrl.playchange($event)">{{listen.name}}</li>
+			</ul>
+			<div class="btn" ng-click="nominatectrl.playmp3()">
+				<audio ng-src="{{nominatectrl.ww | trustUrl}}"></audio>
+				<i class="iconfont" ng-show="nominatectrl.playshow">&#xe633;</i>
+				<i class="iconfont" ng-show="!nominatectrl.playshow">&#xe66a;</i>
+			</div>
+		</div>
+		<div class="learn day">
+			<h2>
+				<b>每日一学</b>
+				<a href="javascript:;" ng-click="nominatectrl.changes()">换一换</a>
+			</h2>
+			<div class="content">
+				<img ng-src="{{nominatectrl._imgurl}}" ID="{{nominatectrl._ID}}" ui-sref="tabs.zdetails({id:nominatectrl._ID})"/>
+			</div>
+		</div>
+		<div class="read day">
+			<h2>
+				<b>每日一读</b>
+				<a ui-sref="tabs.readEveryDay">查看全部</a>
+			</h2>
+			<div class="content">
+				<dl ng-repeat="lives in nominatectrl.lives" ID="{{lives._id}}" ui-sref="tabs.talk({userId:lives._id})">
+					<dt><img ng-src="{{lives.bannerPic}}" /></dt>
+					<dd class="title">{{lives.liveTopic}}</dd>
+					<dd class="js">
+						<img ng-src="{{lives.introPic}}" alt="" />
+						<span>{{lives.masters[0].name}}｜{{lives.masters[0].title}}</span>
+					</dd>
+				</dl>
+			</div>
+		</div>
+		
+	</ion-list>
+</ion-content>	
+</section>

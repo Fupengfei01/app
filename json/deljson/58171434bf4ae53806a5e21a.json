@@ -1,0 +1,50 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "58171434bf4ae53806a5e21a",
+      "avatar": "http://static.donguo.me/avatar/20161031/c42b9072c5d668d52fc16e59fefc1134",
+      "bannerPic": "http://static.donguo.me/banner/20161214/ea05e4d84fedeebb3e2bd9f089703fce",
+      "name": "陈美龄",
+      "title": "教育学博士",
+      "desc": "将三个儿子全部送入斯坦福的传奇妈妈",
+      "fullDesc": "14岁出道，红透歌坛。因带着儿子工作，在日本引发巨大社会争论，因此登上《TIME》杂志。著有数十本教育书籍，因三个儿子都考入斯坦福，成为日本家喻户晓的妈妈。",
+      "mTags": "作家、歌手、教育学博士",
+      "points": 0,
+      "createTime": 1477907508984,
+      "followers": 432,
+      "type": 1,
+      "gender": 1
+    },
+    "abouts": [
+      {
+        "_id": "5818486897d91d0842a6082f",
+        "introPic": "http://static.donguo.me/banner/20161101/e2a252840d117dbbdb653d4ffb606602",
+        "bannerPic": "http://static.donguo.me/banner/20161101/e2a252840d117dbbdb653d4ffb606602",
+        "liveTopic": "陈美龄：我把三个儿子送入斯坦福",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5816cd3180090ccd0663f547",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5816cd3180090ccd0663f547&liveId=5818486897d91d0842a6082f",
+        "score": 0,
+        "updateTime": 1483672940122,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161031/c42b9072c5d668d52fc16e59fefc1134",
+            "bannerPic": "http://static.donguo.me/banner/20161031/630d8584c074860c058abda8e0b3f83e",
+            "name": "陈美龄",
+            "title": "教育学博士",
+            "desc": "将三个儿子全部送入斯坦福的传奇妈妈",
+            "fullDesc": "14岁出道，红透歌坛。因带着儿子工作，在日本引发巨大社会争论，因此登上《TIME》杂志。著有数十本教育书籍，因三个儿子都考入斯坦福，成为日本家喻户晓的妈妈。",
+            "masterId": "58171434bf4ae53806a5e21a",
+            "likesForThisLive": 112
+          }
+        ]
+      }
+    ]
+  }
+}

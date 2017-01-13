@@ -1,0 +1,802 @@
+[
+    {
+        "_id": "5850fd61f0e1f0d513f83817",
+        "name": "听英语学经济，shopping with dad",
+        "audioSrc": "http://static.donguo.me/07shopping%20with%20dad.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481702753412,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "5868ff59a735c69c09b18620"
+            }
+        ]
+    },
+    {
+        "_id": "585a2c117ea380c96aca9125",
+        "name": "听故事学情商，培养独立性",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/07kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304529843,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "5868ff7c1274bd144d806476"
+            }
+        ]
+    },
+    {
+        "_id": "58525849c78f5ff534efc812",
+        "name": "听故事学观鸟，感悟自然魅力",
+        "audioSrc": "http://static.donguo.me/weishemeyaoguanniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1481791561726,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5868ffc61b7250b243ccb8c4"
+            }
+        ]
+    },
+    {
+        "_id": "5858cfaa92481e18555c5976",
+        "name": "英语启蒙|不同年龄段，如何选择绘本",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/paopao02.mp3",
+        "action": "weilaidao://ip.code/radio?liveId=58325352b2fe9f2612a93a23",
+        "createTime": 1482215338505,
+        "masters": [
+            {
+                "masterId": "582d51a9fe39c6c12559aca3",
+                "name": "泡泡妈妈",
+                "title": "英语启蒙全职妈妈 ",
+                "avatar": "http://static.donguo.me/avatar/20161117/c5d43b159361f295bee86dacbf679eff",
+                "_id": "5861d5cb766385f8195bfd24"
+            }
+        ]
+    },
+    {
+        "_id": "5858cfcf916ed4e86394e17e",
+        "name": "英语启蒙|英语弱的家长教孩子英语绝招",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/qingchu03.mp3",
+        "action": "weilaidao://ip.code/radio?liveId=58325352b2fe9f2612a93a23",
+        "createTime": 1482215375328,
+        "masters": [
+            {
+                "masterId": "5792093853b687d0352ec65f",
+                "name": "清雏",
+                "title": "留学专家",
+                "avatar": "http://static.donguo.me/image/ip/darenzonghuiQC1.jpg",
+                "_id": "5861d5da14f915dd1987cda1"
+            }
+        ]
+    },
+    {
+        "_id": "585cd5749af5798c394afd3e",
+        "name": "英语启蒙|唱英文歌学数数",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/12%20days%20of%20Christmas.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D585cd8ed6b181c8f771a8298",
+        "createTime": 1482478964365,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f715",
+                "name": "Jesse妈妈",
+                "title": "杰斯英语启蒙创始人",
+                "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+                "_id": "5861d5e144ea979148a0e73e"
+            }
+        ]
+    },
+    {
+        "_id": "58525811c78f5ff534efc810",
+        "name": "十万个为什么|鸟人说鸟事：从零开始学观鸟",
+        "audioSrc": "http://static.donguo.me/shenmeshiguanniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1481791505811,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5866034adc432d0a4e93418e"
+            }
+        ]
+    },
+    {
+        "_id": "5852588eb0cf71e328320c4a",
+        "name": "十万个为什么|鸟人说鸟事：怎么观鸟？到哪里观鸟？",
+        "audioSrc": "http://static.donguo.me/zenmeguanniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1481791630216,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5866035ddc432d0a4e93418f"
+            }
+        ]
+    },
+    {
+        "_id": "5864d669ce779fa017f068e6",
+        "name": "十万个为什么|鸟人说鸟事：留鸟",
+        "audioSrc": "https://static.donguo.me/2-2liuniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483003497454,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5866036a6a032a1d4763b83e"
+            }
+        ]
+    },
+    {
+        "_id": "5864df000ec1ec8514c1c125",
+        "name": "十万个为什么|鸟人说鸟事：候鸟",
+        "audioSrc": "https://static.donguo.me/2-3houniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483005696294,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5866037381c0fcb37bc004fe"
+            }
+        ]
+    },
+    {
+        "_id": "5864df7bf4ec3792064be51f",
+        "name": "十万个为什么|鸟人说鸟事：迁徙过境鸟",
+        "audioSrc": "https://static.donguo.me/2-4qianxiniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483005819982,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5866037ce5b432917b15205c"
+            }
+        ]
+    },
+    {
+        "_id": "5864dfce8de121020f99ead2",
+        "name": "十万个为什么|鸟人说鸟事：迷鸟",
+        "audioSrc": "https://static.donguo.me/2-5miniao.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483005902831,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "58660383db9ed6ce7b55a29d"
+            }
+        ]
+    },
+    {
+        "_id": "5864e016c1f51d2a725445ab",
+        "name": "十万个为什么|鸟人说鸟事：游禽",
+        "audioSrc": "https://static.donguo.me/3-2youqin.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483005974341,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "5866038a7fa8a6767b5e76bc"
+            }
+        ]
+    },
+    {
+        "_id": "5864e050fdaa55386a6584bc",
+        "name": "十万个为什么|鸟人说鸟事：涉禽",
+        "audioSrc": "https://static.donguo.me/3-3sheqin.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483006032684,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "58660391e5b432917b15205d"
+            }
+        ]
+    },
+    {
+        "_id": "5864e0c0ce779fa017f06910",
+        "name": "十万个为什么|鸟人说鸟事：中国野生鸟类的居留形式",
+        "audioSrc": "https://static.donguo.me/2-0juliuxingshi.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483006144747,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "586603997fa8a6767b5e76bd"
+            }
+        ]
+    },
+    {
+        "_id": "5864e1070ec1ec8514c1c12f",
+        "name": "十万个为什么|鸟人说鸟事：中国野生鸟类的生态分布",
+        "audioSrc": "https://static.donguo.me/3-0shengtaifenlei.mp3",
+        "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582d1567d6f70fa3255c8930",
+        "createTime": 1483006215314,
+        "masters": [
+            {
+                "masterId": "582e930a34315dad20ef6ec6",
+                "name": "黄晓敏",
+                "title": "鸟类保护使者",
+                "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                "_id": "586603a1e5b432917b152062"
+            }
+        ]
+    },
+    {
+        "_id": "5847858df8e69475169a9255",
+        "name": "儿童百科|科学探索：what can a diver see",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/what%20can%20a%20diver%20see%EF%BC%9F.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481082253490,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "58577397f3468c8f486109fe"
+            }
+        ]
+    },
+    {
+        "_id": "5850fc66129db69f13b119dc",
+        "name": "儿童百科|生命科学：Look at the tree",
+        "audioSrc": "http://static.donguo.me/02look%20at%20the%20tree.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481702502088,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "5857738fb21701154de4e72f"
+            }
+        ]
+    },
+    {
+        "_id": "5850fc831d2ac8ba13bc52ec",
+        "name": "儿童百科|物理科学：Hot and cold",
+        "audioSrc": "http://static.donguo.me/03hot%20and%20cold.mp3",
+        "action": "weilaidao://ip.code/master?masterId=57a7dd361dba92999a09f712",
+        "createTime": 1481702531682,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "58588ca7a6774dfb7a1ecb8c"
+            }
+        ]
+    },
+    {
+        "_id": "5850fcaff0e1f0d513f83811",
+        "name": "儿童百科|科学探秘：Making a hat",
+        "audioSrc": "http://static.donguo.me/04making%20a%20hat.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481702575610,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "58577388b21701154de4e72e"
+            }
+        ]
+    },
+    {
+        "_id": "5850fd041d2ac8ba13bc52ee",
+        "name": "儿童百科|科学技术：Where are there going",
+        "audioSrc": "http://static.donguo.me/05where%20are%20they%20going.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481702660151,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "586472e2fd6154cb1eff3496"
+            }
+        ]
+    },
+    {
+        "_id": "5850fd2cc0c996ef6e8d9a8a",
+        "name": "儿童百科|太空科学：What lives in a swamp",
+        "audioSrc": "http://static.donguo.me/06what%20lives%20in%20a%20swamp.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481702700284,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "585a2d4292481e18555c5b01"
+            }
+        ]
+    },
+    {
+        "_id": "5850fd88c0c996ef6e8d9a8c",
+        "name": "儿童百科|地理生态：Plants and animals live here",
+        "audioSrc": "http://static.donguo.me/08plants%20and%20animals%20live%20here.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+        "createTime": 1481702792314,
+        "masters": [
+            {
+                "masterId": "57a7dd361dba92999a09f712",
+                "name": "考拉优教",
+                "title": "主持人",
+                "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                "_id": "5861d4e17a9c17ad4890ee5b"
+            }
+        ]
+    },
+    {
+        "_id": "58468d7c33844e3d799c7dfd",
+        "name": "绘本讲读|小熊很忙：动物管理员",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/dongwu.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584771d5723eab9179f63b56",
+        "createTime": 1481018748221,
+        "masters": [
+            {
+                "masterId": "58495e1d876c5c4a168de6b2",
+                "name": "逃逃",
+                "title": "全能小达人",
+                "avatar": "http://static.donguo.me/avatar/20161208/8861761e346ea41105fe62e69fd2bcf7",
+                "_id": "585773324dd524d63362afb2"
+            }
+        ]
+    },
+    {
+        "_id": "58468d99f1c51b824c5590e7",
+        "name": "绘本讲读|小熊很忙：小小宇航员",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/yuhangyuan.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584771d5723eab9179f63b56",
+        "createTime": 1481018777804,
+        "masters": [
+            {
+                "masterId": "58495e1d876c5c4a168de6b2",
+                "name": "逃逃",
+                "title": "全能小达人",
+                "avatar": "http://static.donguo.me/avatar/20161208/8861761e346ea41105fe62e69fd2bcf7",
+                "_id": "5857732cfa8c46b521f0ab65"
+            }
+        ]
+    },
+    {
+        "_id": "58468db58559177779f6a0fe",
+        "name": "绘本讲读|小熊很忙：欢乐农场日",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/nongchangri.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584771d5723eab9179f63b56",
+        "createTime": 1481018805365,
+        "masters": [
+            {
+                "masterId": "58495e1d876c5c4a168de6b2",
+                "name": "逃逃",
+                "title": "全能小达人",
+                "avatar": "http://static.donguo.me/avatar/20161208/8861761e346ea41105fe62e69fd2bcf7",
+                "_id": "585773264dd524d63362afb1"
+            }
+        ]
+    },
+    {
+        "_id": "58468e045a47a1e57078a3ba",
+        "name": "绘本讲读|小熊很忙：圣诞小帮手",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/shengdan.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584771d5723eab9179f63b56",
+        "createTime": 1481018884841,
+        "masters": [
+            {
+                "masterId": "58495e1d876c5c4a168de6b2",
+                "name": "逃逃",
+                "title": "全能小达人",
+                "avatar": "http://static.donguo.me/avatar/20161208/8861761e346ea41105fe62e69fd2bcf7",
+                "_id": "5860782ac8d21bcf370d4a18"
+            }
+        ]
+    },
+    {
+        "_id": "58468e2e4c0aa4242449ba51",
+        "name": "绘本讲读|小熊很忙：城堡小骑士",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/chengbao.mp3",
+        "action": "weilaidao://ip.code/master?masterId=57adb18cbf78efd04ae67d46",
+        "createTime": 1481018926314,
+        "masters": [
+            {
+                "masterId": "57adb18cbf78efd04ae67d46",
+                "name": "逃妈",
+                "title": "教育自媒体达人",
+                "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+                "_id": "5864730fa55ce476237538fd"
+            }
+        ]
+    },
+    {
+        "_id": "58468e6ef8e69475169a91b9",
+        "name": "绘本讲读|小熊很忙：深海潜水员",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/qianshuiyuan.mp3",
+        "action": "weilaidao://ip.code/course?courseId=584771d5723eab9179f63b56",
+        "createTime": 1481018990583,
+        "masters": [
+            {
+                "masterId": "58495e1d876c5c4a168de6b2",
+                "name": "逃逃",
+                "title": "全能小达人",
+                "avatar": "http://static.donguo.me/avatar/20161208/8861761e346ea41105fe62e69fd2bcf7",
+                "_id": "5857730d44fdbf3250197662"
+            }
+        ]
+    },
+    {
+        "_id": "583d426ef9e30c7215326008",
+        "name": "科学探索|天文与神话：希腊众神的诞生",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__01.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480409710361,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773ab4dd524d63362afb3"
+            }
+        ]
+    },
+    {
+        "_id": "583d42ecf9e30c721532600b",
+        "name": "科学探索|天文与神话：三代天空之神与三颗星球",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__02.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480409836975,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773b3aea6d30c221c2e6f"
+            }
+        ]
+    },
+    {
+        "_id": "583d4312a5a908ca20dea84c",
+        "name": "科学探索|天文与神话：三个女神的故事，三个星球的女神",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__03.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480409874803,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773b9aea6d30c221c2e70"
+            }
+        ]
+    },
+    {
+        "_id": "583d433cf9e30c721532600d",
+        "name": "科学探索|天文与神话：太阳神、月亮神与两个消失的星球",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__04.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480409916343,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585c815cfffe73995c304728"
+            }
+        ]
+    },
+    {
+        "_id": "583d43636ec6a50374426772",
+        "name": "科学探索|天文与神话：太阳和月亮的新神阿波罗和阿尔忒弥",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__05.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480409955518,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773c54dd524d63362afb4"
+            }
+        ]
+    },
+    {
+        "_id": "583d438bf9e30c721532600f",
+        "name": "科学探索|天文与神话：神中的快递员赫耳墨斯",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__06.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480409995834,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773cc3820e84a5dc96af3"
+            }
+        ]
+    },
+    {
+        "_id": "583d43b1a5a908ca20dea84f",
+        "name": "科学探索|天文与神话：地球的左邻右里",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__07.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480410033255,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "58631d6768b8936256dd7c36"
+            }
+        ]
+    },
+    {
+        "_id": "583d43e2f9e30c7215326011",
+        "name": "科学探索|天文与神话：火神赫淮斯托斯",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__08.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480410082684,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773d6f3468c8f48610a00"
+            }
+        ]
+    },
+    {
+        "_id": "583d4406a5a908ca20dea851",
+        "name": "科学探索|天文与神话：爱神与战神的孩子们",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__09.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480410118928,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773dc3820e84a5dc96af4"
+            }
+        ]
+    },
+    {
+        "_id": "583d44309adf54a545a408f7",
+        "name": "科学探索|天文与神话：神奇女神雅典娜",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/201611229__10.mp3",
+        "action": "weilaidao://ip.code/course?courseId=583d2492fe92c073224fcf10",
+        "createTime": 1480410160125,
+        "masters": [
+            {
+                "masterId": "57cf78892afebe4964c3d26f",
+                "name": "王木头",
+                "title": "儿童科普达人",
+                "avatar": "http://static.donguo.me/avatar/20161019/9ae2a07795f2cadf0b2787842e8ce525",
+                "_id": "585773e2aea6d30c221c2e72"
+            }
+        ]
+    },
+    {
+        "_id": "585a2a5f9be305df7a2ee316",
+        "name": "情商故事|张怡筠：神奇变形豆（自制力）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/01kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304095301,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585c81a2fffe73995c304729"
+            }
+        ]
+    },
+    {
+        "_id": "585a2ab87ea380c96aca911e",
+        "name": "情商故事|张怡筠：彩色的雨滴（愤怒管理）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/02kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304184204,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585a2ab87ea380c96aca911f"
+            }
+        ]
+    },
+    {
+        "_id": "585a2af91beeecc839979e02",
+        "name": "情商故事|张怡筠：小小外星人要回家（冲突解决）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/03kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304249778,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585a2af91beeecc839979e03"
+            }
+        ]
+    },
+    {
+        "_id": "585a2b4ff281fdfd54665a0c",
+        "name": "情商故事|张怡筠：趣味跳神比赛（抗挫力）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/04kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304335534,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "58647342c7395f53273ad52d"
+            }
+        ]
+    },
+    {
+        "_id": "585a2bd29be305df7a2ee318",
+        "name": "情商故事|张怡筠：大灰觉得很丢脸（同理心）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/06kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304466802,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585a2bd29be305df7a2ee319"
+            }
+        ]
+    },
+    {
+        "_id": "585a2c4cf281fdfd54665a12",
+        "name": "情商故事|张怡筠：卡卡不专心（专注力）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/08kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304588270,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585a2c4cf281fdfd54665a13"
+            }
+        ]
+    },
+    {
+        "_id": "585a2c898d2232bb6ed280ef",
+        "name": "情商故事|张怡筠：卡卡打游戏停不下来（电子教养）",
+        "audioSrc": "https://static.donguo.me/audio/ip/listen/09kaka.mp3",
+        "action": "weilaidao://ip.code/master?masterId=5818362755c984310be269de",
+        "createTime": 1482304649326,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585a2c898d2232bb6ed280f0"
+            }
+        ]
+    },
+    {
+        "_id": "582d0a48167b7aa73c5d81ac",
+        "name": "情商教养|张怡筠：孩子玩游戏输不起怎么办",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/wanyouxi.mp3",
+        "action": "weilaidao://ip.code/course?courseId=582c31f3167b7aa73c5d815c",
+        "createTime": 1479346760471,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585773e74dd524d63362afb9"
+            }
+        ]
+    },
+    {
+        "_id": "582e869505e509ca205a0cbf",
+        "name": "情商教养|张怡筠：如何应对宝宝怕生",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/baobaopasheng.mp3",
+        "action": "weilaidao://ip.code/course?courseId=582c31f3167b7aa73c5d815c",
+        "createTime": 1479444117767,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585773ecf3468c8f48610a01"
+            }
+        ]
+    },
+    {
+        "_id": "582e8734ad0cf7e720107a82",
+        "name": "情商教养|张怡筠：表扬孩子有窍门",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/biaoyanghaizi.mp3",
+        "action": "weilaidao://ip.code/course?courseId=582c31f3167b7aa73c5d815c",
+        "createTime": 1479444276222,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585a2cf09be305df7a2ee322"
+            }
+        ]
+    },
+    {
+        "_id": "582e884aad0cf7e720107a84",
+        "name": "情商教养|张怡筠：孩子有情绪，父母巧回应",
+        "audioSrc": "http://static.donguo.me/audio/ip/listen/huiyingqingxu.mp3",
+        "action": "weilaidao://ip.code/course?courseId=582c31f3167b7aa73c5d815c",
+        "createTime": 1479444554767,
+        "masters": [
+            {
+                "masterId": "5818362755c984310be269de",
+                "name": "张怡筠",
+                "title": "情商教育专家",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100",
+                "_id": "585773fc4dd524d63362afbe"
+            }
+        ]
+    }
+]

@@ -1,0 +1,125 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "57a7dd361dba92999a09f716",
+      "name": "宝莉爹妈",
+      "avatar": "http://static.donguo.me/image/ip/darenzonghui/bl.JPG",
+      "title": "宝莉英语实验室",
+      "desc": "宝莉英语实验室开创者",
+      "fullDesc": "专注于婴幼儿双语启蒙、亲子教育分享，成立宝莉英语实验室，研究儿童英语启蒙教学方法，为广大英语启蒙家长传播好的方法，推荐绘本与儿歌等有利英语启蒙的工具。",
+      "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introbl.jpg",
+      "mTags": "英语启蒙 语言培训 英语绘本",
+      "points": 0,
+      "createTime": 1470618934878,
+      "followers": 214,
+      "type": 1,
+      "gender": 1
+    },
+    "abouts": [
+      {
+        "_id": "57a7e47826cfd82b677dddd4",
+        "liveTopic": "英语启蒙，家长该如何开始？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160821/8ab6b7c49b2ca4e30234fae102507185",
+        "bannerPic": "http://static.donguo.me/banner/20160821/f0abc66fd078cac6ff23c0e09dda7262",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=57a7e47826cfd82b677dddd4",
+        "tags": "英语启蒙",
+        "updateTime": 1483673207406,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Jesse妈妈",
+            "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+            "title": "杰斯英语启蒙创始人",
+            "desc": "有着十年英文教学经验的英文电台主播",
+            "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161027/a2d233311e4e8e17efbe6ae8ab3455c9",
+            "masterId": "57a7dd361dba92999a09f715",
+            "likesForThisLive": 1110
+          },
+          {
+            "name": "单小陌",
+            "avatar": "http://static.donguo.me/avatar/20160822/c7417b37c7102a739344e44f00e1e403",
+            "title": "绘声绘社创始人",
+            "desc": "带两娃在家英语启蒙，并开办绘声绘社绘本阅读公益组织",
+            "fullDesc": "亲子手工达人，亲子旅行达人，“美丽花故事妈妈义工团”讲师，育有一子一女，坚持在家给孩子英语启蒙，并创办“绘声绘社”绘本阅读公益组织。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/ba8d080ca4a151b87089ac5de98aac8e",
+            "masterId": "57a7dd361dba92999a09f717",
+            "likesForThisLive": 480
+          },
+          {
+            "name": "宝莉爹妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/bl.JPG",
+            "title": "宝莉英语实验室",
+            "desc": "宝莉英语实验室开创者",
+            "fullDesc": "专注于婴幼儿双语启蒙、亲子教育分享，成立宝莉英语实验室，研究儿童英语启蒙教学方法，为广大英语启蒙家长传播好的方法，推荐绘本与儿歌等有利英语启蒙的工具。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introbl.jpg",
+            "masterId": "57a7dd361dba92999a09f716",
+            "likesForThisLive": 839
+          }
+        ]
+      },
+      {
+        "_id": "57bd845714a0dd0366a87e0d",
+        "introPic": "http://static.donguo.me/intro/20160824/cf9d87edc6ed684b86bc5d7579cbdb71",
+        "bannerPic": "http://static.donguo.me/banner/20160918/ed92e8c7bd8593a12117a72ceb416441",
+        "liveTopic": "起床、穿衣，这些跟宝宝最简单的英文会话，你真的会吗？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e23566317223360dbf5b10",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e23566317223360dbf5b10&liveId=57bd845714a0dd0366a87e0d",
+        "score": 100,
+        "tags": "英语启蒙",
+        "updateTime": 1483673207408,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "宝莉爹妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/bl.JPG",
+            "title": "宝莉英语实验室",
+            "desc": "宝莉英语实验室开创者",
+            "fullDesc": "专注于婴幼儿双语启蒙、亲子教育分享，成立宝莉英语实验室，研究儿童英语启蒙教学方法，为广大英语启蒙家长传播好的方法，推荐绘本与儿歌等有利英语启蒙的工具。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introbl.jpg",
+            "masterId": "57a7dd361dba92999a09f716",
+            "likesForThisLive": 763
+          }
+        ]
+      },
+      {
+        "_id": "57bd84977d20653e66711421",
+        "introPic": "http://static.donguo.me/intro/20160824/8d65fe3d7f7de765965403df5697b8e5",
+        "bannerPic": "http://static.donguo.me/banner/20160918/6a08b594467cac9c35b69b1af6dc4cb9",
+        "liveTopic": "刷牙、洗脸，这些和宝宝必说的英文会话，你搞定了吗？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e3e6ce3182cf8c0dfed327",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e3e6ce3182cf8c0dfed327&liveId=57bd84977d20653e66711421",
+        "score": 100,
+        "tags": "英语启蒙",
+        "updateTime": 1483673207409,
+        "topComments": [],
+        "commentCount": 6,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "宝莉爹妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/bl.JPG",
+            "title": "宝莉英语实验室",
+            "desc": "宝莉英语实验室开创者",
+            "fullDesc": "专注于婴幼儿双语启蒙、亲子教育分享，成立宝莉英语实验室，研究儿童英语启蒙教学方法，为广大英语启蒙家长传播好的方法，推荐绘本与儿歌等有利英语启蒙的工具。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introbl.jpg",
+            "masterId": "57a7dd361dba92999a09f716",
+            "likesForThisLive": 763
+          }
+        ]
+      }
+    ]
+  }
+}

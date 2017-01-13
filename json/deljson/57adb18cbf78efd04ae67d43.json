@@ -1,0 +1,78 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "57adb18cbf78efd04ae67d43",
+      "name": "伊姐",
+      "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/YJ1.jpg",
+      "title": "畅销书作家",
+      "desc": "伊姐，14岁出版小说集，18岁新概念作文大赛获奖，30岁出版畅销书《心若宁静，便是幸福》。专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、关于婚姻、关于爱。原创公众号“伊姐看电影”（ID:eemovie）。",
+      "fullDesc": "14岁出版小说集，18岁获得新概念作文大奖，30岁出版畅销书《心若宁静，便是幸福》，专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、婚姻和爱。",
+      "bannerPic": "http://static.donguo.me/banner/20161214/afd6449afacd7a483a675da22d39ae39",
+      "mTags": "作家 记者 自媒体达人",
+      "points": 0,
+      "createTime": 1471000972236,
+      "followers": 254,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "57c8e48edc6f74286b9c022b",
+        "introPic": "http://static.donguo.me/intro/20160902/e45934eb2f402cc20fe421d4aac93b54",
+        "bannerPic": "http://static.donguo.me/banner/20160902/9aec9f6d8813b03cb4585d5ea56f9b8d",
+        "score": 100,
+        "liveTopic": "艺术培养无处不在，先从这三件事做起",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e693563e711d530d6e1d0d",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e693563e711d530d6e1d0d&liveId=57c8e48edc6f74286b9c022b",
+        "tags": "艺术素养",
+        "updateTime": 1483672765300,
+        "topComments": [],
+        "commentCount": 7,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "伊姐",
+            "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/YJ1.jpg",
+            "title": "畅销书作家",
+            "desc": "伊姐，14岁出版小说集，18岁新概念作文大赛获奖，30岁出版畅销书《心若宁静，便是幸福》。专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、关于婚姻、关于爱。原创公众号“伊姐看电影”（ID:eemovie）。",
+            "fullDesc": "14岁出版小说集，18岁获得新概念作文大奖，30岁出版畅销书《心若宁静，便是幸福》，专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、婚姻和爱。",
+            "bannerPic": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/YJ2.jpg",
+            "masterId": "57adb18cbf78efd04ae67d43",
+            "likesForThisLive": 380
+          }
+        ]
+      },
+      {
+        "_id": "57d7ca434f3d423b506002d9",
+        "introPic": "http://static.donguo.me/intro/20160913/501ebf457cd9d0a3b0633beae0362ec0",
+        "bannerPic": "http://static.donguo.me/banner/20160913/1acf4ab9367657956aca2f6e8e6a1536",
+        "liveTopic": "留学与否不重要，家庭格局才重要",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57ce953f765c8018495dc9db",
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57ce953f765c8018495dc9db&liveId=57d7ca434f3d423b506002d9",
+        "score": 100,
+        "tags": "心灵成长",
+        "updateTime": 1483672765301,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "伊姐",
+            "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/YJ1.jpg",
+            "title": "畅销书作家",
+            "desc": "伊姐，14岁出版小说集，18岁新概念作文大赛获奖，30岁出版畅销书《心若宁静，便是幸福》。专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、关于婚姻、关于爱。原创公众号“伊姐看电影”（ID:eemovie）。",
+            "fullDesc": "14岁出版小说集，18岁获得新概念作文大奖，30岁出版畅销书《心若宁静，便是幸福》，专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、婚姻和爱。",
+            "bannerPic": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/YJ2.jpg",
+            "masterId": "57adb18cbf78efd04ae67d43",
+            "likesForThisLive": 380
+          }
+        ]
+      }
+    ]
+  }
+}

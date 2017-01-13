@@ -1,0 +1,70 @@
+<link rel="stylesheet" type="text/css" href="../css/course.css"/>
+<link rel="stylesheet" type="text/css" href="../src/ionic/css/ionic.css"/>
+<section class="course">
+	<section class="nav">
+		<ul class="father-nav">
+			<li class="left-nav" ng-click="changeshow()">
+				<span class="total"><span ng-bind="sortLeft"></span><span class="arrow"></span></span>
+				<ul ng-show="flagLeft" class="left-nav">
+					<li ng-click="pass(allSort)" ng-bind="allSort"></li>
+					<li ng-click="pass(natural)" ng-bind="natural"></li>
+					<li ng-click="pass(sprit)" ng-bind="sprit"></li>
+					<li ng-click="pass(english)" ng-bind="english"></li>
+					<li class="special" ng-click="pass(art)" ng-bind="art"></li>
+				</ul>
+			</li>
+			<li class="right-nav" ng-click="changehide()">
+				<span class="total"><span ng-bind="sortRight"></span><span class="arrow"></span></span>
+				<ul class="allobj" ng-show="flagRight">
+					<li ng-click="pass1(allobj)" ng-bind="allobj"></li>
+					<li ng-click="pass1(parents)" ng-bind="parents"></li>
+					<li class="special" ng-click="pass1(children)" ng-bind="children"></li>
+				</ul>
+			</li>
+		</ul>
+	</section>	
+	<ion-content  class="con" 
+        scrollbar-y='false'
+        >
+        <!--
+        	下拉刷新
+        -->
+        <ion-refresher
+         on-refresh = "doRefresh()"
+          on-pulling = "doPulling()"
+          pulling-icon = 'ion-arrow-down-c'
+          pulling-text = "{{pullingText}}"
+          refreshing-text="正在刷新"
+          spinner = 'android'
+        > 
+        </ion-refresher>
+          <ion-list
+          can-swipe="true"
+          delegate-handle="my-handle"
+          >
+          <!--
+          	track by $index		重复相同的内容，会报错ngRepeat:dupes
+          -->
+              <ion-item ng-repeat='item in items track by $index'			
+              class="lists">               
+					<li >
+						<img ng-src="{{item.introPic}}" ui-sref="tabs.zdetails({id:item._id})" />
+						<h2 ng-bind="item.category"></h2>
+						<span ng-bind="item.masterName"></span>
+						<p ng-bind="item.shortDesc"></p>
+					</li>
+				
+              </ion-item>
+          </ion-list>
+          <!--
+          	上啦加载更多
+          -->
+          <ion-infinite-scroll
+          spinner = "bubbles"
+          infinite-text = "加载更多"
+          on-infinite = "loadMore()"
+          distance = "1%"
+          >
+          </ion-infinite-scroll>
+        </ion-content>
+</section>

@@ -1,0 +1,13 @@
+<link rel="stylesheet" type="text/css" href="../css/xj.css"/>
+<script src="../src/js/layer.js"></script>
+<link rel="stylesheet" type="text/css" href="../src/css/layer.css"/>
+<section class="container">
+	<header><span ng-bind="title"></span><span ng-bind="title01"></span></header>
+	<div class="box">
+        <input type="text" class="form-group" name="text" ng-model="name" placeholder="请输入账号"/>
+        <input type="password" class="form-group" name="password" ng-model="pwd" placeholder="请输入密码"/>
+        <input type="password" class="form-group" name="password2" ng-model="pwd2" placeholder="确认密码"/>
+        <button class="btn form-group" ng-click="reg(name,pwd,pwd2)" ui-sref="Hash">注册</button>
+		<a ui-sref="terms" class="ahref">注册及表同意"隐私条款"</a>
+    </div>
+</section>

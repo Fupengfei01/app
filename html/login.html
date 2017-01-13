@@ -1,0 +1,17 @@
+<link rel="stylesheet" type="text/css" href="../css/xj.css"/>
+<script src="../src/js/layer.js"></script>
+<link rel="stylesheet" type="text/css" href="../src/css/layer.css"/>
+<section >
+	<header><span ng-bind="title"></span><span ng-bind="title01"></span></header>
+	<div>
+		<input type="text" ng-model="userName" placeholder="账号" />
+		<input type="password" ng-model="userPwd" placeholder="密码" />
+		<button ng-click="log()">登录</button>
+		<button>
+			<i class="icon iconfont icon-weixin"></i>
+			<span>微信登陆</span>
+		</button>
+		<a ui-serf="register" class="ahref">忘记密码？</a>
+	</div>
+</section>
+

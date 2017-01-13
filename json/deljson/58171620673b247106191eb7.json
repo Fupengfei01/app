@@ -1,0 +1,79 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "58171620673b247106191eb7",
+      "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+      "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+      "name": "李悦",
+      "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+      "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+      "title": "童心锁艺术剧社创始人",
+      "mTags": "儿童戏剧 主持人 童心锁",
+      "points": 0,
+      "createTime": 1477908000304,
+      "followers": 251,
+      "type": 1,
+      "gender": 1
+    },
+    "abouts": [
+      {
+        "_id": "58228ae3448e42d1119053fc",
+        "introPic": "http://static.donguo.me/banner/20161109/c6a828df25a07682d06a8a8f8add8055",
+        "bannerPic": "http://static.donguo.me/banner/20161109/c6a828df25a07682d06a8a8f8add8055",
+        "liveTopic": "为孩子们打造一个“实战”的话剧舞台",
+        "score": 0,
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=581828042c00e87f3b600df1",
+        "tags": "艺术素养",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D581828042c00e87f3b600df1&liveId=58228ae3448e42d1119053fc",
+        "updateTime": 1483673136892,
+        "topComments": [],
+        "commentCount": 8,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+            "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+            "name": "李悦",
+            "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+            "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+            "title": "童心锁艺术剧社创始人",
+            "masterId": "58171620673b247106191eb7",
+            "_id": "585cd9c89af5798c394afd45",
+            "likesForThisLive": 318
+          }
+        ]
+      },
+      {
+        "_id": "5822adf7c46c131d06c976ed",
+        "introPic": "http://static.donguo.me/banner/20161109/17b7ccbf68793c2ff0ec29200a57e845",
+        "bannerPic": "http://static.donguo.me/banner/20161109/17b7ccbf68793c2ff0ec29200a57e845",
+        "liveTopic": "让孩子站上舞台，让孩子成为主角",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5816dafa3142538506f72329",
+        "tags": "艺术素养",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5816dafa3142538506f72329&liveId=5822adf7c46c131d06c976ed",
+        "score": 0,
+        "updateTime": 1483673136893,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+            "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+            "name": "李悦",
+            "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+            "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+            "title": "童心锁艺术剧社创始人",
+            "masterId": "58171620673b247106191eb7",
+            "likesForThisLive": 318
+          }
+        ]
+      }
+    ]
+  }
+}

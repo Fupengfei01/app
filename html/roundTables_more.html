@@ -1,0 +1,49 @@
+<link rel="stylesheet" type="text/css" href="../css/roundTables_more.css"/>
+<link rel="stylesheet" type="text/css" href="../src/ionic/css/ionic.min.css">
+
+<div class="title">
+	<div class="iconfont icon-llmainpageback" ui-sref="tabs.shouye_second"></div>
+	<h2>心灵成长</h2>
+</div>
+
+	<ion-content  class="con" 
+        scrollbar-y='false'
+        >
+        <!--
+        	下拉刷新
+        -->
+        <ion-refresher
+         on-refresh = "doRefresh()"
+          on-pulling = "doPulling()"
+          pulling-icon = 'ion-arrow-down-c'
+          pulling-text = "{{pullingText}}"
+          refreshing-text="正在刷新"
+          spinner = 'android'
+        > 
+        </ion-refresher>
+          <ion-list
+          can-swipe="true"
+          delegate-handle="my-handle"
+          >
+
+<section>
+	<div class="pic" ng-repeat="pic in roundTables">
+		<img ng-src="{{pic.bannerPic}}">
+		<div>{{pic.liveTopic}}</div>
+	</div>
+	
+</section>
+</ion-list>
+          <!--
+          	上啦加载更多
+          -->
+          <ion-infinite-scroll
+          spinner = "bubbles"
+          infinite-text = "加载更多"
+          on-infinite = "loadMore()"
+          distance = "1%"
+          >
+          </ion-infinite-scroll>
+        </ion-content>
+
+<script src="../src/js/flexible.js"></script>

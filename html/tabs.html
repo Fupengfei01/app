@@ -1,0 +1,32 @@
+<header ng-if="showHeader">
+	<h1 ng-bind="title"></h1>
+	<i class="iconfont" ng-click="tabsctrl.phone()">&#xe502</i>
+</header>
+    <div ui-view="tabs-nominate"></div>
+	<div ui-view="tabs-intelligent"></div>
+	<div ui-view="tabs-course"></div>
+	<div ui-view="tabs-mine"></div>
+	<div ui-view="course-details"></div>
+	<div ui-view="roundTables_more"></div>
+	<div ui-view="tabs-login"></div>
+	<div ui-view="tabs-register"></div>
+<footer ng-if="showFooter">
+	<ul>
+		<li ui-sref="tabs.nominate"  ui-sref-active="active" ng-click="tabsctrl.mark($event)">
+			<i class="iconfont" >&#xe652</i><br />
+			<a>推荐</a>
+		</li>
+		<li ui-sref="tabs.intelligent"  ui-sref-active="active" ng-click="tabsctrl.mark($event)">
+			<i class="iconfont">&#xe605</i><br />
+			<a>达人</a>
+		</li>
+		<li ui-sref="tabs.course"  ui-sref-active="active" ng-click="tabsctrl.mark($event)">
+			<i class="iconfont">&#xe648</i><br />
+			<a>课程</a>
+		</li>
+		<li ui-sref="tabs.mine"  ui-sref-active="active" ng-click="tabsctrl.mark($event)">
+			<i class="iconfont">&#xe607</i><br />
+			<a>我的</a>
+		</li>
+	</ul>
+</footer>

@@ -1,0 +1,351 @@
+@charset "UTF-8";
+
+ul,
+em,
+i,
+strong {
+  list-style: none;
+  font-style: normal;
+}
+
+body,
+html {
+  font-family: "微软雅黑";
+  -webkit-tap-highlight-color: transparent;
+  color: #666666;
+}
+
+body {
+  width: 100%;
+  height: 100%;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #586a9b), color-stop(50%, #edf3f9)) no-repeat;
+  background: -webkit-linear-gradient(top, #586a9b 0, #edf3f9 50%) no-repeat;
+  background: linear-gradient(top, #586a9b 0, #edf3f9 50%) no-repeat;
+}
+
+.title {
+  width: 100%;
+  height: 1.359375rem;
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #586a9b), color-stop(50%, #7584ad)) no-repeat;
+  background: -webkit-linear-gradient(top, #586a9b 0, #7584ad 50%) no-repeat;
+  background: linear-gradient(top, #586a9b 0, #7584ad 50%) no-repeat;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  z-index: 99999;
+}
+
+.title h2 {
+  width: 8.890625rem;
+  height: 1.359375rem;
+  text-align: center;
+  line-height: 1.359375rem;
+  font-size: 0.4375rem;
+  color: #FFFFFF;
+}
+
+.title .icon-llmainpageback {
+  width: 0.375rem;
+  height: 1.359375rem;
+  line-height: 1.359375rem;
+  font-size: 0.625rem;
+  position: absolute;
+  left: 0.234375rem;
+  color: #FFFFFF;
+}
+
+section {
+  width: 100%;
+  height: auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  z-index: -1;
+  position: absolute;
+  top: 1.359375rem;
+}
+
+section .master {
+  width: 9.46875rem;
+  height: 4.25rem;
+  border-radius: 0.15625rem;
+  background: #FFFFFF;
+}
+
+section .master .conli {
+  width: 9.46875rem;
+}
+
+section .master .master-top {
+  width: 100%;
+  height: 0.53125rem;
+  border-left: 0.03125rem solid #354369;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 0.28125rem;
+  font-size: 0.34375rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.15625rem;
+}
+
+section .master .master-bottom {
+  height: 2.734375rem;
+  width: 17.96875rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+section .master .master-bottom .pic {
+  width: 2.734375rem;
+  height: 2.734375rem;
+}
+
+section .master .master-bottom .pic img {
+  width: 2.734375rem;
+  height: 2.734375rem;
+  border-radius: 0.15625rem;
+  position: absolute;
+}
+
+section .meeting {
+  margin-top: 0.3125rem;
+  width: 9.46875rem;
+  height: 8.75rem;
+  border-radius: 0.15625rem;
+  background: #FFFFFF;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+section .meeting .meeting-top {
+  width: 100%;
+  height: 0.53125rem;
+  border-left: 0.03125rem solid #354369;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+section .meeting .meeting-top span {
+  display: block;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 0.28125rem;
+  font-size: 0.34375rem;
+  line-height: 0.53125rem;
+}
+
+section .meeting .meeting-top a {
+  text-decoration: none;
+  font-size: 0.34375rem;
+  line-height: 0.53125rem;
+  margin-right: 0.421875rem;
+}
+
+section .meeting .meeting-top a i {
+  font-size: 0.21875rem;
+}
+
+section .meeting .meeting-bottom img {
+  width: 8.890625rem;
+  height: 3.484375rem;
+  border-radius: 0.15625rem;
+  position: absolute;
+}
+
+section .meeting .meeting-bottom div {
+  display: block;
+  width: 8.890625rem;
+  height: 3.484375rem;
+  line-height: 3.484375rem;
+  text-align: center;
+  font-size: 0.46875rem;
+  color: #FFFFFF;
+  position: relative;
+}
+
+section .talking {
+  width: 9.46875rem;
+  border-radius: 0.15625rem;
+  background: #FFFFFF;
+  margin-top: 0.3125rem;
+}
+
+section .talking .master-top {
+  width: 100%;
+  height: 1.1875rem;
+  border-bottom: 0.015625rem solid #f0f2fc;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-content: center;
+  -ms-flex-line-pack: center;
+  align-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+section .talking .master-top p {
+  width: 100%;
+  height: 0.53125rem;
+  display: block;
+  border-left: 0.03125rem solid #354369;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding-left: 0.28125rem;
+  font-size: 0.34375rem;
+}
+
+section .talking .master-bottom {
+  width: 100%;
+  height: 2.1875rem;
+  border-bottom: 0.015625rem solid #f0f2fc;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+section .talking .master-bottom dl {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-justify-content: space-around;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  height: 2.1875rem;
+  margin-left: 0.34375rem;
+}
+
+section .talking .master-bottom dl dt {
+  font-size: 0.34375rem;
+  width: 6.25rem;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+section .talking .master-bottom dl dd {
+  width: 6.25rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+section .talking .master-bottom dl dd img {
+  width: 0.703125rem;
+  height: 0.703125rem;
+  border-radius: 50%;
+}
+
+section .talking .master-bottom dl dd span,
+section .talking .master-bottom dl dd em,
+section .talking .master-bottom dl dd b {
+  color: #adadad;
+  font-size: 0.3125rem;
+}
+
+section .talking .master-bottom img {
+  width: 1.671875rem;
+  height: 1.671875rem;
+  display: block;
+  border-radius: 0.15625rem;
+  margin-right: 0.34375rem;
+}

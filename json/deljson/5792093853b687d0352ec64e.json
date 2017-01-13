@@ -1,0 +1,648 @@
+{"code": 0,
+  "data": {
+    "master": {
+      "_id": "5792093853b687d0352ec64e",
+      "name": "沈漪",
+      "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+      "title": "创意和艺术教育专家",
+      "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+      "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+      "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+      "mTags": "美式教育 户外教育 创造力",
+      "points": 0,
+      "createTime": 1471835057574,
+      "followers": 307,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "579b0d24a5de86ebd9d4bc61",
+        "liveTopic": "最棒的创意和艺术，会让你从中见天地、见他人、见自己",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160820/2287b8c2f0759e80a225230b1a93f820",
+        "bannerPic": "http://static.donguo.me/banner/20160918/e455996aab2e051c9a7ae5a2dbf491e2",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e11fa4f7b053a359ca7d21",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e11fa4f7b053a359ca7d21&liveId=579b0d24a5de86ebd9d4bc61",
+        "tags": "艺术素养",
+        "updateTime": 1483672087915,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 223
+          }
+        ]
+      },
+      {
+        "_id": "578e1e8b87dd2a86c4360045",
+        "liveTopic": "孩子的兴趣该如何培养？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160818/4c61f9e09a793d3645ffbc923f63772d",
+        "bannerPic": "http://static.donguo.me/banner/20161013/6817bc23e0e3a88a828ad17eda8d7b64",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=578e1e8b87dd2a86c4360045",
+        "tags": "艺术素养",
+        "updateTime": 1483672087916,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 1033
+          },
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 270
+          },
+          {
+            "name": "王煜鑫",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/wyx.JPG",
+            "title": "艺术教育专家",
+            "desc": "年轻有为的艺术教育专家，现担任即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/e768e33bb456cfac16b6702ff049f3fc",
+            "fullDesc": "年轻有为的艺术教育专家，即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任、上海戏剧学院课程教师，上海即创戏剧文化发展促进中心理事长。",
+            "masterId": "5792093853b687d0352ec64a",
+            "likesForThisLive": 1056
+          }
+        ]
+      },
+      {
+        "_id": "579b14e0a5de86ebd9d4bc65",
+        "liveTopic": "中美教育大不同之高考制度的差异",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160824/8689997388b83bf7e64d52f9fa75448d",
+        "bannerPic": "http://static.donguo.me/banner/20161010/208a70a44a175995daeab2e37e94d4b3",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=579b14e0a5de86ebd9d4bc65",
+        "tags": "心灵成长",
+        "updateTime": 1483672087917,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 320
+          },
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 230
+          },
+          {
+            "name": "清雏",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghuiQC1.jpg",
+            "title": "留学专家",
+            "desc": "武汉大学硕士；国家公派美国匹兹堡大学交流学者，孔子学院教师；10年英语教学经验、在职高校讲师，雅思托福教师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghuiQC2.jpg",
+            "fullDesc": "武汉大学硕士，美国匹兹堡大学交流学者，在职高校讲师，雅思托福教师，多年中美学校实战教学经验，编写出版多本英语启蒙类教材，发表多篇核心期刊论文。",
+            "masterId": "5792093853b687d0352ec65f",
+            "likesForThisLive": 370
+          }
+        ]
+      },
+      {
+        "_id": "57c8e4bcdc6f74286b9c022d",
+        "introPic": "http://static.donguo.me/intro/20160902/2e970e5d2e0bd60f4a58d0209dfe1dac",
+        "bannerPic": "http://static.donguo.me/banner/20160902/6ad4c7ee8c73339215a889993e1f0dc3",
+        "score": 100,
+        "liveTopic": "儿童创作，“画笔”很疯狂",
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e85d4fb267d29f0cb1a270&liveId=57c8e4bcdc6f74286b9c022d",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e85d4fb267d29f0cb1a270",
+        "tags": "艺术素养",
+        "updateTime": 1483672087919,
+        "topComments": [],
+        "commentCount": 6,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 223
+          }
+        ]
+      },
+      {
+        "_id": "57e38a853182cf8c0dfed31c",
+        "introPic": "http://static.donguo.me/intro/20160926/d13be4fe0b86e52f05d5259fec2d4f82",
+        "bannerPic": "http://static.donguo.me/banner/20161013/eeaafd8c391f810f590132ccee5228c9",
+        "liveTopic": "国外儿童科普教育，到底强在哪里？",
+        "category": "圆桌会",
+        "__v": 39,
+        "action": "weilaidao://ip.code/radio?liveId=57e38a853182cf8c0dfed31c",
+        "audioSrc": "http://static.donguo.me/audio/ip/live/guowaizirankexueguowaikepujiaoyu.mp3",
+        "score": 100,
+        "tags": "自然科学",
+        "updateTime": 1483672087920,
+        "topComments": [
+          {
+            "_id": "57ff407dec0c8bc479480584",
+            "attachedId": "57e38b1e317223360dbf5b1f",
+            "content": "喜欢沈老师！！",
+            "attachedType": "live_item",
+            "brief": "在自然环境里学习",
+            "__v": 3,
+            "createTime": 1476345981599,
+            "likedUsers": [
+              "57e0a9c742693a87599e8337",
+              "579eb52511e07f10044eadb9",
+              "581fd989a1b6b6274646fefd"
+            ],
+            "likes": 3,
+            "sender": {
+              "senderId": "57ce1dd7f9e80ee07ad8becf",
+              "name": "川上先生🌵",
+              "avatar": "http://wx.qlogo.cn/mmopen/kkjhX835SYp4Ts1c4s48tHibmzPHhK3dGlnh1jrhjgdl2EVHv68aD7BHfGXUjicIFJVNxOLvVOLMibkzX9dqLAaWw3Q0ibPkr6Hz/0"
+            }
+          },
+          {
+            "__v": 2,
+            "brief": "在自然环境里学习",
+            "attachedType": "live_item",
+            "content": "确实",
+            "attachedId": "57e38b1e317223360dbf5b1f",
+            "_id": "5802e33afaab5fb3344a9f85",
+            "createTime": 1476584250335,
+            "likedUsers": [
+              "57e0a9c742693a87599e8337",
+              "581fd989a1b6b6274646fefd"
+            ],
+            "likes": 2,
+            "sender": {
+              "avatar": "http://static.donguo.me/57a042edbf854b8c3aec83fe/20160901/fa8f12e08290e5297e82b75c1419c7e1",
+              "name": "点点爸",
+              "senderId": "57a042edbf854b8c3aec83fe"
+            }
+          },
+          {
+            "_id": "57ff408073aeb0e379546444",
+            "attachedId": "57e38b1e317223360dbf5b1f",
+            "content": "连南非都做的比我们好",
+            "attachedType": "live_item",
+            "brief": "在自然环境里学习",
+            "__v": 2,
+            "createTime": 1476345984330,
+            "likedUsers": [
+              "57e0a9c742693a87599e8337",
+              "581fd989a1b6b6274646fefd"
+            ],
+            "likes": 2,
+            "sender": {
+              "senderId": "57ee4b8d2700c6f56f242d86",
+              "name": "用户1475234701721"
+            }
+          },
+          {
+            "_id": "57ff3ce5f34a1e077ab12115",
+            "attachedId": "57e38bc6317223360dbf5b22",
+            "content": "受益匪浅哈",
+            "attachedType": "live_item",
+            "brief": "不拘一格学自然",
+            "__v": 1,
+            "createTime": 1476345061501,
+            "likedUsers": [
+              "57ce2ae61369b64815e82093"
+            ],
+            "likes": 1,
+            "sender": {
+              "senderId": "57c39818f9e80ee07ad8bea3",
+              "name": "小明",
+              "avatar": "http://static.donguo.me/57c39818f9e80ee07ad8bea3/20161013/57c39818f9e80ee07ad8bea31476326149243"
+            }
+          }
+        ],
+        "commentCount": 27,
+        "hidden": false,
+        "masters": [
+          {
+            "avatar": "http://static.donguo.me/avatar/20160907/6692e43790729f4517f05cfe20d05610",
+            "bannerPic": "http://static.donguo.me/banner/20160907/a4fd7fc2dc52f08753510134dc030151",
+            "name": "沈梅华",
+            "desc": "野生动物专家，野去自然旅行专业顾问，梦田生态农庄／上海自然导赏培训班创始人",
+            "fullDesc": "野去自然旅行／梦田生态农庄／上海自然导赏培训班创始人，著有《南非野生生活》一书，作为旅游规划师和科学松鼠会成员作家，致力帮助更多人进入自然、了解自然。",
+            "title": "野生动物专家",
+            "masterId": "57cfc1737eaf2cd77ef23538",
+            "likesForThisLive": 928
+          },
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 223
+          }
+        ]
+      },
+      {
+        "_id": "578dd0f887dd2a86c4360040",
+        "courseName": "团体艺术创作，不一样的快乐",
+        "masterId": "5792093853b687d0352ec64e",
+        "shortDesc": "和小伙伴一起合作，完成团体艺术创作，在玩中学习合作和自我表达",
+        "masterName": "沈漪",
+        "masterTitle": "创意和艺术教育专家",
+        "introPic": "http://static.donguo.me/intro/20160819/d63be7c7fc8ae68bcfc5510143c9a8a9",
+        "originalPrice": 99,
+        "price": "免费体验",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "bannerPic": "http://static.donguo.me/banner/20160819/a04a6f6f3730811de11ab09a715271b7",
+        "score": 2,
+        "hasCurriculum": true,
+        "master": {
+          "masterId": "5792093853b687d0352ec64e",
+          "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+          "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+          "title": "创意和艺术教育专家",
+          "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+          "name": "沈漪"
+        },
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=578dd0f887dd2a86c4360040",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=578dd0f887dd2a86c4360040",
+        "category": "艺术素养",
+        "curriculumType": "video",
+        "tags": "艺术素养",
+        "hidden": false,
+        "audience": "parents",
+        "updateTime": 1483672087903,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/video/ip/course/gongchuangyishucolor%20run%EF%BC%88%E4%BF%AE%E6%94%B9%E7%89%88%E6%9C%AC%EF%BC%89.mp4",
+            "poster": "",
+            "videoLength": 270000,
+            "videoName": "共创艺术",
+            "_id": "5816a14ddab72dfb42552fa2",
+            "qSets": []
+          }
+        ],
+        "commentCount": 4,
+        "registerCount": 44,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/ip/course/C_6_1.jpg",
+            "_id": "57b6ca18eaf8144625da1ebd",
+            "goHome": true
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160914/925ece7da07ce8e53dba463e87a8a2bb",
+            "_id": "57b6ca18eaf8144625da1ebb"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/960b92d213257ee50d12e920ef926b89",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d935398bac51364b574fec"
+          }
+        ],
+        "participants": [
+          {
+            "userName": "",
+            "phoneNumber": "",
+            "_id": "579751b5f4b3d9988692c4f9"
+          },
+          {
+            "userName": "胡智琪",
+            "phoneNumber": "18501773060",
+            "_id": "58058f57325e15a339f9701a"
+          }
+        ],
+        "isHit": true
+      },
+      {
+        "_id": "57a304ae9c00cf36611c6b8c",
+        "score": 100,
+        "courseName": "边做手作，边认识世界",
+        "shortDesc": "手作不仅仅只是手作，也是大脑的体操锻炼课！",
+        "masterName": "沈漪",
+        "category": "艺术素养",
+        "introPic": "http://static.donguo.me/intro/20160819/c3f98cfd8426d9710d9c7c30e921ed22",
+        "bannerPic": "http://static.donguo.me/banner/20160914/f4b94e44796cef8e051317133262f61b",
+        "price": "免费体验",
+        "originalPrice": 99,
+        "masterTitle": "创意和艺术教育专家",
+        "masterId": "5792093853b687d0352ec64e",
+        "master": {
+          "masterId": "5792093853b687d0352ec64e",
+          "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+          "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+          "title": "创意和艺术教育专家",
+          "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+          "name": "沈漪"
+        },
+        "__v": 0,
+        "hasCurriculum": false,
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=57a304ae9c00cf36611c6b8c",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=57a304ae9c00cf36611c6b8c",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "tags": "艺术素养",
+        "hidden": false,
+        "audience": "parents",
+        "curriculumType": "audio",
+        "updateTime": 1483672087907,
+        "curriculum": [],
+        "commentCount": 4,
+        "registerCount": 46,
+        "unWorthyCount": 0,
+        "worthyCount": 3,
+        "details": [
+          {
+            "imgUrl": "http://static.donguo.me/image/ip/courseC_9_1.png",
+            "type": "image",
+            "_id": "57a304ae9c00cf36611c6b8e",
+            "goHome": true
+          },
+          {
+            "imgUrl": "http://static.donguo.me/image/20160914/4c7cd4c8e9ccabc0ea7d4d9396071563",
+            "type": "image",
+            "_id": "57a304ae9c00cf36611c6b8d"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/a32d762b82429b15011b22173e66499d",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d9361ac46c248e4bf4358f"
+          }
+        ],
+        "participants": [
+          {
+            "userId": "579eb52511e07f10044eadb9",
+            "userName": "18200001111",
+            "phoneNumber": "18200001111",
+            "_id": "57a44d8fc5f0303374c01cf2"
+          },
+          {
+            "userId": "579eb52511e07f10044eadb9",
+            "userName": "18200001111",
+            "phoneNumber": "18200001111",
+            "_id": "57a7ee8f4d1bf58d74bbf257"
+          },
+          {
+            "userId": "578483bf736c440b051e7ad9",
+            "userName": "老铁老铁",
+            "_id": "57ab02d1a270971524c97e50"
+          }
+        ],
+        "isHit": false
+      },
+      {
+        "_id": "578dd01f87dd2a86c436003f",
+        "courseName": "让孩子与艺术大师面对面",
+        "masterId": "5792093853b687d0352ec64e",
+        "shortDesc": "对世界一流艺术大师的儿童脑洞版临摹！",
+        "masterName": "沈漪",
+        "masterTitle": "创意和艺术教育专家",
+        "introPic": "http://static.donguo.me/intro/20160822/00a3f1f4b056f082f1b7a9627899443c",
+        "originalPrice": 99,
+        "price": "免费体验",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "bannerPic": "http://static.donguo.me/banner/20160825/9760bd107ac7267babd1a7d7b1dfcef4",
+        "score": 2,
+        "master": {
+          "masterId": "5792093853b687d0352ec64e",
+          "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+          "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+          "title": "创意和艺术教育专家",
+          "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+          "name": "沈漪"
+        },
+        "hasCurriculum": true,
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=578dd01f87dd2a86c436003f",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=578dd01f87dd2a86c436003f",
+        "category": "艺术素养",
+        "curriculumType": "video",
+        "tags": "艺术素养",
+        "hidden": false,
+        "audience": "parents",
+        "updateTime": 1483672087909,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/video/ip/course/xiangrikui%E5%90%91%E6%97%A5%E8%91%B5s%EF%BC%88%E4%BF%AE%E6%94%B9%E7%89%88%EF%BC%89.mp4",
+            "poster": "",
+            "videoLength": 184000,
+            "videoName": "梵高与向日葵",
+            "_id": "5816a4413142538506f722d7",
+            "qSets": []
+          }
+        ],
+        "commentCount": 3,
+        "registerCount": 54,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/ip/course/C_5_1.jpg",
+            "_id": "57b6a211f11a8db721cd416a",
+            "goHome": true
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160914/eaa3916af24281fbcf8c66ad2f25e1a5",
+            "_id": "57b6a211f11a8db721cd4168"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/83bf565b07ad57d91ef459e003bba39c",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d935f28bac51364b574ff2"
+          }
+        ],
+        "participants": [],
+        "isHit": false
+      },
+      {
+        "_id": "578dd21887dd2a86c4360041",
+        "courseName": "携手进入孩子“最喜欢的国家”",
+        "shortDesc": "搜集和分析信息的能力、组织和演讲能力……这是一门有深意的课程",
+        "masterId": "5792093853b687d0352ec64e",
+        "masterName": "沈漪",
+        "masterTitle": "创意和艺术教育专家",
+        "introPic": "http://static.donguo.me/intro/20160819/0dd6d3bd9e5edd9bd73bcabf95700398",
+        "originalPrice": 99,
+        "price": "免费体验",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "bannerPic": "http://static.donguo.me/banner/20160819/1c7ab7e0290640c8582fa252c8ad5f08",
+        "score": 100,
+        "hasCurriculum": false,
+        "master": {
+          "masterId": "5792093853b687d0352ec64e",
+          "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+          "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+          "title": "创意和艺术教育专家",
+          "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+          "name": "沈漪"
+        },
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=578dd21887dd2a86c4360041",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=578dd21887dd2a86c4360041",
+        "category": "艺术素养",
+        "tags": "艺术素养",
+        "hidden": false,
+        "audience": "parents",
+        "curriculumType": "audio",
+        "updateTime": 1483672087911,
+        "curriculum": [],
+        "commentCount": 3,
+        "registerCount": 43,
+        "unWorthyCount": 0,
+        "worthyCount": 2,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/ip/course/C_7_1.jpg",
+            "_id": "57b6a2beb2e88fb4217021cc",
+            "goHome": true
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160914/03177ec9f3d88572e64266ff56597ad8",
+            "_id": "57b6a2beb2e88fb4217021cb"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/4ec0a7c9545e17f2894fd55b1059774d",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d934e9876a15524bd340b0"
+          }
+        ],
+        "participants": [
+          {
+            "userId": null,
+            "userName": "撒大大",
+            "phoneNumber": "是打发",
+            "_id": "57951467112aaa2d5aa688a0"
+          }
+        ],
+        "isHit": false
+      },
+      {
+        "_id": "57a304ae9c00cf36611c6b8f",
+        "score": 100,
+        "courseName": "游戏，让科技知识更有趣",
+        "shortDesc": "STEM：一门严谨、认真、充满挑战的科学游戏课程！",
+        "masterName": "沈漪",
+        "category": "艺术素养",
+        "introPic": "http://static.donguo.me/intro/20160822/9e641af7b0c4378e8fba6746fec66c8c",
+        "bannerPic": "http://static.donguo.me/banner/20160822/a3eed2727b4783d148b5f9b9f93fc3fc",
+        "price": "免费体验",
+        "originalPrice": 99,
+        "masterTitle": "创意和艺术教育专家",
+        "masterId": "5792093853b687d0352ec64e",
+        "master": {
+          "masterId": "5792093853b687d0352ec64e",
+          "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+          "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+          "title": "创意和艺术教育专家",
+          "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+          "name": "沈漪"
+        },
+        "__v": 0,
+        "hasCurriculum": false,
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=57a304ae9c00cf36611c6b8f",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=57a304ae9c00cf36611c6b8f",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "tags": "艺术素养",
+        "hidden": false,
+        "audience": "parents",
+        "curriculumType": "audio",
+        "updateTime": 1483672087912,
+        "curriculum": [],
+        "commentCount": 5,
+        "registerCount": 47,
+        "unWorthyCount": 0,
+        "worthyCount": 3,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/ip/course/C_7_1.jpg",
+            "_id": "57b2de399f0ee3b22e8c439a",
+            "goHome": true
+          },
+          {
+            "imgUrl": "http://static.donguo.me/image/20160914/a02b9e131cab0501b1fcfb1ec87cfd0f",
+            "type": "image",
+            "_id": "57a304ae9c00cf36611c6b90"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/2d2cf4654f8a924eccb0b397da9ef0dd",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d935a5c46c248e4bf4358d"
+          }
+        ],
+        "participants": [],
+        "isHit": false
+      }
+    ]
+  }
+}

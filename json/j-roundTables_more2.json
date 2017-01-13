@@ -1,0 +1,205 @@
+{
+    "code": 0,
+    "data": {
+        "roundTables": [
+            {
+                "_id": "58325352b2fe9f2612a93a23",
+                "introPic": "http://static.donguo.me/intro/20161121/4da97ba9185d25ac89af887956d5f25e",
+                "bannerPic": "http://static.donguo.me/banner/20161121/97da21262bbfee7f114242319f13e5c7",
+                "liveTopic": "读英语绘本的大学问",
+                "score": 0,
+                "category": "圆桌会",
+                "tags": "英语启蒙",
+                "audioSrc": "http://static.donguo.me/audio/ip/live/11.18yuanzhuo.mp3",
+                "__v": 7,
+                "action": "weilaidao://ip.code/radio?liveId=58325352b2fe9f2612a93a23",
+                "updateTime": 1483446249716,
+                "topComments": [
+                    {
+                        "_id": "583e960089a7e64e0ff917fd",
+                        "attachedId": "5832545bad0cf7e720107dbe",
+                        "content": "不错",
+                        "attachedType": "live_item",
+                        "__v": 1,
+                        "createTime": 1480496640113,
+                        "likedUsers": [
+                            "580da49e1d128d2855c80a87"
+                        ],
+                        "likes": 1,
+                        "sender": {
+                            "senderId": "580da49e1d128d2855c80a87",
+                            "name": "。。",
+                            "avatar": "http://static.donguo.me/580da49e1d128d2855c80a87/20161130/580da49e1d128d2855c80a871480491686388"
+                        }
+                    },
+                    {
+                        "_id": "583ee07ebacaa87378ef9006",
+                        "attachedId": "58325403ab44595d5eda90bd",
+                        "content": "楼上的小朋友家长说得对！",
+                        "attachedType": "live_item",
+                        "__v": 1,
+                        "createTime": 1480515710466,
+                        "likedUsers": [
+                            "585d3d32fd9782954bb2bea7"
+                        ],
+                        "likes": 1,
+                        "sender": {
+                            "senderId": "57ba6702f9e80ee07ad8be69",
+                            "name": "止戈她爹",
+                            "avatar": "http://static.donguo.me/57ba6702f9e80ee07ad8be69/20161130/57ba6702f9e80ee07ad8be691480515426966"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "58325403ab44595d5eda90bd",
+                        "content": "其实安排好时间，双语环境不会影响孩子的母语",
+                        "attachedType": "live_item",
+                        "_id": "583266b8ad0cf7e720107dcf",
+                        "createTime": 1479698104580,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57ba99edf9e80ee07ad8be6f",
+                            "name": "谢啊哥",
+                            "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161118/57ba99edf9e80ee07ad8be6f1479453447153"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "58325479ab44595d5eda90c0",
+                        "content": "我自己就备着一套英语绘本的书单",
+                        "attachedType": "live_item",
+                        "brief": "丰富的英文绘本推荐",
+                        "_id": "583266ddad0cf7e720107dd0",
+                        "createTime": 1479698141190,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57ba99edf9e80ee07ad8be6f",
+                            "name": "谢啊哥",
+                            "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161118/57ba99edf9e80ee07ad8be6f1479453447153"
+                        }
+                    }
+                ],
+                "commentCount": 5,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161117/c5d43b159361f295bee86dacbf679eff",
+                        "bannerPic": "http://static.donguo.me/banner/20161117/7f7930783b2ba9fe7350476d09c544d3",
+                        "name": "泡泡妈妈",
+                        "desc": "曾任高校英语教师的全职妈妈，专心育儿，从小对宝宝进行英语启蒙教育，颇有心得。",
+                        "fullDesc": "我是孩子的全能外挂，曾任高校英语教师多年。在陪伴孩子成长的过程中，对无跨国背景家庭中“低龄幼儿的英语启蒙”有最直观的体会，并累积了实用有效的方法技巧。",
+                        "title": "英语启蒙全职妈妈 ",
+                        "masterId": "582d51a9fe39c6c12559aca3",
+                        "likesForThisLive": 211
+                    },
+                    {
+                        "name": "清雏",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghuiQC1.jpg",
+                        "title": "留学专家",
+                        "desc": "武汉大学硕士；国家公派美国匹兹堡大学交流学者，孔子学院教师；10年英语教学经验、在职高校讲师，雅思托福教师。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghuiQC2.jpg",
+                        "fullDesc": "武汉大学硕士，美国匹兹堡大学交流学者，在职高校讲师，雅思托福教师，多年中美学校实战教学经验，编写出版多本英语启蒙类教材，发表多篇核心期刊论文。",
+                        "masterId": "5792093853b687d0352ec65f",
+                        "likesForThisLive": 351
+                    }
+                ]
+            },
+            {
+                "_id": "57a7e47826cfd82b677dddd4",
+                "liveTopic": "英语启蒙，家长该如何开始？",
+                "startTime": 0,
+                "introPic": "http://static.donguo.me/intro/20160821/8ab6b7c49b2ca4e30234fae102507185",
+                "bannerPic": "http://static.donguo.me/banner/20160821/f0abc66fd078cac6ff23c0e09dda7262",
+                "category": "圆桌会",
+                "score": 100,
+                "action": "weilaidao://ip.code/roundtable?liveId=57a7e47826cfd82b677dddd4",
+                "tags": "英语启蒙",
+                "updateTime": 1483446249722,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "Jesse妈妈",
+                        "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+                        "title": "杰斯英语启蒙创始人",
+                        "desc": "有着十年英文教学经验的英文电台主播",
+                        "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+                        "bannerPic": "http://static.donguo.me/banner/20161027/a2d233311e4e8e17efbe6ae8ab3455c9",
+                        "masterId": "57a7dd361dba92999a09f715",
+                        "likesForThisLive": 1031
+                    },
+                    {
+                        "name": "单小陌",
+                        "avatar": "http://static.donguo.me/avatar/20160822/c7417b37c7102a739344e44f00e1e403",
+                        "title": "绘声绘社创始人",
+                        "desc": "带两娃在家英语启蒙，并开办绘声绘社绘本阅读公益组织",
+                        "fullDesc": "亲子手工达人，亲子旅行达人，“美丽花故事妈妈义工团”讲师，育有一子一女，坚持在家给孩子英语启蒙，并创办“绘声绘社”绘本阅读公益组织。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/ba8d080ca4a151b87089ac5de98aac8e",
+                        "masterId": "57a7dd361dba92999a09f717",
+                        "likesForThisLive": 463
+                    },
+                    {
+                        "name": "宝莉爹妈",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/bl.JPG",
+                        "title": "宝莉英语实验室",
+                        "desc": "宝莉英语实验室开创者",
+                        "fullDesc": "专注于婴幼儿双语启蒙、亲子教育分享，成立宝莉英语实验室，研究儿童英语启蒙教学方法，为广大英语启蒙家长传播好的方法，推荐绘本与儿歌等有利英语启蒙的工具。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introbl.jpg",
+                        "masterId": "57a7dd361dba92999a09f716",
+                        "likesForThisLive": 823
+                    }
+                ]
+            },
+            {
+                "_id": "579b148fa5de86ebd9d4bc64",
+                "liveTopic": "孩子学英语，真的越早越好吗？",
+                "startTime": 0,
+                "introPic": "http://static.donguo.me/intro/20160819/0591bd8de630750308620889ee067b5f",
+                "bannerPic": "http://static.donguo.me/banner/20161012/88e021fa4d2effed5fc100e9fe5d4c9d",
+                "category": "圆桌会",
+                "score": 100,
+                "action": "weilaidao://ip.code/roundtable?liveId=579b148fa5de86ebd9d4bc64",
+                "tags": "英语启蒙",
+                "updateTime": 1483446249724,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "希希",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/xx.JPG",
+                        "title": "资深媒体人",
+                        "desc": "资深文字工作者，当妈六年，一名多情美男子养成中，即将升级为二宝妈。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introxx.jpg",
+                        "fullDesc": "写过亲子专栏、编过美剧杂志、导过原创话剧、撰过米其林自驾书，资深文字工作者，码字为生十余年，作为两个宝宝的妈妈，只想爱他们、宠他们、愿他们美。",
+                        "masterId": "5792093853b687d0352ec649",
+                        "likesForThisLive": 28
+                    },
+                    {
+                        "name": "胡智琪",
+                        "avatar": "http://static.donguo.me/avatar/20160823/a3919b5643ec73c6ea6dcdceea966320",
+                        "title": "互联网资深产品总监",
+                        "desc": "复旦大学经济学学士。在互联网教育行业摸爬滚打，十余年来从启蒙教育到高等教育皆有涉猎。家有9岁小美女一枚，坚信要让孩子自己去判断选择，不去规划孩子的人生，只做孩子的引路人。",
+                        "fullDesc": "复旦大学经济学学士，互联网资深产品总监，十余年来从启蒙教育到高等教育皆有涉猎。对于儿童教育，有一套独特的育儿理念和方法，坚持只做孩子的引路人。",
+                        "bannerPic": "http://static.donguo.me/banner/20160823/207a6e8fe0bbe810944a758f5b6ef6e2",
+                        "masterId": "579afefa862e529a20f71c18",
+                        "likesForThisLive": 983
+                    },
+                    {
+                        "name": "邬溟",
+                        "avatar": "http://static.donguo.me/avatar/20160822/90f8b88dd1a6232e53f516b103cf9cd7",
+                        "title": "国际教育专家",
+                        "desc": "林肯学院联合创始人，国际教育专家，曾就职于多家国际学校，深谙国际学校模式与流程。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/53a5d4d66d192eae19bcd65eedeee30d",
+                        "fullDesc": "林肯学院联合创始人，近十年国际学校教学经验，擅长科学、数学和生物医学等科目的国际教学，曾任教于英国伦敦圣马克学校、帕克斯顿学校、上海中学国际部等…",
+                        "masterId": "5792093853b687d0352ec647",
+                        "likesForThisLive": 440
+                    }
+                ]
+            }
+        ]
+    }
+}

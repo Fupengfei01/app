@@ -1,0 +1,525 @@
+{
+    "code": 0,
+    "data": {
+        "roundTables": [
+            {
+                "_id": "5809c8ccbad92baa3f2262f8",
+                "introPic": "http://static.donguo.me/intro/20161021/0964f8d4354db9e0902e96671d6a269d",
+                "bannerPic": "http://static.donguo.me/banner/20161021/061c849421f5ed42384d66326f7f7147",
+                "score": 0,
+                "liveTopic": "艺术教育只是附属品吗？",
+                "category": "圆桌会",
+                "tags": "艺术素养",
+                "audioSrc": "http://static.donguo.me/audio/ip/live/yishu.mp3",
+                "__v": 15,
+                "action": "weilaidao://ip.code/radio?liveId=5809c8ccbad92baa3f2262f8",
+                "updateTime": 1483344605578,
+                "topComments": [
+                    {
+                        "__v": 1,
+                        "attachedType": "live_item",
+                        "content": "好",
+                        "attachedId": "5809d03705a25ee23fc8111c",
+                        "_id": "580eb94c5745066d102b8c43",
+                        "createTime": 1477359948094,
+                        "likedUsers": [
+                            "58006f04224c9ee07ce8e2dd"
+                        ],
+                        "likes": 1,
+                        "sender": {
+                            "avatar": "http://static.donguo.me/58006f04224c9ee07ce8e2dd/20161018/7d60c47c01950ad541302f19cf3f9c69",
+                            "name": "。。。。",
+                            "senderId": "58006f04224c9ee07ce8e2dd"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "5809cefd05a25ee23fc8111a",
+                        "content": "艺术教育是为了丰富孩子的生活和精神，反对结果主义！",
+                        "attachedType": "live_item",
+                        "brief": "以结果为导向",
+                        "_id": "5809e3f44687770c5518b319",
+                        "createTime": 1477043188189,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57eb5d39f82f14c70a42d2b1",
+                            "name": "阿宝",
+                            "avatar": "http://wx.qlogo.cn/mmopen/wNB4LicwBft5Sq8CFLCibFQYbCJhfwGfKw6dAVosIBt4zzt3Jmibm85SzsTKQkoMhoibibHY1zFODZktB2KqbBRCb0zpFQYj67w4F/0"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "5809d045bad92baa3f2262fb",
+                        "content": "绝对影响巨大，钢琴确实能提高气质的",
+                        "attachedType": "live_item",
+                        "_id": "5809e3f49faed5f05434097c",
+                        "createTime": 1477043188379,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57ce2ae61369b64815e82093",
+                            "name": "博弈",
+                            "avatar": "http://static.donguo.me/57ce2ae61369b64815e82093/20160918/ac6549618eb3d7ea2c6a48e497fdeedc"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "5809cf2705a25ee23fc8111b",
+                        "content": "现在才开始学画画的我，深感为什么会画画的重要性！",
+                        "attachedType": "live_item",
+                        "_id": "5809e4411d128d2855c809cf",
+                        "createTime": 1477043265776,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57ba99edf9e80ee07ad8be6f",
+                            "name": "谢啊哥",
+                            "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161013/57ba99edf9e80ee07ad8be6f1476366024714"
+                        }
+                    }
+                ],
+                "commentCount": 14,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "王煜鑫",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/wyx.JPG",
+                        "title": "艺术教育专家",
+                        "desc": "年轻有为的艺术教育专家，现担任即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/e768e33bb456cfac16b6702ff049f3fc",
+                        "fullDesc": "年轻有为的艺术教育专家，即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任、上海戏剧学院课程教师，上海即创戏剧文化发展促进中心理事长。",
+                        "masterId": "5792093853b687d0352ec64a",
+                        "likesForThisLive": 935
+                    },
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161021/a0c44096847d27af8e09358435b8486f",
+                        "bannerPic": "http://static.donguo.me/banner/20161021/85df63b432d3375773eccb66be0b352d",
+                        "name": "马里奥",
+                        "desc": "中福会马兰花艺校少儿表演导师，故事电台金牌主播",
+                        "title": "儿童戏剧导师",
+                        "fullDesc": "自媒体达人，资深幼儿早教培训师，中福会马兰花艺校表演导师，故事电台金牌主播，编创的亲子故事、儿童剧深受孩子喜爱，在炫动卡通频道、各大网络FM拥有大量粉丝。",
+                        "masterId": "5809ccb70f7254c73f1de1a3",
+                        "likesForThisLive": 940
+                    }
+                ]
+            },
+            {
+                "_id": "578e1e8b87dd2a86c4360045",
+                "liveTopic": "孩子的兴趣该如何培养？",
+                "startTime": 0,
+                "introPic": "http://static.donguo.me/intro/20160818/4c61f9e09a793d3645ffbc923f63772d",
+                "bannerPic": "http://static.donguo.me/banner/20161013/6817bc23e0e3a88a828ad17eda8d7b64",
+                "category": "圆桌会",
+                "score": 100,
+                "action": "weilaidao://ip.code/roundtable?liveId=578e1e8b87dd2a86c4360045",
+                "tags": "艺术素养",
+                "updateTime": 1483344605582,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "Shirley",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+                        "title": "资深育儿专家",
+                        "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+                        "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+                        "masterId": "5792093853b687d0352ec655",
+                        "likesForThisLive": 1029
+                    },
+                    {
+                        "name": "沈漪",
+                        "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+                        "title": "创意和艺术教育专家",
+                        "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+                        "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+                        "masterId": "5792093853b687d0352ec64e",
+                        "likesForThisLive": 264
+                    },
+                    {
+                        "name": "王煜鑫",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/wyx.JPG",
+                        "title": "艺术教育专家",
+                        "desc": "年轻有为的艺术教育专家，现担任即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/e768e33bb456cfac16b6702ff049f3fc",
+                        "fullDesc": "年轻有为的艺术教育专家，即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任、上海戏剧学院课程教师，上海即创戏剧文化发展促进中心理事长。",
+                        "masterId": "5792093853b687d0352ec64a",
+                        "likesForThisLive": 1044
+                    }
+                ]
+            }
+        ],
+        "masterPieces": [
+            {
+                "_id": "58228ae3448e42d1119053fc",
+                "introPic": "http://static.donguo.me/banner/20161109/c6a828df25a07682d06a8a8f8add8055",
+                "bannerPic": "http://static.donguo.me/banner/20161109/c6a828df25a07682d06a8a8f8add8055",
+                "liveTopic": "为孩子们打造一个“实战”的话剧舞台",
+                "score": 0,
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=581828042c00e87f3b600df1",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D581828042c00e87f3b600df1&liveId=58228ae3448e42d1119053fc",
+                "updateTime": 1483344605584,
+                "topComments": [],
+                "commentCount": 8,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+                        "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+                        "name": "李悦",
+                        "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+                        "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+                        "title": "童心锁艺术剧社创始人",
+                        "masterId": "58171620673b247106191eb7",
+                        "_id": "585cd9c89af5798c394afd45",
+                        "likesForThisLive": 318
+                    }
+                ]
+            },
+            {
+                "_id": "5822adf7c46c131d06c976ed",
+                "introPic": "http://static.donguo.me/banner/20161109/17b7ccbf68793c2ff0ec29200a57e845",
+                "bannerPic": "http://static.donguo.me/banner/20161109/17b7ccbf68793c2ff0ec29200a57e845",
+                "liveTopic": "让孩子站上舞台，让孩子成为主角",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=5816dafa3142538506f72329",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5816dafa3142538506f72329&liveId=5822adf7c46c131d06c976ed",
+                "score": 0,
+                "updateTime": 1483344605586,
+                "topComments": [],
+                "commentCount": 2,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+                        "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+                        "name": "李悦",
+                        "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+                        "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+                        "title": "童心锁艺术剧社创始人",
+                        "masterId": "58171620673b247106191eb7",
+                        "likesForThisLive": 318
+                    }
+                ]
+            },
+            {
+                "_id": "58083f03bad92baa3f2262a9",
+                "introPic": "http://static.donguo.me/banner/20161020/4b46a25d15bbeb1d58153160c3758ab3",
+                "bannerPic": "http://static.donguo.me/banner/20161020/4b46a25d15bbeb1d58153160c3758ab3",
+                "liveTopic": "如何把戏剧 “ 带回家”？",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=57fdd805ab9cb2d0722ea902",
+                "category": "达人谈",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57fdd805ab9cb2d0722ea902&liveId=58083f03bad92baa3f2262a9",
+                "score": 1,
+                "updateTime": 1483344605588,
+                "topComments": [],
+                "commentCount": 3,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20160929/4e77160f6b37db9617b3fa8d1d7645f2",
+                        "bannerPic": "http://static.donguo.me/banner/20160929/f0af1ad5c948ab93d5c5020b7f293548",
+                        "name": "叶逊谦",
+                        "desc": "中国儿童音乐剧研究会副会长，香港Theatre Noir基金会创始人。",
+                        "title": "戏剧教育玩家",
+                        "fullDesc": "为超过50部戏剧作品担任导演、艺术总监等，致力于推动戏剧教育工作，编撰英语戏剧课程，倡导用戏剧与社会对话，主要作品有《动物农庄》、《莎翁的情书》等。",
+                        "masterId": "57ecc8b0f82f14c70a42d2f9",
+                        "likesForThisLive": 652
+                    }
+                ]
+            },
+            {
+                "_id": "58083f4f0f7254c73f1de122",
+                "introPic": "http://static.donguo.me/banner/20161020/248385d7e7eaa6413cbf36515ccf99e3",
+                "bannerPic": "http://static.donguo.me/banner/20161020/248385d7e7eaa6413cbf36515ccf99e3",
+                "liveTopic": "戏剧教育：一场艺术与教育兼备的旅程",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=57fdd82c99655a3a73ef9b84",
+                "category": "达人谈",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57fdd82c99655a3a73ef9b84&liveId=58083f4f0f7254c73f1de122",
+                "score": 1,
+                "updateTime": 1483344605588,
+                "topComments": [],
+                "commentCount": 4,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20160929/4e77160f6b37db9617b3fa8d1d7645f2",
+                        "bannerPic": "http://static.donguo.me/banner/20160929/f0af1ad5c948ab93d5c5020b7f293548",
+                        "name": "叶逊谦",
+                        "desc": "中国儿童音乐剧研究会副会长，香港Theatre Noir基金会创始人。",
+                        "title": "戏剧教育玩家",
+                        "fullDesc": "为超过50部戏剧作品担任导演、艺术总监等，致力于推动戏剧教育工作，编撰英语戏剧课程，倡导用戏剧与社会对话，主要作品有《动物农庄》、《莎翁的情书》等。",
+                        "masterId": "57ecc8b0f82f14c70a42d2f9",
+                        "likesForThisLive": 652
+                    }
+                ]
+            },
+            {
+                "_id": "5808595605a25ee23fc810be",
+                "introPic": "http://static.donguo.me/banner/20161020/516d14e28deb9c4f6e2a1b0945c5a18c",
+                "bannerPic": "http://static.donguo.me/banner/20161020/516d14e28deb9c4f6e2a1b0945c5a18c",
+                "liveTopic": "手帐妈妈的育儿笔记",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=58072f2d0f7254c73f1de004",
+                "category": "达人谈",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58072f2d0f7254c73f1de004&liveId=5808595605a25ee23fc810be",
+                "score": 1,
+                "updateTime": 1483344605589,
+                "topComments": [],
+                "commentCount": 2,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "小羊",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/XY1.jpg",
+                        "title": "手帐达人妈妈",
+                        "desc": "热爱小物品收藏，手工制作，阅读写字，手帐三年级生。",
+                        "fullDesc": "手帐达人，lofter手作达人，新手妈妈一枚，热爱小物品收藏，喜欢手工制作、阅读写字，喜欢温暖的小事物，喜欢怀旧，喜欢在自己的世界里自娱自乐。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/XY2.jpg",
+                        "masterId": "57b6c4fa0f05bb2325c94144",
+                        "likesForThisLive": 374
+                    }
+                ]
+            },
+            {
+                "_id": "5808598daafb3a8e3fc352b0",
+                "introPic": "http://static.donguo.me/banner/20161020/9c2aed9ec4366e91f0f7bcf39bc27640",
+                "bannerPic": "http://static.donguo.me/banner/20161020/9c2aed9ec4366e91f0f7bcf39bc27640",
+                "liveTopic": "宝贝，我要记录你的每一步成长",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=58072f04bad92baa3f2261af",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58072f04bad92baa3f2261af&liveId=5808598daafb3a8e3fc352b0",
+                "score": 1,
+                "updateTime": 1483344605590,
+                "topComments": [],
+                "commentCount": 5,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "微然",
+                        "avatar": "http://static.donguo.me/avatar/20160822/fe34951bc5a33e262aeb12047e027b05",
+                        "title": "手帐达人妈妈",
+                        "desc": "用手帐记录孕期和育儿日常生活，希望能用自己的文字和手绘为宝宝记录成长中的点点滴滴。",
+                        "fullDesc": "80后新手妈妈，爱好做手工，收集各种可爱的小杂货，成为妈妈后，开始用手帐记录孕期和育儿日常生活，希望能用自己的文字和手绘为宝宝记录成长中的点滴。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/342c2af498cc1bb7b91ff99d20bf5f6a",
+                        "masterId": "57b6bfe83ad3d35d24dc9502",
+                        "likesForThisLive": 440
+                    }
+                ]
+            },
+            {
+                "_id": "58098781bad92baa3f2262d4",
+                "introPic": "http://static.donguo.me/intro/20161021/c2ed6635f3e0e4da84d5d4b3fbc88462",
+                "bannerPic": "http://static.donguo.me/banner/20161021/70f56b8ea9f20b36f34a0fb317fcbc77",
+                "liveTopic": "教育剧场案例分享：夏洛克 • 烦恼",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=57fdd86499655a3a73ef9b85",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57fdd86499655a3a73ef9b85&liveId=58098781bad92baa3f2262d4",
+                "score": 1,
+                "updateTime": 1483344605591,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20160929/4e77160f6b37db9617b3fa8d1d7645f2",
+                        "bannerPic": "http://static.donguo.me/banner/20160929/f0af1ad5c948ab93d5c5020b7f293548",
+                        "name": "叶逊谦",
+                        "desc": "中国儿童音乐剧研究会副会长，香港Theatre Noir基金会创始人。",
+                        "title": "戏剧教育玩家",
+                        "fullDesc": "为超过50部戏剧作品担任导演、艺术总监等，致力于推动戏剧教育工作，编撰英语戏剧课程，倡导用戏剧与社会对话，主要作品有《动物农庄》、《莎翁的情书》等。",
+                        "masterId": "57ecc8b0f82f14c70a42d2f9",
+                        "likesForThisLive": 652
+                    }
+                ]
+            },
+            {
+                "_id": "58098dd90f7254c73f1de1a0",
+                "introPic": "http://static.donguo.me/intro/20161021/f01167d52fdd93b5bc5540ea00d5d2fc",
+                "bannerPic": "http://static.donguo.me/banner/20161021/838adc242119ac4201d4e47f461015c3",
+                "score": 1,
+                "liveTopic": "Hi，小芒果，麻麻等你等了好久（上）",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=580986390f7254c73f1de14b",
+                "tags": "艺术素养",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D580986390f7254c73f1de14b&liveId=58098dd90f7254c73f1de1a0",
+                "updateTime": 1483344605592,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "卤树懒",
+                        "avatar": "http://static.donguo.me/avatar/20160822/ce4b268b7457a4019c38b137c733c2da",
+                        "title": "手帐达人妈妈",
+                        "desc": "不长的手帐时光记录了拥有小芒果的各种小确幸，每每翻看都觉得特别幸福。",
+                        "fullDesc": "热爱文具收藏，痴迷旅行手绘，正式跳入手帐大坑，刚好赶上孕期，用手帐记录了拥有小芒果的各种小确幸，每每翻看都觉得特别幸福，目前的手帐以手绘和拼贴为主。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/faa69cb54ed7ab027f0535b2d7a1ce75",
+                        "masterId": "57b6bfe83ad3d35d24dc9501",
+                        "likesForThisLive": 367
+                    }
+                ]
+            },
+            {
+                "_id": "58098e2105a25ee23fc81102",
+                "introPic": "http://static.donguo.me/intro/20161021/11ac4aefa4a13b59d90acaf2abc5c730",
+                "bannerPic": "http://static.donguo.me/banner/20161021/e16022f93b0b4e608bd34fb3fbb7402c",
+                "liveTopic": "Hi，小芒果，麻麻等你等了好久（下）",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=580986840f7254c73f1de16b",
+                "tags": "艺术素养",
+                "category": "达人谈",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D580986840f7254c73f1de16b&liveId=58098e2105a25ee23fc81102",
+                "score": 1,
+                "updateTime": 1483344605593,
+                "topComments": [],
+                "commentCount": 1,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "卤树懒",
+                        "avatar": "http://static.donguo.me/avatar/20160822/ce4b268b7457a4019c38b137c733c2da",
+                        "title": "手帐达人妈妈",
+                        "desc": "不长的手帐时光记录了拥有小芒果的各种小确幸，每每翻看都觉得特别幸福。",
+                        "fullDesc": "热爱文具收藏，痴迷旅行手绘，正式跳入手帐大坑，刚好赶上孕期，用手帐记录了拥有小芒果的各种小确幸，每每翻看都觉得特别幸福，目前的手帐以手绘和拼贴为主。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/faa69cb54ed7ab027f0535b2d7a1ce75",
+                        "masterId": "57b6bfe83ad3d35d24dc9501",
+                        "likesForThisLive": 367
+                    }
+                ]
+            },
+            {
+                "_id": "57c8e3835ffd35026b6fbb56",
+                "introPic": "http://static.donguo.me/intro/20160902/d3072c066c112d8a7c116d8b05dbf8f7",
+                "bannerPic": "http://static.donguo.me/banner/20160902/d2e5f7972a6c60b96a0be3b3d492cdbd",
+                "score": 100,
+                "liveTopic": "这部酷炫的乐高微电影，小孩子也能完成！",
+                "category": "达人谈",
+                "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e69920bf94e26f0d3355b2",
+                "__v": 0,
+                "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e69920bf94e26f0d3355b2&liveId=57c8e3835ffd35026b6fbb56",
+                "tags": "艺术素养",
+                "updateTime": 1483344605594,
+                "topComments": [],
+                "commentCount": 3,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "Max",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/CJ1.jpg",
+                        "title": "乐高老师",
+                        "desc": "毕业于华东师范大学心理学、教育学专业，从事乐高教学经验6年。\n曾经参加过迈型杯学龄前搭建比赛2等奖、棒棒贝贝华东区机器人比赛三等奖。擅长物理学、机械学，挖掘孩子的创造力。",
+                        "fullDesc": "华东师范大学教育心理学毕业，从事乐高一线教学六年，曾获《迈型杯搭建比赛》二等奖、《棒棒贝贝机器人比赛》三等奖，擅长物理学、机械学，善于挖掘孩子创造力。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/CJ2.jpg",
+                        "masterId": "57adb18cbf78efd04ae67d41",
+                        "likesForThisLive": 575
+                    }
+                ]
+            }
+        ],
+        "masters": [
+            {
+                "_id": "57ecc8b0f82f14c70a42d2f9",
+                "avatar": "http://static.donguo.me/avatar/20160929/4e77160f6b37db9617b3fa8d1d7645f2",
+                "bannerPic": "http://static.donguo.me/banner/20160929/f0af1ad5c948ab93d5c5020b7f293548",
+                "name": "叶逊谦",
+                "desc": "中国儿童音乐剧研究会副会长，香港Theatre Noir基金会创始人。",
+                "title": "戏剧教育玩家",
+                "fullDesc": "为超过50部戏剧作品担任导演、艺术总监等，致力于推动戏剧教育工作，编撰英语戏剧课程，倡导用戏剧与社会对话，主要作品有《动物农庄》、《莎翁的情书》等。",
+                "mTags": "戏剧教育 导演 英语戏剧",
+                "points": 0,
+                "followers": 219,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "57adb18cbf78efd04ae67d43",
+                "name": "伊姐",
+                "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/YJ1.jpg",
+                "title": "畅销书作家",
+                "desc": "伊姐，14岁出版小说集，18岁新概念作文大赛获奖，30岁出版畅销书《心若宁静，便是幸福》。专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、关于婚姻、关于爱。原创公众号“伊姐看电影”（ID:eemovie）。",
+                "fullDesc": "14岁出版小说集，18岁获得新概念作文大奖，30岁出版畅销书《心若宁静，便是幸福》，专访明星十余年，爱电影的妈妈，分享光影中的感悟，关于育儿、婚姻和爱。",
+                "bannerPic": "http://static.donguo.me/banner/20161214/afd6449afacd7a483a675da22d39ae39",
+                "mTags": "作家 记者 自媒体达人",
+                "points": 0,
+                "followers": 254,
+                "type": 1,
+                "gender": 2
+            },
+            {
+                "_id": "58171620673b247106191eb7",
+                "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+                "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+                "name": "李悦",
+                "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+                "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+                "title": "童心锁艺术剧社创始人",
+                "mTags": "儿童戏剧 主持人 童心锁",
+                "points": 0,
+                "followers": 246,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "5792093853b687d0352ec64e",
+                "name": "沈漪",
+                "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+                "title": "创意和艺术教育专家",
+                "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+                "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+                "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+                "mTags": "美式教育 户外教育 创造力",
+                "points": 0,
+                "followers": 305,
+                "type": 1,
+                "gender": 2
+            },
+            {
+                "_id": "585239fede5d8195436f3a83",
+                "avatar": "http://static.donguo.me/avatar/20161215/52f6fc5b7ab8694cd88e24134870230b",
+                "bannerPic": "http://static.donguo.me/banner/20161215/a6ae5481e2e7009212a7514615a9e4ae",
+                "name": "庞倩倩",
+                "mTags": "上海中华书画协会副校长",
+                "title": "文化教育  美术课程",
+                "desc": "擅长国画、书法、儿童绘画、工笔画、水粉、色彩搭配等各种美术课程和文化教育课程。",
+                "fullDesc": "擅长国画、书法、儿童绘画、工笔画、水粉、色彩搭配等各种美术课程和文化教育课程，带领学生获得市级比赛金奖等各种奖项，旨在打造一所新型优质文化进修学院。\n",
+                "points": 0,
+                "followers": 159,
+                "type": 1,
+                "gender": 1
+            },
+            {
+                "_id": "5792093853b687d0352ec659",
+                "name": "兔大爷爷",
+                "avatar": "http://static.donguo.me/avatar/20161117/e66e82be3b3f4227086ded17febe23d9",
+                "title": "育儿漫画家",
+                "desc": "育儿漫画家，乐观的正能量育儿控，开设公号“兔大爷爷”，通过简洁有趣的画面向大家传递一种积极向上的育儿态度。",
+                "bannerPic": "http://static.donguo.me/banner/20161117/c85789d78fc7a4ca7728710325d3d199",
+                "fullDesc": "育儿漫画家，正能量育儿控，因顺手画了怀孕过程而热爱上写写画画记录孩子成长的方式。漫画皆取材于自己的生活，希望籍此向大家传递积极向上的育儿态度。",
+                "mTags": "漫画家 育儿达人",
+                "points": 0,
+                "followers": 203,
+                "type": 1,
+                "gender": 2
+            }
+        ]
+    }
+}

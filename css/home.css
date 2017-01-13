@@ -1,0 +1,121 @@
+@charset "UTF-8";
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  font-family: "微软雅黑";
+}
+
+body {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #586a9b), color-stop(50%, #edf3f9)) no-repeat;
+  background: -webkit-linear-gradient(top, #586a9b 0, #edf3f9 50%) no-repeat;
+  background: linear-gradient(top, #586a9b 0, #edf3f9 50%) no-repeat;
+}
+
+header {
+  top: 0;
+  height: 1.40625rem;
+  position: fixed;
+  width: 100%;
+  z-index: 100;
+}
+
+header h1 {
+  width: 3.125rem;
+  height: 1.40625rem;
+  margin: 0 auto;
+  line-height: 1.40625rem;
+  text-align: center;
+  font-size: 0.46875rem;
+  color: #fff;
+}
+
+header .iconfont {
+  position: absolute;
+  font-size: 0.625rem;
+  color: #fff;
+  line-height: 0.625rem;
+  top: 0.421875rem;
+  left: 0.421875rem;
+}
+
+nav {
+  -webkit-animation: move 1s both;
+  animation: move 1s both;
+}
+
+@-webkit-keyframes move {
+  from {
+    -webkit-transform: translate(100%, 0);
+    transform: translate(100%, 0);
+  }
+
+  to {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
+
+@keyframes move {
+  from {
+    -webkit-transform: translate(100%, 0);
+    transform: translate(100%, 0);
+  }
+
+  to {
+    -webkit-transform: translate(0, 0);
+    transform: translate(0, 0);
+  }
+}
+
+footer {
+  z-index: 100;
+  background: #fff;
+  height: 1.40625rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+footer ul {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+footer ul li {
+  padding-top: 0.15625rem;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 1.40625rem;
+  text-align: center;
+  color: #c4c4c4;
+}
+
+footer ul li .iconfont {
+  font-size: 0.625rem;
+  line-height: 0.625rem;
+}
+
+footer ul li .mark {
+  display: none;
+}
+
+footer ul li a {
+  font-size: 0.3125rem;
+  color: #c4c4c4;
+  line-height: 0.625rem;
+}
+
+footer ul .active {
+  color: greenyellow;
+}
+
+footer ul .active a {
+  color: greenyellow;
+}

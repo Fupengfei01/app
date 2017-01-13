@@ -1,0 +1,94 @@
+
+	<link rel="stylesheet" type="text/css" href="../css/shouye_second.css"/>
+	<link rel="stylesheet" type="text/css" href="../src/ionic/css/ionic.min.css">
+	
+		<div class="title">
+			<div class="iconfont icon-llmainpageback" ui-sref="tabs.nominate"></div>
+			<h2>{{roundTables[0].tags}}</h2>
+		</div>
+			<ion-content  class="con" 
+        scrollbar-y='false'
+        >
+        <!--
+        	下拉刷新
+        -->
+        <ion-refresher
+         on-refresh = "doRefresh()"
+          on-pulling = "doPulling()"
+          pulling-icon = 'ion-arrow-down-c'
+          pulling-text = "{{pullingText}}"
+          refreshing-text="正在刷新"
+          spinner = 'android'
+        > 
+        </ion-refresher>
+          <ion-list
+          can-swipe="true"
+          delegate-handle="my-handle"
+          >
+				
+			
+		<section>	
+			<div class="master">
+					<div class="master-top">教育达人</div>
+					
+					
+					<ion-scroll direction="x" scrollbar-x='false'>  
+					<div class="conli">
+						<div class="master-bottom">
+							<div class="pic" ng-repeat="pic in pic">
+								<img ng-src="{{pic.avatar}}" />
+								
+							</div>
+						</div>
+					</div>
+					</ion-scroll> 
+					
+			</div>
+			<div class="meeting">
+				<div class="meeting-top">
+					<span>圆桌会</span>
+					<a ui-sref="tabs.roundTables_more({id:roundTables[0].__v})">往期回顾<i class="iconfont icon-you"></i></a>
+				</div>
+				
+				
+				<div class="meeting-bottom" ng-repeat="pic in roundTables">
+					<img ng-src="{{pic.bannerPic}}">
+					<div>{{pic.liveTopic}}</div>
+				</div>
+				
+				<!--<div class="meeting-bottom">
+					<img src="" >
+					<div>老人带娃，除了接纳，还能改变！</div>
+				</div>-->
+			</div>
+			<div class="talking">
+				<div class="master-top">
+					<p>达人谈</p>
+				</div>
+				<div class="master-bottom" ng-repeat="masterPieces in masterPieces">
+					<dl>
+						<dt>{{masterPieces.liveTopic}}</dt>
+						<dd>
+							<img ng-src="{{masterPieces.masters[0].avatar}}" alt="" />
+							<span>{{masterPieces.masters[0].name}}</span><b>丨</b><em>{{masterPieces.masters[0].title}}</em>
+						</dd>
+					</dl>
+					<img ng-src="{{masterPieces.introPic}}"/>
+				</div>
+			</div>
+			</section>
+			</ion-list>
+          <!--
+          	上啦加载更多
+          -->
+          <ion-infinite-scroll
+          spinner = "bubbles"
+          infinite-text = "加载更多"
+          on-infinite = "loadMore()"
+          distance = "1%"
+          >
+          </ion-infinite-scroll>
+        </ion-content>
+			
+		
+	<script src="../src/js/flexible.js"></script>

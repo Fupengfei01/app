@@ -1,0 +1,322 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "5792093853b687d0352ec655",
+      "name": "Shirley",
+      "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+      "title": "资深育儿专家",
+      "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+      "bannerPic": "http://static.donguo.me/banner/20161214/e2862f3a1303316718d9e20354cde198",
+      "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+      "mTags": "儿童教育 育儿讲座 儿童心理",
+      "points": 0,
+      "createTime": 1471835057606,
+      "followers": 292,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "578e1e8b87dd2a86c4360045",
+        "liveTopic": "孩子的兴趣该如何培养？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160818/4c61f9e09a793d3645ffbc923f63772d",
+        "bannerPic": "http://static.donguo.me/banner/20161013/6817bc23e0e3a88a828ad17eda8d7b64",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=578e1e8b87dd2a86c4360045",
+        "tags": "艺术素养",
+        "updateTime": 1483672713371,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 1033
+          },
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 270
+          },
+          {
+            "name": "王煜鑫",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/wyx.JPG",
+            "title": "艺术教育专家",
+            "desc": "年轻有为的艺术教育专家，现担任即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/e768e33bb456cfac16b6702ff049f3fc",
+            "fullDesc": "年轻有为的艺术教育专家，即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任、上海戏剧学院课程教师，上海即创戏剧文化发展促进中心理事长。",
+            "masterId": "5792093853b687d0352ec64a",
+            "likesForThisLive": 1056
+          }
+        ]
+      },
+      {
+        "_id": "57a7def826cfd82b677dddcd",
+        "liveTopic": "生不生二胎，我的子宫我做主",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/image/ip/darentan/DX17.jpg",
+        "bannerPic": "http://static.donguo.me/image/ip/darentan/DB9.jpg",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e01552a8f742db59c570aa",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e01552a8f742db59c570aa&liveId=57a7def826cfd82b677dddcd",
+        "tags": "心灵成长",
+        "updateTime": 1483672713373,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 947
+          }
+        ]
+      },
+      {
+        "_id": "578fb84787dd2a86c436004b",
+        "liveTopic": "铁打的暑假，流水的兴趣班",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160820/deb169fe8a723b58082806269a8dc5bd",
+        "bannerPic": "http://static.donguo.me/banner/20160820/d6a7c10b8145da5845206c4214d82d73",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5806d0fe0d63c40720ec5e3e",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5806d0fe0d63c40720ec5e3e&liveId=578fb84787dd2a86c436004b",
+        "tags": "心灵成长",
+        "updateTime": 1483672713375,
+        "topComments": [],
+        "commentCount": 1,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 947
+          }
+        ]
+      },
+      {
+        "_id": "578fb59e87dd2a86c4360049",
+        "liveTopic": "孩子的暑假该怎么过？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160818/5caa991cde1072754878a7205a550341",
+        "bannerPic": "http://static.donguo.me/banner/20161013/e14dc74db2dbd47e5eef60d24190346e",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=578fb59e87dd2a86c4360049",
+        "tags": "心灵成长",
+        "updateTime": 1483672713376,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 952
+          },
+          {
+            "name": "小七",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/xq.jpg",
+            "title": "犀利博主",
+            "desc": "混迹牛蛙渣娃圈的红人，犀利博主，运营超有料的幼小初公众号“去你的牛蛙”，文笔风趣幽默，粉丝甚众。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introxq.jpg",
+            "fullDesc": "混迹牛蛙渣娃圈的犀利博主，文笔风趣幽默，粉丝甚众，自有独特育儿理念：每个娃天赋不一样，长在不一样的家庭，自变量和因变量太多，无法量产，只能个性化培养。",
+            "masterId": "5792093853b687d0352ec64f",
+            "likesForThisLive": 578
+          },
+          {
+            "name": "黄瓜娘",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/hg.jpg",
+            "title": "达人妈妈",
+            "desc": "自称“神经病妈妈”，有个乖巧懂事的娃，育儿方面颇有经验。在娃进入小一后的阶段，通过悉心教育，娃从几乎零培训，只会加减，到成功考入某机构level最高班级。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introhg.jpg",
+            "fullDesc": "突然鸡血人群、神经病妈妈、乖巧娃。\n\n进入小一后画风突变，突然开始鸡血的妈+还算配合的娃，从几乎零培训，只会加减到考入某机构level最高班级。一年级参加了一些简单的比赛，目前均无失手！\n\n鸡血一年的个人感受：根据孩子的接受能力，适当鸡血对校内外成绩均有促进；娃的自信心也增加了，就是暑假班过于密集有点累。\n\n建议其他父母：外面的牛蛙何其多，一定要跟随自己的脚步，一点一滴的进步都是有效的！",
+            "masterId": "5792093853b687d0352ec650",
+            "likesForThisLive": 897
+          }
+        ]
+      },
+      {
+        "_id": "57c8f1e1ed25c25d6cea4e33",
+        "introPic": "http://static.donguo.me/intro/20160902/cf2a7d2f0b64e7b9f394dbbb8cf9a972",
+        "bannerPic": "http://static.donguo.me/banner/20160902/8ece8a83cba27b7354879e969a71cda1",
+        "score": 100,
+        "liveTopic": "唯有规矩和界限，才能让孩子自由成长",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e49030317223360dbf5b48",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e49030317223360dbf5b48&liveId=57c8f1e1ed25c25d6cea4e33",
+        "tags": "心灵成长",
+        "updateTime": 1483672713377,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 947
+          }
+        ]
+      },
+      {
+        "_id": "58130dc2aad49ffd48ef0780",
+        "introPic": "http://static.donguo.me/intro/20161028/e757f1fc797e2681133c21c7c824bafc",
+        "bannerPic": "http://static.donguo.me/banner/20161028/f327cf9aeeeda641374a332923c50a1c",
+        "score": 0,
+        "liveTopic": "父母如何做好孩子情商教育的第一步？",
+        "category": "圆桌会",
+        "goUrl": "",
+        "audioSrc": "http://static.donguo.me/audio/ip/live/10.28yuanzhuo.mp3",
+        "tags": "心灵成长",
+        "__v": 18,
+        "action": "weilaidao://ip.code/radio?liveId=58130dc2aad49ffd48ef0780",
+        "updateTime": 1483486729647,
+        "topComments": [
+          {
+            "_id": "5813303427d115d948e651fa",
+            "attachedId": "58130efc627a9d97480cac0c",
+            "content": "嗯，就应该是潜移默化的影响",
+            "attachedType": "live_item",
+            "brief": "没有比重可言",
+            "__v": 3,
+            "createTime": 1477652532832,
+            "likedUsers": [
+              "582433828494654341515dc6",
+              "58006f04224c9ee07ce8e2dd",
+              "586c35f41de963c9035df376"
+            ],
+            "likes": 3,
+            "sender": {
+              "senderId": "57ce2ae61369b64815e82093",
+              "name": "博弈",
+              "avatar": "http://static.donguo.me/57ce2ae61369b64815e82093/20160918/ac6549618eb3d7ea2c6a48e497fdeedc"
+            }
+          },
+          {
+            "__v": 1,
+            "attachedType": "live_item",
+            "content": "真的假的",
+            "attachedId": "58130eb9aad49ffd48ef0784",
+            "_id": "5816b93476a941e906307879",
+            "createTime": 1477884212860,
+            "likedUsers": [
+              "57de6110ce1dd8ee5c069e19"
+            ],
+            "likes": 1,
+            "sender": {
+              "avatar": "http://static.donguo.me/57de6110ce1dd8ee5c069e19/20161031/57de6110ce1dd8ee5c069e191477880767281",
+              "name": "小熊饼干",
+              "senderId": "57de6110ce1dd8ee5c069e19"
+            }
+          },
+          {
+            "_id": "58132831aad49ffd48ef079b",
+            "attachedId": "58130eb9aad49ffd48ef0784",
+            "content": "嗯嗯我家孩子自带情商高，哈哈哈",
+            "attachedType": "live_item",
+            "__v": 1,
+            "createTime": 1477650481444,
+            "likedUsers": [
+              "57de6110ce1dd8ee5c069e19"
+            ],
+            "likes": 1,
+            "sender": {
+              "senderId": "57b43d227989a14385111ef3",
+              "name": "☀汪倩倩",
+              "avatar": "http://static.donguo.me/57b43d227989a14385111ef3/20161028/57b43d227989a14385111ef31477650432359"
+            }
+          },
+          {
+            "__v": 1,
+            "brief": "没有比重可言",
+            "attachedType": "live_item",
+            "content": "人际交往的敲门砖",
+            "attachedId": "58130efc627a9d97480cac0c",
+            "_id": "58132fbf428ce7b348e908cf",
+            "createTime": 1477652415589,
+            "likedUsers": [
+              "58006f04224c9ee07ce8e2dd"
+            ],
+            "likes": 1,
+            "sender": {
+              "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161028/57ba99edf9e80ee07ad8be6f1477650479867",
+              "name": "谢啊哥",
+              "senderId": "57ba99edf9e80ee07ad8be6f"
+            }
+          }
+        ],
+        "commentCount": 12,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Shirley",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+            "title": "资深育儿专家",
+            "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+            "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+            "masterId": "5792093853b687d0352ec655",
+            "likesForThisLive": 947
+          },
+          {
+            "name": "莎莎",
+            "avatar": "http://static.donguo.me/avatar/20161104/2f9cd91c9c6ab71010694c5a0ba564a7",
+            "title": "资深早教指导师",
+            "desc": "咿呀呀儿童教育金牌讲师，家长微课负责人",
+            "fullDesc": "资深早教指导师，擅长儿童艺术治疗和游戏治疗，中科院心理所儿童身心发展测评师，为自闭症儿童提供心理援助长达4年之久，《在家上早教》的倡导者和电台主播。",
+            "bannerPic": "http://static.donguo.me/banner/20161104/15299b15af1c7005f48fe2f9448fcfc5",
+            "masterId": "57adb18cbf78efd04ae67d49",
+            "likesForThisLive": 380
+          },
+          {
+            "name": "赵玉",
+            "avatar": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY1.jpg",
+            "title": "6Q智慧父母准导师",
+            "desc": "英国C&G认证 ITT国际培训师\n企业资深培训师\n6Q智慧父母准导师\nNLP执行师\n国家整体形象设计师师资培训师\n礼仪指导师\n《突破式沟通》课程认证讲师 ",
+            "fullDesc": "英国C&G认证 ITT国际培训师，6Q智慧父母准导师，NLP执行师，国家整体形象设计师师资培训师，在家庭教育领域，擅长智慧父母情商提高课程，善于运用情境式教学。",
+            "bannerPic": "http://7xviqj.com1.z1.glb.clouddn.com/image/ip/darenzonghui/ZY2.jpg",
+            "masterId": "57adb18cbf78efd04ae67d47",
+            "likesForThisLive": 844
+          }
+        ]
+      }
+    ]
+  }
+}

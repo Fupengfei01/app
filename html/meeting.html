@@ -1,0 +1,22 @@
+<link rel="stylesheet" href="../css/meeting.css">
+<section>
+    <div class="meet-title">
+        <i class="iconfont backdel" ng-click="backToInt()">&#x3484;</i>
+        <i class="null"></i>
+        <i class="iconfont coment">&#xe669;</i>
+        <i class="iconfont collect">&#xe66d;</i>
+        <i class="iconfont shareit">&#xe618;</i>
+    </div>
+    <div class="meet-cont">
+        <div id="four-headers">
+            <div class="header-box" ng-repeat="(index, datum) in masters">
+                <div class="name" >{{ datum.name }}</div>
+                <div class="ava-box">
+                    <img class="avatar" ng-src="{{datum.avatar}}">
+                </div>
+                <div class="votes">{{datum.likesForThisLive}}</div>
+            </div>
+        </div>
+
+</section>
+

@@ -1,0 +1,323 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "5792093853b687d0352ec654",
+      "name": "憨爸",
+      "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+      "title": "硅谷工程师",
+      "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+      "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+      "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+      "mTags": "工程师 美式育儿 科学启蒙",
+      "points": 0,
+      "createTime": 1471835057606,
+      "followers": 280,
+      "type": 1,
+      "gender": 1
+    },
+    "abouts": [
+      {
+        "_id": "579b14e0a5de86ebd9d4bc65",
+        "liveTopic": "中美教育大不同之高考制度的差异",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160824/8689997388b83bf7e64d52f9fa75448d",
+        "bannerPic": "http://static.donguo.me/banner/20161010/208a70a44a175995daeab2e37e94d4b3",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=579b14e0a5de86ebd9d4bc65",
+        "tags": "心灵成长",
+        "updateTime": 1483672645562,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 320
+          },
+          {
+            "name": "沈漪",
+            "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+            "title": "创意和艺术教育专家",
+            "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+            "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+            "masterId": "5792093853b687d0352ec64e",
+            "likesForThisLive": 230
+          },
+          {
+            "name": "清雏",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghuiQC1.jpg",
+            "title": "留学专家",
+            "desc": "武汉大学硕士；国家公派美国匹兹堡大学交流学者，孔子学院教师；10年英语教学经验、在职高校讲师，雅思托福教师。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghuiQC2.jpg",
+            "fullDesc": "武汉大学硕士，美国匹兹堡大学交流学者，在职高校讲师，雅思托福教师，多年中美学校实战教学经验，编写出版多本英语启蒙类教材，发表多篇核心期刊论文。",
+            "masterId": "5792093853b687d0352ec65f",
+            "likesForThisLive": 370
+          }
+        ]
+      },
+      {
+        "_id": "57b11565286dd1a4b5e92954",
+        "liveTopic": "孩子被欺负了，美国人是怎么处理的？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/image/ip/darentan/DX23.jpg",
+        "bannerPic": "http://static.donguo.me/image/ip/darentan/DB9.jpg",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e1236add90d2bf59f7f7d0",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e1236add90d2bf59f7f7d0&liveId=57b11565286dd1a4b5e92954",
+        "tags": "心灵成长",
+        "updateTime": 1483672645563,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "_id": "584e130beb2f3c985dd6bd9d",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "578fb72287dd2a86c436004a",
+        "liveTopic": "美国人的素质教育，原来是这样玩出来的",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160820/b20ee1cbb76022eba7a648cc521fe43f",
+        "bannerPic": "http://static.donguo.me/banner/20160820/d89712600ad8121fa4f87d48dbcf1ac3",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5806d117e87b09eb1fdcce40",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5806d117e87b09eb1fdcce40&liveId=578fb72287dd2a86c436004a",
+        "tags": "心灵成长",
+        "updateTime": 1483672645564,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "57c8e4e5dc6f74286b9c022f",
+        "introPic": "http://static.donguo.me/intro/20160902/6fa0d01db81e7ca326aa4e31b90f06a6",
+        "bannerPic": "http://static.donguo.me/banner/20160902/e2e7d2e4306d7a27ad2dace4a726df5a",
+        "score": 100,
+        "liveTopic": "孩子的涂鸦，离艺术名作有多远？",
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e006a7f7b053a359ca7c84&liveId=57c8e4e5dc6f74286b9c022f",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e006a7f7b053a359ca7c84",
+        "tags": "艺术素养",
+        "updateTime": 1483672645564,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "57cf7ac2ec605f0f64777a5c",
+        "introPic": "http://static.donguo.me/intro/20160907/aa231fd4e29bd4ce5f2a7a0aaf051d2e",
+        "bannerPic": "http://static.donguo.me/banner/20160907/f77d1b4c052468a7ffa046aa1a778d10",
+        "liveTopic": "为7岁孩子解释“引力波”，之穿越时空版",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57ce84faf240d6df30bb4be4",
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57ce84faf240d6df30bb4be4&liveId=57cf7ac2ec605f0f64777a5c",
+        "score": 100,
+        "tags": "自然科学",
+        "updateTime": 1483672645565,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "57e48f063e711d530d6e1b1a",
+        "introPic": "http://static.donguo.me/intro/20160923/af86dcbddf0c990d1d2b2694ef7a9b22",
+        "bannerPic": "http://static.donguo.me/banner/20160923/2bcc9cd8c7bac89fece9af3a413a0d7f",
+        "liveTopic": "有种抑郁，只有孩子才能体会到",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e1fbb13182cf8c0dfed2ed",
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e1fbb13182cf8c0dfed2ed&liveId=57e48f063e711d530d6e1b1a",
+        "score": 100,
+        "tags": "心灵成长",
+        "updateTime": 1483672645566,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "57e8d825c6923b552fc2b4d1",
+        "introPic": "http://static.donguo.me/intro/20160926/f23c5ce8d985c912a9fe161b76d4a24a",
+        "bannerPic": "http://static.donguo.me/banner/20160926/b2a59436c9d82ba5218e53dca916aa88",
+        "score": 100,
+        "liveTopic": "上万块的乐高培训，值得给孩子报名吗？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e01e4442693a87599e82cb",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e01e4442693a87599e82cb&liveId=57e8d825c6923b552fc2b4d1",
+        "tags": "艺术素养",
+        "updateTime": 1483672645567,
+        "topComments": [],
+        "commentCount": 6,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "58229b1cc46c131d06c976e9",
+        "introPic": "http://static.donguo.me/intro/20161109/1452621d6e04096fd541342e79423a0a",
+        "bannerPic": "http://static.donguo.me/banner/20161109/438b9ffbc3c3fffb45c8af887d61dd6a",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=582169a3a54e58ad12ddbba7",
+        "liveTopic": "美国儿童记忆力测试：烧脑3张图",
+        "tags": "心灵成长",
+        "score": 0,
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D582169a3a54e58ad12ddbba7&liveId=58229b1cc46c131d06c976e9",
+        "updateTime": 1483672645568,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "58229ba6c46c131d06c976eb",
+        "introPic": "http://static.donguo.me/intro/20161109/056eb52821b78b4838c0a8c1cc0ef029",
+        "bannerPic": "http://static.donguo.me/banner/20161109/1d6737d6e0408c051af46cac91ba6697",
+        "score": 0,
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=58216d32bf5d69e74a23477f",
+        "liveTopic": "美国儿童智商测试：烧脑3张图",
+        "category": "达人谈",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58216d32bf5d69e74a23477f&liveId=58229ba6c46c131d06c976eb",
+        "updateTime": 1483672645569,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "likesForThisLive": 312
+          }
+        ]
+      },
+      {
+        "_id": "584a6a1fa236f75979be73db",
+        "introPic": "http://static.donguo.me/banner/20161209/e903e7128bf6b13963a14f107c38e468",
+        "bannerPic": "http://static.donguo.me/banner/20161209/e903e7128bf6b13963a14f107c38e468",
+        "liveTopic": "这是一堂数学课，老师却让孩子学救灾",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5836766b9d74a4233a72564f",
+        "tags": "自然科学",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5836766b9d74a4233a72564f&liveId=584a6a1fa236f75979be73db",
+        "score": 0,
+        "updateTime": 1483672645571,
+        "topComments": [],
+        "commentCount": 1,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "憨爸",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/HB1.jpg",
+            "title": "硅谷工程师",
+            "desc": "育儿大咖，硅谷工程师，移居美国，分享美式幼教理念和资源。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/HB2.jpg",
+            "fullDesc": "硅谷工程师，育儿大咖，深受美式育儿理念触动，乐于分享孩子养育过程中的理念和资源，内容涵盖科学、数学、英语、编程、艺术等众多领域，是一个全能型达人爸爸。",
+            "masterId": "5792093853b687d0352ec654",
+            "_id": "584a6a58f358790879f82868",
+            "likesForThisLive": 0
+          }
+        ]
+      }
+    ]
+  }
+}

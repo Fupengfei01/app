@@ -1,0 +1,156 @@
+{
+    "code": 0,
+    "data": {
+        "roundTables": [
+            {
+                "_id": "5809c8ccbad92baa3f2262f8",
+                "introPic": "http://static.donguo.me/intro/20161021/0964f8d4354db9e0902e96671d6a269d",
+                "bannerPic": "http://static.donguo.me/banner/20161021/061c849421f5ed42384d66326f7f7147",
+                "score": 0,
+                "liveTopic": "艺术教育只是附属品吗？",
+                "category": "圆桌会",
+                "tags": "艺术素养",
+                "audioSrc": "http://static.donguo.me/audio/ip/live/yishu.mp3",
+                "__v": 15,
+                "action": "weilaidao://ip.code/radio?liveId=5809c8ccbad92baa3f2262f8",
+                "updateTime": 1483446286397,
+                "topComments": [
+                    {
+                        "__v": 1,
+                        "attachedType": "live_item",
+                        "content": "好",
+                        "attachedId": "5809d03705a25ee23fc8111c",
+                        "_id": "580eb94c5745066d102b8c43",
+                        "createTime": 1477359948094,
+                        "likedUsers": [
+                            "58006f04224c9ee07ce8e2dd"
+                        ],
+                        "likes": 1,
+                        "sender": {
+                            "avatar": "http://static.donguo.me/58006f04224c9ee07ce8e2dd/20161018/7d60c47c01950ad541302f19cf3f9c69",
+                            "name": "。。。。",
+                            "senderId": "58006f04224c9ee07ce8e2dd"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "5809cefd05a25ee23fc8111a",
+                        "content": "艺术教育是为了丰富孩子的生活和精神，反对结果主义！",
+                        "attachedType": "live_item",
+                        "brief": "以结果为导向",
+                        "_id": "5809e3f44687770c5518b319",
+                        "createTime": 1477043188189,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57eb5d39f82f14c70a42d2b1",
+                            "name": "阿宝",
+                            "avatar": "http://wx.qlogo.cn/mmopen/wNB4LicwBft5Sq8CFLCibFQYbCJhfwGfKw6dAVosIBt4zzt3Jmibm85SzsTKQkoMhoibibHY1zFODZktB2KqbBRCb0zpFQYj67w4F/0"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "5809d045bad92baa3f2262fb",
+                        "content": "绝对影响巨大，钢琴确实能提高气质的",
+                        "attachedType": "live_item",
+                        "_id": "5809e3f49faed5f05434097c",
+                        "createTime": 1477043188379,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57ce2ae61369b64815e82093",
+                            "name": "博弈",
+                            "avatar": "http://static.donguo.me/57ce2ae61369b64815e82093/20160918/ac6549618eb3d7ea2c6a48e497fdeedc"
+                        }
+                    },
+                    {
+                        "__v": 0,
+                        "attachedId": "5809cf2705a25ee23fc8111b",
+                        "content": "现在才开始学画画的我，深感为什么会画画的重要性！",
+                        "attachedType": "live_item",
+                        "_id": "5809e4411d128d2855c809cf",
+                        "createTime": 1477043265776,
+                        "likedUsers": [],
+                        "likes": 0,
+                        "sender": {
+                            "senderId": "57ba99edf9e80ee07ad8be6f",
+                            "name": "谢啊哥",
+                            "avatar": "http://static.donguo.me/57ba99edf9e80ee07ad8be6f/20161013/57ba99edf9e80ee07ad8be6f1476366024714"
+                        }
+                    }
+                ],
+                "commentCount": 14,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "王煜鑫",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/wyx.JPG",
+                        "title": "艺术教育专家",
+                        "desc": "年轻有为的艺术教育专家，现担任即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/e768e33bb456cfac16b6702ff049f3fc",
+                        "fullDesc": "年轻有为的艺术教育专家，即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任、上海戏剧学院课程教师，上海即创戏剧文化发展促进中心理事长。",
+                        "masterId": "5792093853b687d0352ec64a",
+                        "likesForThisLive": 935
+                    },
+                    {
+                        "avatar": "http://static.donguo.me/avatar/20161021/a0c44096847d27af8e09358435b8486f",
+                        "bannerPic": "http://static.donguo.me/banner/20161021/85df63b432d3375773eccb66be0b352d",
+                        "name": "马里奥",
+                        "desc": "中福会马兰花艺校少儿表演导师，故事电台金牌主播",
+                        "title": "儿童戏剧导师",
+                        "fullDesc": "自媒体达人，资深幼儿早教培训师，中福会马兰花艺校表演导师，故事电台金牌主播，编创的亲子故事、儿童剧深受孩子喜爱，在炫动卡通频道、各大网络FM拥有大量粉丝。",
+                        "masterId": "5809ccb70f7254c73f1de1a3",
+                        "likesForThisLive": 940
+                    }
+                ]
+            },
+            {
+                "_id": "578e1e8b87dd2a86c4360045",
+                "liveTopic": "孩子的兴趣该如何培养？",
+                "startTime": 0,
+                "introPic": "http://static.donguo.me/intro/20160818/4c61f9e09a793d3645ffbc923f63772d",
+                "bannerPic": "http://static.donguo.me/banner/20161013/6817bc23e0e3a88a828ad17eda8d7b64",
+                "category": "圆桌会",
+                "score": 100,
+                "action": "weilaidao://ip.code/roundtable?liveId=578e1e8b87dd2a86c4360045",
+                "tags": "艺术素养",
+                "updateTime": 1483446286399,
+                "topComments": [],
+                "commentCount": 0,
+                "hidden": false,
+                "masters": [
+                    {
+                        "name": "Shirley",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/SL1.jpg",
+                        "title": "资深育儿专家",
+                        "desc": "全国知名儿童教育实战专家，国际早期教育协会ACEI会员，国际注册亲子教育指导师，美国Neag教育学硕士，美国认证TESOL高级讲师。",
+                        "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/SL2.jpg",
+                        "fullDesc": "儿童教育实战专家，国际早期教育协会会员，国际注册亲子教育指导师，美国教育学硕士，中国社科院儿童发展心理学硕士，从事教育工作14年，做过上百场育儿讲座。",
+                        "masterId": "5792093853b687d0352ec655",
+                        "likesForThisLive": 1032
+                    },
+                    {
+                        "name": "沈漪",
+                        "avatar": "http://static.donguo.me/avatar/20160822/6042995573fb8a60e702990c1a4d2bc6",
+                        "title": "创意和艺术教育专家",
+                        "desc": "景观设计师、囿宝创意课堂创始人，在美国多年参与美式户外教育，组织儿童户外课堂。回国后，致力于推广、策划和组织美式儿童户外体验课程。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/9558bcbe78ecf8e9441e1fe150d368c3",
+                        "fullDesc": "囿宝艺术课堂创始人，景观设计师，崇尚美式精英教育，美式户外教育的体验者与执行者，多次在中美两地组织儿童户外体验课堂，旨在培养孩子创造性思考能力和习惯。",
+                        "masterId": "5792093853b687d0352ec64e",
+                        "likesForThisLive": 267
+                    },
+                    {
+                        "name": "王煜鑫",
+                        "avatar": "http://static.donguo.me/image/ip/darenzonghui/wyx.JPG",
+                        "title": "艺术教育专家",
+                        "desc": "年轻有为的艺术教育专家，现担任即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任。",
+                        "bannerPic": "http://static.donguo.me/banner/20160822/e768e33bb456cfac16b6702ff049f3fc",
+                        "fullDesc": "年轻有为的艺术教育专家，即兴者联盟创始人&艺术总监，上海戏剧学院即兴戏剧培训项目部主任、上海戏剧学院课程教师，上海即创戏剧文化发展促进中心理事长。",
+                        "masterId": "5792093853b687d0352ec64a",
+                        "likesForThisLive": 1054
+                    }
+                ]
+            }
+        ]
+    }
+}

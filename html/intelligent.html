@@ -1,0 +1,63 @@
+<!--<link rel="stylesheet" type="text/css" href="../src/ionic/css/ionic.css" />-->
+<link rel="stylesheet" type="text/css" href="../css/intelligent.css"/>
+<section on-swipe-down="onSwipeDown() "
+		 on-swipe-up="onSwipeUp()">
+	<div class="intel-nav"  ng-show="showFlag">
+		<ul>
+			<li>全部</li>
+			<li>心灵成长</li>
+			<li>英语启蒙</li>
+			<li>艺术素养</li>
+			<li>自然科学</li>
+		</ul>
+		<span class="linear"></span>
+	</div>
+	<ion-content  class="con"
+				  scrollbar-y='false'
+
+				  >
+		<ion-refresher
+				on-refresh = "doRefresh()"
+				on-pulling = "doPulling()"
+				pulling-icon = 'ion-arrow-down-c'
+				pulling-text = "{{pullingText}}"
+				refreshing-text="正在刷新"
+				spinner = 'android'>
+		</ion-refresher>
+		<ion-list
+				can-swipe="true"
+				delegate-handle="my-handle"
+				class="intel-wrapper">
+			<ion-item class="intel-item" ng-repeat="l in listArr" data_id="{{l._id}}" ng-click="goDel(l._id)">
+				<div class="item-top">
+					<div class="title">
+						<h3 ng-bind="l.name"></h3>
+						<h5 ng-bind="l.title"></h5>
+					</div>
+					<div class="collection">
+						<i class="iconfont">&#xe604;</i>
+						<span ng-bind="l.followers">214</span>
+					</div>
+				</div>
+				<div class="item-pic">
+					<img ng-src="{{l.bannerPic}}"/>
+					<em class="iconfont">&#xe635;</em>
+					<div class="info" ng-view >
+						<h5 ng-bind="'#'+l.mTags"></h5>
+						<i class="iconfont">&#x3484;</i>
+						<p ng-bind="l.fullDesc"></p>
+						<a>TA的作品</a>
+					</div>
+				</div>
+			</ion-item>
+
+		</ion-list>
+		<ion-infinite-scroll
+				spinner = "bubbles"
+				infinite-text = "加载更多"
+				on-infinite = "loadMore()"
+				distance = "1%">
+		</ion-infinite-scroll>
+	</ion-content>
+
+</section>

@@ -1,0 +1,42 @@
+{
+  "index.html": {
+    "resources": [
+      "html/home.html"
+    ],
+    "refer": [
+      "html/home.html"
+    ]
+  },
+  "html/home.html": {
+    "resources": [
+      "js/xj-login.js",
+      "js/talk.js",
+      "src/js/jquery-1.12.4.js",
+      "js/j-shouye_second.js",
+      "js/j-roundTables_more.js",
+      "js/n-intelligent.js",
+      "js/xj-register.js",
+      "src/ionic/js/ionic.bundle.min.js",
+      "src/css/swiper-3.3.1.min.css",
+      "js/f-nominate.js",
+      "js/listenEveryDay.js",
+      "js/service.js",
+      "src/js/flexible.js",
+      "html/terms.html",
+      "src/font/iconfont.css",
+      "js/z-course.js",
+      "src/js/swiper-3.3.1.min.js",
+      "js/xj-mine.js",
+      "css/home.css",
+      "js/intel-detail.js",
+      "js/router.js",
+      "html/mine.html",
+      "html/register.html",
+      "src/css/mobile.css",
+      "js/readEveryDay.js",
+      "js/meeting.js",
+      "html/talk.html",
+      "js/z-details.js"
+    ]
+  }
+}

@@ -1,0 +1,318 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "57adb18cbf78efd04ae67d46",
+      "name": "逃妈",
+      "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+      "title": "教育自媒体达人",
+      "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+      "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+      "bannerPic": "http://static.donguo.me/banner/20161214/72b38ee693df9ded35df83a8e0207e97",
+      "mTags": "自媒体达人 语言培训 美式教育",
+      "points": 0,
+      "createTime": 1471000972240,
+      "followers": 280,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "57bd85c714eef85b66cbd3fe",
+        "introPic": "http://static.donguo.me/intro/20160824/9125343701c2b9426486266489b4fabb",
+        "bannerPic": "http://static.donguo.me/banner/20160824/5dda661ed8ff8216a71e499260e070cb",
+        "liveTopic": "搞定熊孩子，看看美国老师的“计划神器”",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57dffd98f7b053a359ca7c55",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57dffd98f7b053a359ca7c55&liveId=57bd85c714eef85b66cbd3fe",
+        "score": 100,
+        "tags": "英语启蒙",
+        "updateTime": 1483672821640,
+        "topComments": [],
+        "commentCount": 8,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "likesForThisLive": 308
+          }
+        ]
+      },
+      {
+        "_id": "57bd861c7d20653e66711423",
+        "introPic": "http://static.donguo.me/intro/20160824/ce7b9945f361e65f9f1597cba4f702b0",
+        "bannerPic": "http://static.donguo.me/banner/20160824/4d02fc418ec8582b058164ae16e6cb87",
+        "liveTopic": "美国孩子的分级阅读，适合中国孩子吗？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e01e42f7b053a359ca7c85",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e01e42f7b053a359ca7c85&liveId=57bd861c7d20653e66711423",
+        "score": 100,
+        "tags": "英语启蒙",
+        "updateTime": 1483672821642,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "likesForThisLive": 308
+          }
+        ]
+      },
+      {
+        "_id": "57beaf235880a554f43f1192",
+        "introPic": "http://static.donguo.me/image/ip/live/qipashuo&jiaoyuyuanzhuo/L14.jpg",
+        "bannerPic": "http://static.donguo.me/image/ip/live/qipashuo&jiaoyuyuanzhuo/L14.jpg",
+        "liveTopic": "移居美国的宝妈们，教育孩子有何不同 ",
+        "category": "圆桌会",
+        "goUrl": "",
+        "__v": 0,
+        "action": "weilaidao://ip.code/roundtable?liveId=57beaf235880a554f43f1192",
+        "score": 1,
+        "audioSrc": "",
+        "tags": "心灵成长",
+        "updateTime": 1483672821642,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "唐兰兰",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/LLM1.jpg",
+            "title": "美国达人二宝妈",
+            "desc": "一个生活在美国的两娃妈，做过记着、搞过风投，现居美国，《中国教育报》“国际教育版”首位特约撰稿人，美国斯坦福大学、中国传媒大学双料硕士。",
+            "fullDesc": "《中国教育报》国际教育版首位特约撰稿人，美国斯坦福大学、中国传媒大学双料硕士，一个生活在美国的两宝妈，做过记者、搞过风投，常年专注于“中美教育”。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/LLM2.jpg",
+            "masterId": "57adb18cbf78efd04ae67d3e",
+            "likesForThisLive": 684
+          },
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "likesForThisLive": 318
+          }
+        ]
+      },
+      {
+        "_id": "57e8f3fec6923b552fc2b4dd",
+        "introPic": "http://static.donguo.me/intro/20160926/a3a10bf8bcd419d47acebdcfd3a900ce",
+        "bannerPic": "http://static.donguo.me/banner/20160926/c58057f997dca472b5526b5f25a1d029",
+        "score": 100,
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e8e8a06b88d6722f8fe859",
+        "liveTopic": "让孩子与金钱做朋友：美国小学经济课解析",
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e8e8a06b88d6722f8fe859&liveId=57e8f3fec6923b552fc2b4dd",
+        "tags": "心灵成长",
+        "updateTime": 1483672821643,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "likesForThisLive": 308
+          }
+        ]
+      },
+      {
+        "_id": "58119a585745066d102b8c88",
+        "introPic": "http://static.donguo.me/intro/20161027/3d52200c2035ad59651a32bf29b5ee42",
+        "bannerPic": "http://static.donguo.me/banner/20161027/b77fa1de3669df5fcd97c94008583728",
+        "liveTopic": "从学前班就开始培养孩子的领导力，美国“领导预备学校”魅力何在？",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=580d7557b378194455ea509b",
+        "score": 100,
+        "category": "达人谈",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D580d7557b378194455ea509b&liveId=58119a585745066d102b8c88",
+        "updateTime": 1483672821644,
+        "topComments": [],
+        "commentCount": 10,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "likesForThisLive": 308
+          }
+        ]
+      },
+      {
+        "_id": "583d200e9adf54a545a408ce",
+        "introPic": "http://static.donguo.me/intro/20161129/461ac30ebac29ea9480e7df102be2c5a",
+        "bannerPic": "http://static.donguo.me/banner/20161129/c6859508864edad97f88248541dd4e11",
+        "liveTopic": "揭秘：美国孩子的“自由”并不比你家孩子多",
+        "category": "达人谈",
+        "tags": "心灵成长",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=583cf1309c0228933df81b2f",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D583cf1309c0228933df81b2f&liveId=583d200e9adf54a545a408ce",
+        "score": -1,
+        "updateTime": 1483672821645,
+        "topComments": [],
+        "commentCount": 4,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "_id": "584528488559177779f6a055",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "583d2059f9e30c7215325fe9",
+        "introPic": "http://static.donguo.me/intro/20161129/75fa18b4a136e978d80d1cc54c9008e9",
+        "bannerPic": "http://static.donguo.me/banner/20161129/5e7bf3d5cf46bcb6bc151cee20b8e859",
+        "liveTopic": "孩子爱磨蹭、老迟到、没时间概念……你的方法用对了吗？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=583cf5b72ebba11870d14d7c",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D583cf5b72ebba11870d14d7c&liveId=583d2059f9e30c7215325fe9",
+        "score": -1,
+        "tags": "心灵成长",
+        "updateTime": 1483672821646,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161115/7f193370a5c09036990a45061164e5db",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "_id": "5845283f33844e3d799c7d43",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "5859e727a07b82177b1011d2",
+        "introPic": "http://static.donguo.me/banner/20161221/248b7e71b7bc62bf189ebab18046e7bc",
+        "bannerPic": "http://static.donguo.me/banner/20161221/248b7e71b7bc62bf189ebab18046e7bc",
+        "liveTopic": "孩子注意力不集中怎么破？",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5857a1be2eb1e98f529f3f90",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5857a1be2eb1e98f529f3f90&liveId=5859e727a07b82177b1011d2",
+        "score": 0,
+        "updateTime": 1483672821647,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161214/72b38ee693df9ded35df83a8e0207e97",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "_id": "5859e7698d2232bb6ed28076",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "5859e8841beeecc839979d8b",
+        "introPic": "http://static.donguo.me/banner/20161221/b1e4b1f62a9933b8a8be3f1f767e5176",
+        "bannerPic": "http://static.donguo.me/banner/20161221/b1e4b1f62a9933b8a8be3f1f767e5176",
+        "liveTopic": "逻辑思维就是日常生活的点滴积累",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5857a1af37b47274525e5c0f",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5857a1af37b47274525e5c0f&liveId=5859e8841beeecc839979d8b",
+        "score": -3,
+        "updateTime": 1483672821648,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161214/72b38ee693df9ded35df83a8e0207e97",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "_id": "585cda1ee79ac25639529758",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "58608b98d40c246b3c60e713",
+        "introPic": "http://static.donguo.me/intro/20161226/6a23105066aee7e096a0e6384e12baae",
+        "bannerPic": "http://static.donguo.me/banner/20161226/3828764fe7026f168d0948e8b47eecf2",
+        "liveTopic": "孩子喜欢竞争怎么了？尽力去赢有错吗？",
+        "category": "达人谈",
+        "audioSrc": "",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=58579d3fe1aef5114c4b85b6",
+        "tags": "心灵成长",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58579d3fe1aef5114c4b85b6&liveId=58608b98d40c246b3c60e713",
+        "updateTime": 1483672821649,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "逃妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/TM1.jpg",
+            "title": "教育自媒体达人",
+            "desc": "生活在美国达拉斯的华人妈妈，曾经的软件工程师，现在的教育自媒体达人。我和八岁的儿子逃逃共同打造了一个有意思的微信公众号【东西儿童教育】。",
+            "fullDesc": "坐标美国达拉斯，原软件工程师，现教育自媒体达人，原创美国教育见闻、实践案例、育儿心得、英文日常口语、美国课堂实录等内容，带给大家最真实的美国教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161214/72b38ee693df9ded35df83a8e0207e97",
+            "masterId": "57adb18cbf78efd04ae67d46",
+            "_id": "58608b98d40c246b3c60e714",
+            "likesForThisLive": 0
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,369 @@
+{
+  "code": 0,
+  "data": {
+    "master": {
+      "_id": "5797200b282c43a9080e5cb9",
+      "name": "依依",
+      "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+      "title": "小小英语老师",
+      "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+      "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+      "bannerPic": "http://static.donguo.me/banner/20161209/94a368bb2d8cd0bdec20a1ccebe9686f",
+      "mTags": "小学生 英语达人 海尼曼英语",
+      "points": 0,
+      "createTime": 1471835057581,
+      "followers": 400,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "579eadff26cfd82b677ddc1c",
+        "liveTopic": "在家也能玩转的英文启蒙",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/image/ip/darentan/DX10.jpg",
+        "bannerPic": "http://static.donguo.me/image/ip/darentan/DB9.jpg",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5806da1709eab24020971c3e",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5806da1709eab24020971c3e&liveId=579eadff26cfd82b677ddc1c",
+        "tags": "英语启蒙",
+        "updateTime": 1483673030706,
+        "topComments": [],
+        "commentCount": 3,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "依依",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+            "title": "小小英语老师",
+            "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+            "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introyy.jpg",
+            "masterId": "5797200b282c43a9080e5cb9",
+            "likesForThisLive": 891
+          }
+        ]
+      },
+      {
+        "_id": "57b724c37989a14385111f7f",
+        "liveTopic": "暑期父母最大危机：陪娃写作文！",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/image/ip/darentan/DX28.jpg",
+        "bannerPic": "http://static.donguo.me/image/ip/darentan/DB9.jpg",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e23535bf94e26f0d3353e9",
+        "score": 100,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e23535bf94e26f0d3353e9&liveId=57b724c37989a14385111f7f",
+        "tags": "心灵成长",
+        "updateTime": 1483673030707,
+        "topComments": [],
+        "commentCount": 2,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "依依",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+            "title": "小小英语老师",
+            "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+            "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introyy.jpg",
+            "masterId": "5797200b282c43a9080e5cb9",
+            "likesForThisLive": 891
+          }
+        ]
+      },
+      {
+        "_id": "581199c35745066d102b8c86",
+        "introPic": "http://static.donguo.me/intro/20161027/938f368682f39e575192c28b14ad93f8",
+        "bannerPic": "http://static.donguo.me/banner/20161027/a3bce9fd8c05e598cf699cb799a7d7d9",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5809daff9faed5f054340979",
+        "liveTopic": "美国小学是怎么教语文的，我们能否从中借鉴？",
+        "score": 100,
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5809daff9faed5f054340979&liveId=581199c35745066d102b8c86",
+        "tags": "心灵成长",
+        "updateTime": 1483673030708,
+        "topComments": [],
+        "commentCount": 5,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "依依",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+            "title": "小小英语老师",
+            "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+            "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introyy.jpg",
+            "masterId": "5797200b282c43a9080e5cb9",
+            "likesForThisLive": 891
+          }
+        ]
+      },
+      {
+        "_id": "58119e0d1d128d2855c80b94",
+        "introPic": "http://static.donguo.me/intro/20161027/6b87fe2360787d7e02ebded90cac4e12",
+        "bannerPic": "http://static.donguo.me/banner/20161027/d789dfd563a5c0ce66138015135032d6",
+        "liveTopic": "80部英语动画全新汇总分享! 孩子再也不愁没得看了",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=5809c1eb05a25ee23fc81105",
+        "tags": "英语启蒙",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5809c1eb05a25ee23fc81105&liveId=58119e0d1d128d2855c80b94",
+        "score": 100,
+        "updateTime": 1483673030709,
+        "topComments": [],
+        "commentCount": 1,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "依依",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+            "title": "小小英语老师",
+            "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+            "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introyy.jpg",
+            "masterId": "5797200b282c43a9080e5cb9",
+            "likesForThisLive": 891
+          }
+        ]
+      },
+      {
+        "_id": "585a5ece8d2232bb6ed2814b",
+        "introPic": "http://static.donguo.me/intro/20161221/2a2f9781125f909e3f2c22b15cc97553",
+        "bannerPic": "http://static.donguo.me/banner/20161221/7f4c290e2e7c6e9c716ee2b8897fcf30",
+        "liveTopic": "请珍惜爱犯错的孩子，他有可能创造未来",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=58573ea344fdbf32501975ed",
+        "score": -3,
+        "category": "达人谈",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D58573ea344fdbf32501975ed&liveId=585a5ece8d2232bb6ed2814b",
+        "tags": "心灵成长",
+        "updateTime": 1483673030710,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "依依",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+            "title": "小小英语老师",
+            "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+            "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+            "bannerPic": "http://static.donguo.me/banner/20161209/94a368bb2d8cd0bdec20a1ccebe9686f",
+            "masterId": "5797200b282c43a9080e5cb9",
+            "_id": "585cd91cd9559c71395c8855",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "585a62b17ea380c96aca919e",
+        "introPic": "http://static.donguo.me/intro/20161221/290d95ab3ceb6b2d8c34e219a6b91786",
+        "bannerPic": "http://static.donguo.me/banner/20161221/2a644e47f531ad4cc138b657c7622bfb",
+        "liveTopic": "历经菜小、公立名校、私立双语的资深教师揭秘各校长短、给出中肯建议",
+        "goUrl": "http://donguo.me/code_ip/admin/editor.html?articleId=58573e8844fdbf32501975ec",
+        "category": "达人谈",
+        "tags": "心灵成长",
+        "score": -3,
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Fadmin%2Feditor.html%3FarticleId%3D58573e8844fdbf32501975ec&liveId=585a62b17ea380c96aca919e",
+        "updateTime": 1483673030711,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "依依",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+            "title": "小小英语老师",
+            "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+            "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+            "bannerPic": "http://static.donguo.me/banner/20161209/94a368bb2d8cd0bdec20a1ccebe9686f",
+            "masterId": "5797200b282c43a9080e5cb9",
+            "_id": "585cd9166b181c8f771a82b3",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "5794b7ea87dd2a86c4360054",
+        "courseName": "跟依依学英语",
+        "shortDesc": "七岁的小小英语老师＋海尼曼GK系列分级读物，为你带来的纯正英语启蒙“萌”课！",
+        "masterId": "5797200b282c43a9080e5cb9",
+        "masterName": "依依",
+        "masterTitle": "小小英语老师",
+        "introPic": "http://static.donguo.me/intro/20160819/7c4eddfdb9bcf1bb8a29322f5b95cdfe",
+        "originalPrice": 99,
+        "price": "免费体验",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "bannerPic": "http://static.donguo.me/banner/20161216/a6c1fd6265bd573e90d7789364956b11",
+        "score": -2,
+        "master": {
+          "masterId": "5797200b282c43a9080e5cb9",
+          "fullDesc": "7岁女娃，公立普小二年级学生，接受2年家庭英语启蒙教育后，成长为小小英语老师，和妈妈一起录制的《海尼曼英语》教学音频，受到很多小朋友的欢迎。",
+          "desc": "7岁，公立普小二年级女娃；小小的个子，大大的自尊心；Little girl Big trouble。",
+          "title": "小小英语老师",
+          "avatar": "http://static.donguo.me/image/ip/darenzonghui/yy.jpg",
+          "name": "依依"
+        },
+        "hasCurriculum": true,
+        "boughtCount": 0,
+        "action": "weilaidao://ip.code/course?courseId=5794b7ea87dd2a86c4360054",
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=5794b7ea87dd2a86c4360054",
+        "category": "英语启蒙",
+        "curriculumType": "video",
+        "tags": "英语启蒙",
+        "hidden": false,
+        "audience": "children",
+        "updateTime": 1483500599877,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/yy1_2.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy1.jpg",
+            "videoLength": 182000,
+            "videoName": "Lesson 1: At the Market",
+            "_id": "57b6a175f11a8db721cd415a",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/yy2_2.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy2.jpg",
+            "videoLength": 170000,
+            "videoName": "Lesson 2: Rex",
+            "_id": "57c3ef55176702c46f3bcb45",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/yy3_2.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy3.jpg",
+            "videoLength": 196000,
+            "videoName": "Lesson 3: Funny Things",
+            "_id": "57c3ef55176702c46f3bcb44",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/yy4_2.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy4.jpg",
+            "videoLength": 165000,
+            "videoName": "Lesson 4: Mom",
+            "_id": "57c69cf7c7df510a68869da4",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/video/ip/course/genzheyiyixueyingyu5.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy5.jpg",
+            "videoLength": 165000,
+            "videoName": "Lesson 5: Dad",
+            "_id": "57c69cf7c7df510a68869da3",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/video/ip/course/yy6.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy6.jpg",
+            "videoLength": 151000,
+            "videoName": "Lesson 6: At the Zoo",
+            "_id": "580483f1aba5881720546499",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me/video/ip/course/yy7.mp4",
+            "poster": "http://static.donguo.me/image/jpg/yy7.jpg",
+            "videoLength": 164000,
+            "videoName": "Lesson 7: On the Way to School",
+            "_id": "580483f1aba5881720546498",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/yy8.mov",
+            "poster": "http://static.donguo.me//image/jpg/yy8.jpg",
+            "videoLength": 162000,
+            "videoName": "Lesson 8: The Park",
+            "_id": "583d33fc9c0228933df81ba6",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/9.mp4",
+            "poster": "http://static.donguo.me//image/jpg/yy9.jpg",
+            "videoLength": 156000,
+            "videoName": "Lesson 9: Tom",
+            "_id": "584a6f9dabb2faba4577fbdc",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/yy10.mp4",
+            "poster": "https://static.donguo.me//image/jpg/yy10.jpg",
+            "videoLength": 173000,
+            "videoName": "Lesson 10: I Can Read",
+            "_id": "586c6c376dd992c8675d6802",
+            "qSets": []
+          }
+        ],
+        "commentCount": 18,
+        "registerCount": 79,
+        "unWorthyCount": 0,
+        "worthyCount": 8,
+        "details": [
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160914/fadf1994434515af570196902e77fafb",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "goHome": true,
+            "_id": "57d92bbd8bac51364b574fdf"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20160914/c30f6c0921fef1709147a1513de11fbc",
+            "_id": "57b6a175f11a8db721cd415b"
+          },
+          {
+            "type": "image",
+            "imgUrl": "http://static.donguo.me/image/20161014/8629f441fdf02be10ff478f736c1b0a0",
+            "audioSrc": "",
+            "videoSrc": "",
+            "text": "",
+            "_id": "57d92bbd8bac51364b574fde"
+          }
+        ],
+        "participants": [
+          {
+            "userId": null,
+            "userName": "asdflk",
+            "phoneNumber": "isflsdfn",
+            "_id": "5794f4cb112aaa2d5aa6889f"
+          },
+          {
+            "userName": "",
+            "phoneNumber": "",
+            "_id": "57975190f4b3d9988692c4f8"
+          },
+          {
+            "userId": "578483bf736c440b051e7ad9",
+            "userName": " ",
+            "phoneNumber": " ",
+            "_id": "5798625832e0f01705fdbdec"
+          },
+          {
+            "userId": "579eb52511e07f10044eadb9",
+            "_id": "57ab18ade1546e7a2675d44a"
+          }
+        ],
+        "isHit": false
+      }
+    ]
+  }
+}

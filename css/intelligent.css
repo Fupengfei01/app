@@ -1,0 +1,245 @@
+@import url(../src/css/mobile.css);
+
+@import url(../src/ionic/css/ionic.css);
+
+body {
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0, #586a9b), color-stop(50%, #edf3f9)) no-repeat;
+  background: -webkit-linear-gradient(top, #586a9b 0, #edf3f9 50%) no-repeat;
+  background: linear-gradient(top, #586a9b 0, #edf3f9 50%) no-repeat;
+  font-family: "Microsoft yahei";
+}
+
+section {
+  width: 100%;
+  height: 100%;
+}
+
+section .intel-nav {
+  width: 100%;
+  height: 1.046875rem;
+  overFlow-x: scroll;
+  margin-top: 1.40625rem;
+}
+
+section .intel-nav ul {
+  width: 10.78125rem;
+  /*width: 100%;*/
+  height: 1rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+section .intel-nav ul li {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 100%;
+  line-height: 1rem;
+  font-size: 0.34375rem;
+  text-align: center;
+  font-family: "Microsoft yahei";
+}
+
+section .intel-nav span {
+  position: absolute;
+  top: 2.609375rem;
+  left: 0;
+  width: 2.15625rem;
+  height: 0.046875rem;
+  background: #ffffff;
+}
+
+section .intel-nav::-webkit-scrollbar {
+  width: 0;
+  height: 0;
+}
+
+section .con {
+  margin-top: 2.5rem;
+}
+
+.intel-wrapper {
+  width: 100%;
+}
+
+.intel-wrapper .intel-item {
+  margin: 0.34375rem 0.265625rem 0;
+  width: 9.46875rem;
+  border-radius: 0.09375rem;
+  background: #ffffff;
+}
+
+.intel-wrapper .intel-item .item-top {
+  width: 100%;
+  height: 1.390625rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.intel-wrapper .intel-item .item-top .title {
+  width: 7.875rem;
+  padding: 0.234375rem 0 0.140625rem 0.34375rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.intel-wrapper .intel-item .item-top .title h3 {
+  font-size: 0.40625rem;
+  height: 0.578125rem;
+  line-height: 0.578125rem;
+  font-weight: normal;
+  color: #424242;
+}
+
+.intel-wrapper .intel-item .item-top .title h5 {
+  font-size: 0.28125rem;
+  height: 0.4375rem;
+  line-height: 0.4375rem;
+  font-weight: normal;
+  color: #636363;
+}
+
+.intel-wrapper .intel-item .item-top .collection {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+  -ms-flex: 1;
+  flex: 1;
+  height: 1.390625rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.intel-wrapper .intel-item .item-top .collection i {
+  width: 0.515625rem;
+  height: 0.421875rem;
+  font-size: 0.40625rem;
+  margin-right: 0.234375rem;
+}
+
+.intel-wrapper .intel-item .item-top .collection span {
+  font-size: 0.25rem;
+}
+
+.intel-wrapper .intel-item .item-pic {
+  width: 100%;
+  height: 6.484375rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.intel-wrapper .intel-item .item-pic img {
+  background: #40AFFE;
+  height: 100%;
+}
+
+.intel-wrapper .intel-item .item-pic em {
+  position: absolute;
+  left: 0.25rem;
+  bottom: 1.25rem;
+  width: 0.578125rem;
+  height: 0.40625rem;
+  font-size: 0.40625rem;
+  z-index: 1;
+}
+
+.intel-wrapper .intel-item .item-pic .info {
+  width: 100%;
+  height: 4.71875rem;
+  position: absolute;
+  left: 0;
+  z-index: 10;
+  background: rgba(255, 255, 255, 0.7);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#b2ffffff', endColorstr='#b2ffffff');
+  bottom: -3.8125rem;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+:root .intel-wrapper .intel-item .item-pic .info {
+  -webkit-filter: none\9;
+  filter: none\9;
+}
+
+.intel-wrapper .intel-item .item-pic .info h5 {
+  width: 8.4375rem;
+  height: 0.90625rem;
+  line-height: 0.90625rem;
+  position: absolute;
+  top: 0;
+  font-size: 0.328125rem;
+  font-weight: normal;
+  padding-left: 0.34375rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.intel-wrapper .intel-item .item-pic .info i {
+  position: absolute;
+  width: 0.3125rem;
+  height: 0.25rem;
+  font-size: 0.25rem;
+  top: 0.34375rem;
+  right: 0.5625rem;
+}
+
+.intel-wrapper .intel-item .item-pic .info p {
+  position: absolute;
+  top: 0.90625rem;
+  left: 0;
+  width: 100%;
+  height: 3.15625rem;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 0.09375rem 0.34375rem 0.109375rem;
+  font-size: 0.34375rem;
+  line-height: 0.4375rem;
+  white-space: pre-wrap;
+}
+
+.intel-wrapper .intel-item .item-pic .info a {
+  position: absolute;
+  right: 0.5rem;
+  bottom: 0.328125rem;
+  width: 1.40625rem;
+  height: 0.34375rem;
+  color: #8094b5;
+}
+
+.intel-wrapper .intel-item .item-pic .info.ng-enter,
+.intel-wrapper .intel-item .item-pic .info.ng-leave {
+  -webkit-transition: all 1s ease;
+  transition: all 1s ease;
+}
+
+.intel-wrapper .intel-item .item-pic .info.ng-enter {
+  top: 100%;
+}
+
+.intel-wrapper .intel-item .item-pic .info.ng-enter-active {
+  top: 0;
+}
+
+.intel-wrapper .intel-item .item-pic .info.ng-leave {
+  top: 0;
+}
+
+.intel-wrapper .intel-item .item-pic .info.ng-leave-active {
+  top: -100%;
+}

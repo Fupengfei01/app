@@ -1,0 +1,588 @@
+{
+    "bannerList": [
+        {
+            "name": "http://donguo.me/act/201612/fantastic/",
+            "bannerPic": "http://static.donguo.me/banner/20161222/cdf1789d20d06313ddc4ef8423fee876",
+            "type": "4",
+            "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fact%2F201612%2Ffantastic%2F"
+        },
+        {
+            "name": "http://donguo.me/act/201612/promise/promise.html?utm_source=promiseapp",
+            "bannerPic": "http://static.donguo.me/banner/20161226/8c3b0491b42d9de32fe6c604fa44a567",
+            "type": "4",
+            "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fact%2F201612%2Fpromise%2Fpromise.html%3Futm_source%3Dpromiseapp"
+        },
+        {
+            "name": "http://donguo.me/act/201610/apptalk/apptalk.html?&discussId=58581c02e0d838347b488c62",
+            "bannerPic": "http://static.donguo.me/banner/20161225/07b9ca95320a88585b62c9e71ca3ab9c",
+            "type": "4",
+            "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fact%2F201610%2Fapptalk%2Fapptalk.html%3F%26discussId%3D58581c02e0d838347b488c62"
+        },
+        {
+            "name": "http://donguo.me/act/201610/apptalk/catalogue.html",
+            "bannerPic": "http://static.donguo.me/banner/20161226/3561bdd7c5db8494412564b808e34cd9",
+            "type": "4",
+            "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fact%2F201610%2Fapptalk%2Fcatalogue.html"
+        }
+    ],
+    "sermons": [
+        {
+            "_id": "58525849c78f5ff534efc812",
+            "name": "鸟人说鸟事：学会观鸟，感悟自然",
+            "audioSrc": "http://static.donguo.me/weishemeyaoguanniao.mp3",
+            "action": "weilaidao://ip.code/master?masterId=582e930a34315dad20ef6ec6",
+            "createTime": 1481791561726,
+            "masters": [
+                {
+                    "masterId": "582e930a34315dad20ef6ec6",
+                    "name": "黄晓敏",
+                    "title": "鸟类保护使者",
+                    "avatar": "http://static.donguo.me/avatar/20161118/a6edadf6575c6655a2a108c6647031a4",
+                    "_id": "5860786bedf514575f3b6986"
+                }
+            ]
+        },
+        {
+            "_id": "5850fd88c0c996ef6e8d9a8c",
+            "name": "儿童地理生态：Plants and animals live here",
+            "audioSrc": "http://static.donguo.me/08plants%20and%20animals%20live%20here.mp3",
+            "action": "weilaidao://ip.code/course?courseId=584f9cf6d3c490467cbce0d7",
+            "createTime": 1481702792314,
+            "masters": [
+                {
+                    "masterId": "57a7dd361dba92999a09f712",
+                    "name": "考拉优教",
+                    "title": "主持人",
+                    "avatar": "http://static.donguo.me/avatar/20160907/a9b68f4b1ea16150d89b8816696869ab",
+                    "_id": "58607884edf514575f3b6987"
+                }
+            ]
+        },
+        {
+            "_id": "585cd5749af5798c394afd3e",
+            "name": "英语启蒙：唱英文歌学数数",
+            "audioSrc": "https://static.donguo.me/audio/ip/listen/12%20days%20of%20Christmas.mp3",
+            "action": "weilaidao://ip.code/web?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D585cd8ed6b181c8f771a8298",
+            "createTime": 1482478964365,
+            "masters": [
+                {
+                    "masterId": "57a7dd361dba92999a09f715",
+                    "name": "Jesse妈妈",
+                    "title": "杰斯英语启蒙创始人",
+                    "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+                    "_id": "586078e0c8d21bcf370d4a1c"
+                }
+            ]
+        }
+    ],
+    "courses": [
+        {
+            "_id": "582c31f3167b7aa73c5d815c",
+            "bannerPic": "http://static.donguo.me/banner/20161226/44b386600a72b0c85c4116a82d3323d9",
+            "introPic": "http://static.donguo.me/banner/20161226/44b386600a72b0c85c4116a82d3323d9",
+            "hidden": false,
+            "courseName": "张怡筠幼儿情商微课堂",
+            "shortDesc": "情商决定孩子未来的成功与幸福，家长应该是孩子最喜欢最优秀的情商教练",
+            "hasCurriculum": true,
+            "curriculumType": "video",
+            "tags": "心灵成长",
+            "category": "心灵成长",
+            "master": {
+                "masterId": "5818362755c984310be269de",
+                "fullDesc": "美国佐治亚理工学院心理学博士，全国首档儿童情商教育节目《情商魔法课堂》总策划及嘉宾主持，曾任《心灵花园》、《变形计》等知名电视节目心理顾问或嘉宾主持。",
+                "desc": "活跃于媒体的心理学专家，被媒体誉为“心灵魔法师”\n",
+                "title": "情商教育专家",
+                "name": "张怡筠",
+                "avatar": "http://static.donguo.me/avatar/20161101/d19a5d41d09304f1a8c17d3e5626a100"
+            },
+            "price": "",
+            "masterName": "张怡筠",
+            "masterTitle": "情商教育专家",
+            "masterId": "5818362755c984310be269de",
+            "__v": 0,
+            "action": "weilaidao://ip.code/course?courseId=582c31f3167b7aa73c5d815c&curriIndex=0",
+            "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=582c31f3167b7aa73c5d815c",
+            "score": -2,
+            "audience": "parents",
+            "curriculum": [
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang1.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 970923,
+                    "videoName": "情商教育的五种风格",
+                    "_id": "582c337e8ffb7bdf3c859627",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://7xviqj.com1.z1.glb.clouddn.com/video/ip/course/youerqingshang2.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 279000,
+                    "videoName": "孩子玩游戏输不起怎么办",
+                    "_id": "582e8dea34315dad20ef6ec4",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://7xviqj.com1.z1.glb.clouddn.com/video/ip/course/youerqingshang3.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 241000,
+                    "videoName": "如何应对宝宝怕生",
+                    "_id": "582e8dea34315dad20ef6ec3",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://7xviqj.com1.z1.glb.clouddn.com/video/ip/course/youerqingshang4.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 188000,
+                    "videoName": "表扬孩子有窍门",
+                    "_id": "582e8dea34315dad20ef6ec2",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://7xviqj.com1.z1.glb.clouddn.com/video/ip/course/youerqingshang5.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 265000,
+                    "videoName": "孩子有情绪 父母巧回应",
+                    "_id": "582e8dea34315dad20ef6ec1",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://7xviqj.com1.z1.glb.clouddn.com/video/ip/course/youerqingshang6.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 510000,
+                    "videoName": "孩子有冲突 化解有高招",
+                    "_id": "582e8dea34315dad20ef6ec0",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang7.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 612000,
+                    "videoName": "宝宝控ipad 专注恐不足",
+                    "_id": "58354ae5c2ab670370454069",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang8.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 378000,
+                    "videoName": "批评孩子有方法",
+                    "_id": "58354ae5c2ab670370454068",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang9.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 591000,
+                    "videoName": "自制力对孩子有多重要",
+                    "_id": "583ce2a69c0228933df81b2e",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang10.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 425000,
+                    "videoName": "如何培养孩子的自制力",
+                    "_id": "58450277f8e69475169a9119",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang11.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 491000,
+                    "videoName": "孩子坚持乱穿衣，家长应该阻止吗",
+                    "_id": "58450277f8e69475169a9118",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang12.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 569000,
+                    "videoName": "如何回应爱说“不”的孩子",
+                    "_id": "5847c91df8e69475169a9270",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang13.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 578000,
+                    "videoName": "“二宝”来了，“大宝”倍感失宠怎么办",
+                    "_id": "5847c91df8e69475169a926f",
+                    "qSets": []
+                },
+                {
+                    "type": "video",
+                    "videoSrc": "http://static.donguo.me/video/ip/course/youerqingshang14.mp4",
+                    "poster": "http://static.donguo.me/image/jpg/youerqingshang1920.jpg",
+                    "videoLength": 386000,
+                    "videoName": "宝宝成天问为什么，父母如何回应",
+                    "_id": "5847c91df8e69475169a926e",
+                    "qSets": []
+                }
+            ],
+            "commentCount": 9,
+            "registerCount": 0,
+            "unWorthyCount": 0,
+            "worthyCount": 1,
+            "details": [
+                {
+                    "type": "image",
+                    "imgUrl": "http://static.donguo.me/image/20161116/c59257ef7843ab00c65ed9b1dfe00dd7",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "",
+                    "goHome": true,
+                    "_id": "582c3513167b7aa73c5d816d"
+                },
+                {
+                    "type": "title",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "课程介绍",
+                    "_id": "582c3512167b7aa73c5d816c"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "情商，对任何人的一生都有重大的影响，对孩子同样如此。对于一个人来说，未来是不是快乐的人，长大结婚以后，是不是能够经营幸福的婚姻……情商都起了至关重要的作用。\n\n有专业研究显示，情商远远比在学校学习的专业知识和技术重要的多，而爸爸妈妈应该是孩子这辈子最喜欢最优秀的情商教练，所以家长一定要非常关注孩子的情商教育。\n\n爸爸妈妈们，张怡筠博士将用生动的教学案例与您演示情商教育的做法，让我们一起来做孩子最喜欢的情商教练。",
+                    "_id": "582c3512167b7aa73c5d816b"
+                },
+                {
+                    "type": "image",
+                    "imgUrl": "http://static.donguo.me/image/20161116/0fb188978c479e83e144dbcd66757e80",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "",
+                    "_id": "582c3bb2d79136626eaa567c"
+                },
+                {
+                    "type": "title",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "课程内容",
+                    "_id": "582c3512167b7aa73c5d816a"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第一课 情商教育的五种风格",
+                    "_id": "582c3512167b7aa73c5d8169"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "您有没有遇到这样的烦恼，孩子看到自己心爱的玩具，有的时候拖也拖不走，拉也拉不动，您是否会手足无措不知道如何处理？怎么做既不无限制纵容孩子要求，又能够满足其心理需求呢？",
+                    "_id": "582c3512167b7aa73c5d8168"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第二课 孩子玩游戏输不起怎么办",
+                    "_id": "582c3512167b7aa73c5d8167"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "宝贝喜欢和其他小朋友一起玩游戏，却只能赢不能输。一旦输了就不开心，摔玩具。不知道作为家长的您是如何应对“输不起”的孩子的呢？",
+                    "_id": "582c3512167b7aa73c5d8166"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第三课 如何应对宝宝怕生",
+                    "_id": "582c3512167b7aa73c5d8165"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "您的宝宝有这样的情况吗？当宝宝遇到陌生人，不肯主动打招呼，是否令您也尴尬不已，作为父母的您会如何处理呢？",
+                    "_id": "582c3512167b7aa73c5d8164"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第四课 表扬孩子有窍门",
+                    "_id": "582c3512167b7aa73c5d8163"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "表扬孩子，也有窍门哦~经常会听见“我家宝宝会跳舞，可聪明了！”哈哈，家长们是不是经常觉得自己的宝宝超级无敌聪明，而恨不得把所有的赞美词都用在ta身上呢？",
+                    "_id": "582c3512167b7aa73c5d8162"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第五课  孩子有情绪 父母巧回应",
+                    "_id": "582c3512167b7aa73c5d8161"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "如何帮助孩子摆脱不安情绪，同时也能培养孩子对情绪理解的能力，促进孩子理解自己及别人的心理，发展出良好人际关系！",
+                    "_id": "582c3512167b7aa73c5d8160"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第六课  孩子有冲突 化解有高招",
+                    "_id": "582c3512167b7aa73c5d815f"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "孩子之间起冲突，家长往往很头疼，是顾全颜面，责怪自己的孩子？还是干脆越俎代庖插手解决孩子之间的冲突？",
+                    "_id": "582c3512167b7aa73c5d815e"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第七课  宝宝控ipad 专注恐不足",
+                    "_id": "58354ba3203029cd6fa600bd"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "孩子哭闹怎么办？给他一个IPAD！孩子不听话怎么办？给他一个IPAD！……哇！IPAD可谓是新时代的育儿神器啊！可是智能产品育儿“保姆”真的适合孩子吗？",
+                    "_id": "58354ba3203029cd6fa600bc"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第八课  批评孩子有方法",
+                    "_id": "58354ba3203029cd6fa600bb"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "当孩子的表现不如预期理想，家长该如何正确的引导？或是巧妙的批评？不至于让孩子很伤心，父母很生气！",
+                    "_id": "58354ba3203029cd6fa600ba"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第九课 自制力对孩子有多重要",
+                    "_id": "5845060a723eab9179f63a5a"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "您家有“等不及”宝宝吗？想要吃糖！想要买玩具！就必须立刻实现！！拥有能够“等一等”的自制力，对孩子的成长重要吗？对他们未来有多大的影响呢？",
+                    "_id": "5845060a723eab9179f63a59"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第十课 如何培养孩子的自制力",
+                    "_id": "5845060a723eab9179f63a58"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "自制力对孩子成长的重要性，对他们的未来也影响深远，那家长们该：如何培养孩子的自制力呢？",
+                    "_id": "5845060a723eab9179f63a57"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第十一课 孩子坚持乱穿衣，家长应该阻止吗",
+                    "_id": "5845060a723eab9179f63a56"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "早上时间紧，孩子乱穿衣，家长很烦心，实在煞风景！您家宝贝开始“精心”打扮自己了吗？而这些小GAGA造型，往往让家长苦恼不已！殊不知，在这个“爱美”行为的背后，可是蕴藏着大门道哦！",
+                    "_id": "5845060a723eab9179f63a55"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第十二课 如何回应爱说“不”的孩子",
+                    "_id": "5847caa033844e3d799c7ea4"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "一直很乖很听话的宝宝,突然开始爱说：“我不要！”、“我不会！”、“我不想！”……这样大的转变，父母一定不知所措并苦恼不已……面对爱说“不”的宝宝，父母到底该如何回应？",
+                    "_id": "5847caa033844e3d799c7ea3"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第十三课 “二宝”来了，“大宝”倍感失宠怎么办？",
+                    "_id": "5847caa033844e3d799c7ea2"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "现在越来越多的家庭中有了第二个宝宝，因为“二宝”的到来，让“大宝”倍感失宠，由此引发的诸多状况让家长们头疼不已：两个宝贝该如何兼顾？ ",
+                    "_id": "5847caa033844e3d799c7ea1"
+                },
+                {
+                    "type": "subTitle",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "第十四课 宝宝成天问为什么，父母如何回应？",
+                    "_id": "5847caa033844e3d799c7ea0"
+                },
+                {
+                    "type": "text",
+                    "imgUrl": "",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "宝宝开始喜欢成天问为什么？父母亲们经常无力招架，其实这正是培养孩子自信心、好奇心和好学心的好时机哦，面对“为什么宝宝”，爸爸妈妈要如何正确应对呢？",
+                    "_id": "5847caa033844e3d799c7e9f"
+                },
+                {
+                    "type": "image",
+                    "imgUrl": "http://static.donguo.me/image/20161116/b6e86f450fa531dfed4848b2755db6e3",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "",
+                    "goHome": true,
+                    "_id": "582c3bb2d79136626eaa567b"
+                },
+                {
+                    "type": "image",
+                    "imgUrl": "http://static.donguo.me/image/20161116/c514ad68214b4dfee645fdf77f7477a0",
+                    "audioSrc": "",
+                    "videoSrc": "",
+                    "text": "",
+                    "_id": "582c3bb2d79136626eaa567a",
+                    "goHome": true
+                }
+            ],
+            "participants": [],
+            "isHit": false,
+            "curriIndex": "0"
+        }
+    ],
+    "lives": [
+        {
+            "_id": "585a68417ea380c96aca91ac",
+            "introPic": "http://static.donguo.me/banner/20161221/d90f9662ae6107653320ac7519e2cd3b",
+            "bannerPic": "http://static.donguo.me/banner/20161221/d90f9662ae6107653320ac7519e2cd3b",
+            "liveTopic": "解决孩子的问题，请先处理好他的情绪",
+            "category": "达人谈",
+            "goUrl": "http://donguo.me/code_ip/article.html?articleId=5857a1cb7675a6aa522e12f8",
+            "tags": "心灵成长",
+            "__v": 0,
+            "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D5857a1cb7675a6aa522e12f8&liveId=585a68417ea380c96aca91ac",
+            "score": -3,
+            "topComments": [],
+            "commentCount": 0,
+            "hidden": false,
+            "masters": [
+                {
+                    "avatar": "http://static.donguo.me/avatar/20161221/63310259d5378530a92da33f6e8a6ed0",
+                    "bannerPic": "http://static.donguo.me/banner/20161221/4584e18e6841246341e8eb373f33d990",
+                    "name": "沈奕斐",
+                    "desc": "社会学博士，复旦大学副教授，哈佛大学访问学者，能量逗批判性思维课程创始人",
+                    "title": "能量逗导师",
+                    "fullDesc": "社会学博士，复旦大学副教授，哈佛大学访问学者，能量逗批判性思维课程创始人，被称为“最有办法的家庭教育指导师”，致力于中美教育、社会性别等的研究。",
+                    "masterId": "585a6802a07b82177b1012aa",
+                    "_id": "585cd9b06d487b3b39b0be56",
+                    "likesForThisLive": 0
+                }
+            ]
+        },
+        {
+            "_id": "58228ae3448e42d1119053fc",
+            "introPic": "http://static.donguo.me/banner/20161109/c6a828df25a07682d06a8a8f8add8055",
+            "bannerPic": "http://static.donguo.me/banner/20161109/c6a828df25a07682d06a8a8f8add8055",
+            "liveTopic": "为孩子们打造一个“实战”的话剧舞台",
+            "score": 0,
+            "category": "达人谈",
+            "goUrl": "http://donguo.me/code_ip/article.html?articleId=581828042c00e87f3b600df1",
+            "tags": "艺术素养",
+            "__v": 0,
+            "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D581828042c00e87f3b600df1&liveId=58228ae3448e42d1119053fc",
+            "topComments": [],
+            "commentCount": 8,
+            "hidden": false,
+            "masters": [
+                {
+                    "avatar": "http://static.donguo.me/avatar/20161031/fc37914dd220edea9e1bd0aa0c6b9ea9",
+                    "bannerPic": "http://static.donguo.me/banner/20161031/fe0939f56ed09d305987041f3327b5a7",
+                    "name": "李悦",
+                    "desc": "童心锁艺术剧社创始人\n毕业于浙江传媒学院\n曾任《我老爸最棒》节目主持人\n创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光",
+                    "fullDesc": "童心锁艺术剧社创始人，毕业于浙江传媒学院，曾任《我老爸最棒》节目主持人，创办童心锁艺术剧社，只为能让孩子在舞台上闪闪发光。",
+                    "title": "童心锁艺术剧社创始人",
+                    "masterId": "58171620673b247106191eb7",
+                    "_id": "585cd9c89af5798c394afd45",
+                    "likesForThisLive": 318
+                }
+            ]
+        }
+    ],
+    "unread": 0
+}

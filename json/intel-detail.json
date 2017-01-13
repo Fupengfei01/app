@@ -1,0 +1,275 @@
+{"code": 0,
+  "data": {
+    "master": {
+      "_id": "57a7dd361dba92999a09f715",
+      "name": "Jesse妈妈",
+      "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+      "title": "杰斯英语启蒙创始人",
+      "desc": "有着十年英文教学经验的英文电台主播",
+      "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+      "bannerPic": "http://static.donguo.me/banner/20161027/a2d233311e4e8e17efbe6ae8ab3455c9",
+      "mTags": "英语启蒙 电台主播 语言培训",
+      "points": 0,
+      "createTime": 1470618934877,
+      "followers": 384,
+      "type": 1,
+      "gender": 2
+    },
+    "abouts": [
+      {
+        "_id": "57a7e47826cfd82b677dddd4",
+        "liveTopic": "英语启蒙，家长该如何开始？",
+        "startTime": 0,
+        "introPic": "http://static.donguo.me/intro/20160821/8ab6b7c49b2ca4e30234fae102507185",
+        "bannerPic": "http://static.donguo.me/banner/20160821/f0abc66fd078cac6ff23c0e09dda7262",
+        "category": "圆桌会",
+        "score": 100,
+        "action": "weilaidao://ip.code/roundtable?liveId=57a7e47826cfd82b677dddd4",
+        "tags": "英语启蒙",
+        "updateTime": 1483666742542,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Jesse妈妈",
+            "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+            "title": "杰斯英语启蒙创始人",
+            "desc": "有着十年英文教学经验的英文电台主播",
+            "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161027/a2d233311e4e8e17efbe6ae8ab3455c9",
+            "masterId": "57a7dd361dba92999a09f715",
+            "likesForThisLive": 1110
+          },
+          {
+            "name": "单小陌",
+            "avatar": "http://static.donguo.me/avatar/20160822/c7417b37c7102a739344e44f00e1e403",
+            "title": "绘声绘社创始人",
+            "desc": "带两娃在家英语启蒙，并开办绘声绘社绘本阅读公益组织",
+            "fullDesc": "亲子手工达人，亲子旅行达人，“美丽花故事妈妈义工团”讲师，育有一子一女，坚持在家给孩子英语启蒙，并创办“绘声绘社”绘本阅读公益组织。",
+            "bannerPic": "http://static.donguo.me/banner/20160822/ba8d080ca4a151b87089ac5de98aac8e",
+            "masterId": "57a7dd361dba92999a09f717",
+            "likesForThisLive": 480
+          },
+          {
+            "name": "宝莉爹妈",
+            "avatar": "http://static.donguo.me/image/ip/darenzonghui/bl.JPG",
+            "title": "宝莉英语实验室",
+            "desc": "宝莉英语实验室开创者",
+            "fullDesc": "专注于婴幼儿双语启蒙、亲子教育分享，成立宝莉英语实验室，研究儿童英语启蒙教学方法，为广大英语启蒙家长传播好的方法，推荐绘本与儿歌等有利英语启蒙的工具。",
+            "bannerPic": "http://static.donguo.me/image/ip/darenzonghui/Introbl.jpg",
+            "masterId": "57a7dd361dba92999a09f716",
+            "likesForThisLive": 837
+          }
+        ]
+      },
+      {
+        "_id": "57bd867b14eef85b66cbd3ff",
+        "introPic": "http://static.donguo.me/intro/20160824/0b126a9a8fa7813bbaf28d3f13beb6cd",
+        "bannerPic": "http://static.donguo.me/banner/20160918/8808ff02285a4838bde264348b3540a3",
+        "liveTopic": "送给不知道怎么开始英语启蒙的你",
+        "category": "达人谈",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=57e853aab267d29f0cb1a258",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D57e853aab267d29f0cb1a258&liveId=57bd867b14eef85b66cbd3ff",
+        "score": 100,
+        "tags": "英语启蒙",
+        "updateTime": 1483666742543,
+        "topComments": [],
+        "commentCount": 6,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Jesse妈妈",
+            "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+            "title": "杰斯英语启蒙创始人",
+            "desc": "有着十年英文教学经验的英文电台主播",
+            "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161027/a2d233311e4e8e17efbe6ae8ab3455c9",
+            "masterId": "57a7dd361dba92999a09f715",
+            "likesForThisLive": 659
+          }
+        ]
+      },
+      {
+        "_id": "585cd3d1948578f177b04474",
+        "introPic": "http://static.donguo.me/banner/20161223/d39cc62d5577f846775da9602887b51e",
+        "bannerPic": "http://static.donguo.me/banner/20161223/d39cc62d5577f846775da9602887b51e",
+        "liveTopic": "圣诞颂歌：12 days of Christmas",
+        "goUrl": "http://donguo.me/code_ip/article.html?articleId=585cd8ed6b181c8f771a8298",
+        "category": "达人谈",
+        "tags": "英语启蒙",
+        "__v": 0,
+        "action": "weilaidao://ip.code/webview?url=http%3A%2F%2Fdonguo.me%2Fcode_ip%2Farticle.html%3FarticleId%3D585cd8ed6b181c8f771a8298&liveId=585cd3d1948578f177b04474",
+        "score": -3,
+        "updateTime": 1483666742544,
+        "topComments": [],
+        "commentCount": 0,
+        "hidden": false,
+        "masters": [
+          {
+            "name": "Jesse妈妈",
+            "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+            "title": "杰斯英语启蒙创始人",
+            "desc": "有着十年英文教学经验的英文电台主播",
+            "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+            "bannerPic": "http://static.donguo.me/banner/20161027/a2d233311e4e8e17efbe6ae8ab3455c9",
+            "masterId": "57a7dd361dba92999a09f715",
+            "_id": "585cdbcafffe73995c304845",
+            "likesForThisLive": 0
+          }
+        ]
+      },
+      {
+        "_id": "57b16c68abc3059b11de766e",
+        "score": -2,
+        "courseName": "Jesclub纯美式家庭英语启蒙",
+        "shortDesc": "杰斯亲子俱乐部，汇集多国外教，为中国家庭带来动画、真人示范，以及一对一的实时辅导和监督",
+        "masterName": "Jesse妈妈",
+        "category": "英语启蒙",
+        "introPic": "http://static.donguo.me/intro/20160819/5837ccf27477379e8d565479648423a8",
+        "bannerPic": "http://static.donguo.me/banner/20161202/dfe8ee82e96348b5b16d6ef0415f1c11",
+        "price": "免费体验",
+        "originalPrice": 99,
+        "masterTitle": "杰斯英语启蒙创始人",
+        "masterId": "57a7dd361dba92999a09f715",
+        "master": {
+          "masterId": "57a7dd361dba92999a09f715",
+          "fullDesc": "外语教学硕士，出国语言培训专家，英语启蒙推广达人，有十年英文教学经验的英文电台主播，带动上千家长一起陪孩子学习英文，现专注研究如何在家做英语启蒙教育。",
+          "desc": "有着十年英文教学经验的英文电台主播",
+          "title": "杰斯英语启蒙创始人",
+          "avatar": "http://static.donguo.me/avatar/20161027/cc01e1b5288db0b08ba93cd0114eff8b",
+          "name": "Jesse妈妈"
+        },
+        "boughtCount": 0,
+        "__v": 0,
+        "detailUrl": "http://donguo.me/code_ip/course_detail.html?courseId=57b16c68abc3059b11de766e",
+        "action": "weilaidao://ip.code/course?courseId=57b16c68abc3059b11de766e",
+        "registerDDL": 1471622400000,
+        "expireDDL": 1473436800000,
+        "hasCurriculum": true,
+        "curriculumType": "video",
+        "tags": "英语启蒙",
+        "hidden": false,
+        "audience": "children",
+        "updateTime": 1483512314070,
+        "curriculum": [
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse1.mp4",
+            "poster": "http://static.donguo.me/image/ip/course/P19_1.jpg",
+            "videoLength": 117000,
+            "videoName": "Day1：A",
+            "_id": "57d769bb30d6d206506098fd",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse.mp4",
+            "poster": "http://static.donguo.me/image/ip/course/P19_2.jpg",
+            "videoLength": 116000,
+            "videoName": "Day2：B",
+            "_id": "57d769bb30d6d206506098fc",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse3.mp4",
+            "poster": "http://static.donguo.me/image/ip/course/P19_3.jpg",
+            "videoLength": 106000,
+            "videoName": "Day3：C",
+            "_id": "57d769bb30d6d206506098fb",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse4.mp4",
+            "poster": "http://static.donguo.me/image/ip/course/P19_4.jpg",
+            "videoLength": 107000,
+            "videoName": "Day4：D",
+            "_id": "57d769bb30d6d206506098fa",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse5.mp4",
+            "poster": "http://static.donguo.me/image/ip/course/P19_5.jpg",
+            "videoLength": 79000,
+            "videoName": "Day5：E",
+            "_id": "57d769bb30d6d206506098f9",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse6.mp4",
+            "poster": "http://static.donguo.me/image/ip/course/P19_6.jpg",
+            "videoLength": 78000,
+            "videoName": "Day6：F",
+            "_id": "57d769bb30d6d206506098f8",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse7.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/P19_7.jpg",
+            "videoLength": 71000,
+            "videoName": "Day7: Activity",
+            "_id": "583d3c535b3c4e7b5390828b",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse8.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/P19_8.jpg",
+            "videoLength": 81000,
+            "videoName": "Day8: G",
+            "_id": "584e5b1c103d3d4e4d9410b8",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse9.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/P19_9.jpg",
+            "videoLength": 91000,
+            "videoName": "Day9: H",
+            "_id": "585899e2f281fdfd5466580a",
+            "qSets": []
+          },
+          {
+            "type": "video",
+            "videoSrc": "http://static.donguo.me//video/ip/course/jesse10.mp4",
+            "poster": "http://static.donguo.me//image/ip/course/P19_10.jpg",
+            "videoLength": 69000,
+            "videoName": "Day10: I",
+            "_id": "586c99fa858653dd354d13e1",
+            "qSets": []
+          }
+        ],
+        "commentCount": 8,
+        "registerCount": 86,
+        "unWorthyCount": 0,
+        "worthyCount": 5,
+        "details": [
+          {
+            "imgUrl": "http://static.donguo.me/image/ip/course/C_19_2.png",
+            "type": "image",
+            "_id": "57b16c68abc3059b11de7673",
+            "goHome": true
+          },
+          {
+            "imgUrl": "http://static.donguo.me/image/ip/course/C_19_3.png",
+            "type": "image",
+            "_id": "57b16c68abc3059b11de7672"
+          },
+          {
+            "imgUrl": "http://static.donguo.me/image/20161014/a30ab50174914138d2de8f060244f9d7",
+            "type": "image",
+            "_id": "57b16c68abc3059b11de7670"
+          }
+        ],
+        "participants": [],
+        "isHit": false
+      }
+    ]
+  }
+}

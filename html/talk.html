@@ -1,0 +1,36 @@
+<link rel="stylesheet" type="text/css" href="../css/talk.css"/>
+<section>
+    <div class="meet-title">
+        <i class="iconfont backdel" ng-click="backToInt()">&#x3484;</i>
+        <i class="null"></i>
+        <i class="iconfont coment">&#xe669;</i>
+        <i class="iconfont collect">&#xe66d;</i>
+        <i class="iconfont shareit">&#xe618;</i>
+    </div>
+    <div class="article">
+        <div class="article-cont">
+            <div class="article-title" ng-bind="data.articleName"></div>
+            <div ng-repeat="item in data.items">
+                <img ng-if="item.type === 'image'" class="img" ng-show="item.type === 'image'"
+                     ng-src="{{item.imgSrc}}"
+                     style="width:100%" ng-click="goHomePage(item)" />
+                <video ng-if="item.type === 'video'" class="video" ng-show="item.type === 'video'"
+                       style="width:100%" controls="controls"
+                       preload="auto" poster="{{item.poster}}"
+                       ng-click="gaVideo()">
+                    <source ng-src="{{item.videoSrc}}" type="video/mp4"/>
+                    <poster ng-src="{{item.poster}}" />
+                </video>
+                <div id="audio-player-container" ng-if="item.type === 'audio'" class="video" ng-click="play()">
+                    <div class="articleDesc-audio">{{data.shortDesc}}</div>
+                    <audio id="js-player"></audio>
+                </div>
+                <div ng-if="item.type === 'title'" class="title-wrapper"><div class="title-text" ng-bind="item.text"></div></div>
+                <div ng-if="item.type === 'subTitle'" class="subtitle" ng-bind="item.text"></div>
+                <div ng-if="item.type === 'text'" class="text" ng-bind-html="item.text | getNewLine"></div>
+            </div>
+        </div>
+        <abouts :abouts="abouts" ng-if="h5SourceFlag"></abouts>
+
+    </div>
+</section>

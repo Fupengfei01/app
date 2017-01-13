@@ -1,0 +1,27 @@
+<link rel="stylesheet" type="text/css" href="../css/readEveryDay.css"/>
+<link rel="stylesheet" href="../src/ionic/css/ionic.min.css">
+<section>
+	<div class="title">
+		<a class="iconfont icon-llmainpageback" href="javascript:history.go(-1);"></a>
+		<h2>每日一读</h2>
+	</div>
+	<div class="talking">
+	<ion-content>
+        <ion-refresher on-refresh="doRefresh()" pulling-text="下拉刷新">
+        </ion-refresher>
+        <ion-list>
+		<div class="master-bottom" ng-repeat="read in readlist">
+			<dl ui-sref="tabs.talk({userId:lives._id})">
+				<dt>{{read.liveTopic}}</dt>
+				<dd>
+					<img ng-src="{{read.masters[0].avatar}}" alt="" />
+					<span>{{read.masters[0].name}}丨{{read.masters[0].title}}</span>
+				</dd>
+			</dl>
+			<img ng-src="{{read.introPic}}"/>
+		</div>
+		     </ion-list>
+	    </ion-content>
+	</div>
+</section>
+		
